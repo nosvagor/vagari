@@ -1,0 +1,1 @@
+# vagari.nvim

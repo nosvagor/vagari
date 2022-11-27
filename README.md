@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/github/license/nosvagor/vagari?color=bb9af7&logo=gnu&labelColor=24283b&logoColor=bb9af7&style=for-the-badge">
 </p>
 
+https://raw.githubusercontent.com/nosvagor/vagari/main/share/videos/wanderers.mp4
+
 <h6 > Inspiration:
     <a href="https://www.nordtheme.com/docs/colors-and-palettes"> 🌠 Nord</a>
     <a href="https://cocopon.github.io/iceberg.vim/"> 🧊 Iceberg </a>

@@ -1,9 +1,11 @@
-<h1 align="center"> ☄️ vagri ☄️  </h1>
-<h5 align="center"> to wander, stroll about, roam, be unsettled, spread abroad 🔭 </h5>
+<h1 align="center"> ☄️ vagri ☄️ <sub></sub></h1>
+<p align="center"> ⮯ to wander, stroll about, roam, be unsettled, spread abroad ⮭ </p>
 
 <p align="center">
     <kbd>
-        <img src="https://github.com/nosvagor/dotfiles/blob/main/resources/share/dotfiles-banner.gif?raw=true"/>
+        <img
+        alt= "Vagari Theme Inspiration: Evolution, Computation, Curiousity"
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large.png?raw=true"/>
     </kbd>
 </p>
 

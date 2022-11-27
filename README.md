@@ -3,12 +3,11 @@
     ⮩ to wander, stroll about, roam, be unsettled, spread abroad ⮯ <br>
 </p>
 
-[![Wanderers - a short film by Erik Wernquist](https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large.png?raw=true)](https://vimeo.com/108650530)
+[<p align="center" ><img src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue.png?raw=true" width="690"></p>](https://www.youtube.com/watch?v=YH3c1QZzRK4 'Wanderers: a short film by Erik Wernquist')
 
 <p align="center">
     ⮮ curiosity, computation, evolution ⮨
 </p>
-
 <p align="center">
     <img src="https://img.shields.io/github/stars/nosvagor/vagari?color=e0af68&logo=github&labelColor=24283b&logoColor=e0af68&style=for-the-badge">&nbsp;&nbsp;
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?color=b4f9f8&logoColor=b4f9f8&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"/>&nbsp;&nbsp;

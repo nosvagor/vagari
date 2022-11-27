@@ -3,15 +3,7 @@
     ⮩ to wander, stroll about, roam, be unsettled, spread abroad ⮯ <br>
 </p>
 
-<p align="center">
-    <kbd>
-        <img
-            src ="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large.png?raw=true"
-            alt = "Vagari Theme Inspiration: Evolution, Computation, Curiosity"
-            width = "690"
-        />
-    </kbd>
-</p>
+[![Wanderers - a short film by Erik Wernquist](https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large.png?raw=true)](https://vimeo.com/108650530)
 
 <p align="center">
     ⮮ curiosity, computation, evolution ⮨
@@ -23,10 +15,7 @@
     <img src="https://img.shields.io/github/forks/nosvagor/vagari?color=7aa2f7&logo=git&labelColor=24283b&logoColor=7aa2f7&style=for-the-badge">&nbsp;&nbsp;
     <img src="https://img.shields.io/github/license/nosvagor/vagari?color=bb9af7&logo=gnu&labelColor=24283b&logoColor=bb9af7&style=for-the-badge">
 </p>
-
-https://raw.githubusercontent.com/nosvagor/vagari/main/share/videos/wanderers.mp4
-
-<h6 > Inspiration:
+<h6> Inspiration:
     <a href="https://www.nordtheme.com/docs/colors-and-palettes"> 🌠 Nord</a>
     <a href="https://cocopon.github.io/iceberg.vim/"> 🧊 Iceberg </a>
 </h6>

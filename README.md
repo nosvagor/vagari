@@ -15,21 +15,49 @@
 </a>
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/nosvagor/vagari?color=e0af68&logo=github&labelColor=24283b&logoColor=e0af68&style=for-the-badge">&nbsp;&nbsp;
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?color=b4f9f8&logoColor=b4f9f8&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/forks/nosvagor/vagari?color=7aa2f7&logo=git&labelColor=24283b&logoColor=7aa2f7&style=for-the-badge">&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/license/nosvagor/vagari?color=bb9af7&logo=gnu&labelColor=24283b&logoColor=bb9af7&style=for-the-badge">
+    <img
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=e0617a&logo=github&labelColor=24283b&logoColor=e0617a&style=for-the-badge"
+        title="alright then, keep your secrets"
+    >&nbsp;&nbsp;
+    <img
+        src="https://img.shields.io/github/stars/nosvagor/vagari?color=ff9e64&logo=addthis&labelColor=24283b&logoColor=ff9e64&style=for-the-badge"
+        title="what is love, baby don't hurt me"
+    >&nbsp;&nbsp;
+    <img
+        src="https://visitor-badge-reloaded.herokuapp.com/badge?color=73daca&logoColor=73daca&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
+        title="hello there (I use arch, neovim, and rust, btw)"
+    >&nbsp;&nbsp;
+    <img
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=7aa2f7&logo=git&labelColor=24283b&logoColor=7aa2f7&style=for-the-badge"
+        title="same story, different perspective (nothing is original)"
+    >&nbsp;&nbsp;
+    <img
+        src="https://img.shields.io/github/license/nosvagor/vagari?color=997ad4&logo=gnu&labelColor=24283b&logoColor=997ad4&style=for-the-badge"
+        title="living long enough to reproduce! R_0 > 1 ? copy it : share it"
+    >
 </p>
 
 ### 💡 Inspiration
 
-&emsp;&emsp; 🥇 🢫 <a href="https://github.com/folke/tokyonight.nvim"> 🌆 Tokyo Night</a>
+<p align="center">
+&emsp;&nbsp;🥇 <a href="https://github.com/folke/tokyonight.nvim"> Tokyo Night</a> 🥇
 <br>
-&nbsp;&ensp;&emsp;&emsp;&emsp;&emsp; 🥈 🢫 <a href="https://cocopon.github.io/iceberg.vim/"> 🧊 Iceberg </a>
+<a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a> 🢢 🥈
+    <img
+        src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
+        title="alright then, keep your secrets"
+        width=128
+    >
+🥉 🢫 <a href="https://www.nordtheme.com/">Nord</a>
 <br>
-&ensp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🥉 🢫 <a href="https://www.nordtheme.com/docs/colors-and-palettes"> 🌠 Nord</a>
+&emsp;&emsp;worthy mentions ↴
 <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="https://ethanschoonover.com/solarized/">Solarized</a> and
+<a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
+</p>
 
-&emsp;&emsp;&ensp; Worthy Mentions 🢫 <a href="https://ethanschoonover.com/solarized/"> ☯️ Solarized </a>and <a href="https://github.com/morhetz/gruvbox"> 🌇 Gruvbox </a>
+<p>
+</p>
 
 ---

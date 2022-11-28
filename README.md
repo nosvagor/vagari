@@ -37,28 +37,27 @@
 </a>
 <br>
 <a href="https://github.com/nosvagor/vagari/contributors">
-&nbsp;
     <img
         src="https://img.shields.io/github/contributors/nosvagor/vagari?color=9ece6a&logo=gitea&labelColor=24283b&logoColor=9ece6a&style=for-the-badge"
         title="gotta do the cooking by the book"
     >
 </a>
-<a href="https://www.reddit.com/r/unixporn/">
 &nbsp;
+<a href="https://www.reddit.com/r/unixporn/">
     <img
         src="https://visitor-badge-reloaded.herokuapp.com/badge?color=73daca&logoColor=73daca&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
         title="hello there (I use arch, neovim, and rust, btw)"
     >
 </a>
-<a href="https://www.youtube.com/watch?v=7mlAVC1YKsc">
 &nbsp;
+<a href="https://github.com/nosvagor/vagari/network/members">
     <img
         src="https://img.shields.io/github/forks/nosvagor/vagari?color=7aa2f7&logo=git&labelColor=24283b&logoColor=7aa2f7&style=for-the-badge"
-        title="Imitation is the sincerest form of flattery that mediocrity can pay to greatness."
+        title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts."
     >
 </a>
-<a href="https://youtu.be/gxAaO2rsdIs">
 &nbsp;
+<a href="https://youtu.be/gxAaO2rsdIs">
     <img
         src="https://img.shields.io/github/license/nosvagor/vagari?color=997ad4&logo=gnu&labelColor=24283b&logoColor=997ad4&style=for-the-badge"
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
@@ -80,23 +79,27 @@
 </a>
 
 <p align="center">
-&emsp;&nbsp;<a href="https://github.com/folke/tokyonight.nvim"><strong>🥇 Tokyo Night 🥇</strong></a>
+<a href="https://github.com/folke/tokyonight.nvim"><strong>🥇 Tokyo Night 🥇</strong></a>
 <br>
-<a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a> 🥈&nbsp;
+&emsp;&ensp;<a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a> 🥈&nbsp;
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
         title="nothing is original; mutate & evolve"
         width=128
     >
-🥉 <a href="https://www.nordtheme.com/">Nord</a>
+🥉 <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 <br>
-&emsp;&emsp;&ensp;worthy mentions ↴
+&emsp;worthy mentions ↴
 <br>
-&emsp;&emsp;&emsp;&emsp;
-<a href="https://github.com/catppuccin/nvim">Catppuccin</a>,
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+<a href="https://www.nordtheme.com/">Nord</a>,
 <a href="https://ethanschoonover.com/solarized/">Solarized</a>, and
 <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
 </p>
+
+<br>
+
+## 🢣 Philosophy
 
 <br>
 

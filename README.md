@@ -16,7 +16,7 @@
 
 <p align="center">
     <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=e0617a&logo=github&labelColor=24283b&logoColor=e0617a&style=for-the-badge"
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=e0617a&logo=github&labelColor=24283b&logoColor=e0617a&style=for-the-badge"
         title="alright then, keep your secrets"
     >&nbsp;&nbsp;
     <img
@@ -37,9 +37,7 @@
     >
 </p>
 
----
-
-### Inspiration 🢣
+## 🢣 Inspiration
 
 <a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
     <img
@@ -73,4 +71,6 @@
 
 <br>
 
----
+## 🢣 Pallete
+
+## 🢣 Gallery

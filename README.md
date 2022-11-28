@@ -33,7 +33,7 @@
     >&nbsp;&nbsp;
     <img
         src="https://img.shields.io/github/license/nosvagor/vagari?color=997ad4&logo=gnu&labelColor=24283b&logoColor=997ad4&style=for-the-badge"
-        title="living long enough to reproduce! R_0 > 1 ? copy it : share it"
+        title="living long enough to reproduce! R_0 > 1 ? share it : change it"
     >
 </p>
 
@@ -54,15 +54,15 @@
 </a>
 
 <p align="center">
-&emsp;&emsp;&ensp;<a href="https://github.com/folke/tokyonight.nvim"><strong><big><big>🥇 Tokyo Night 🥇</big></big></strong></a>
+&emsp;&nbsp;<a href="https://github.com/folke/tokyonight.nvim"><strong>🥇 Tokyo Night 🥇</strong></a>
 <br>
-<a href="https://cocopon.github.ior/iceberg.vim/"><big>Iceberg 🥈&nbsp;</big></a>
+<a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a> 🥈&nbsp;
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
-        title="alright then, keep your secrets"
+        title="nothing is original; mutate & evolve"
         width=128
     >
-<small><a href="https://www.nordtheme.com/">&nbsp;🥉Nord</a></small>
+🥉 <a href="https://www.nordtheme.com/">Nord</a>
 <br>
 &emsp;&emsp;worthy mentions ↴
 <br>

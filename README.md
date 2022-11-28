@@ -1,12 +1,11 @@
-<h1 align="center"> ☄️ vagri ☄️ </h1>
+<h1 align="center"> ☄️ vagari ☄️ </h1>
 
 <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">
     <p align="center" >
         ⮩ to wander, stroll about, roam, be unsettled, spread abroad ⮯
-        <br>
         <img
-            src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue.png?raw=true"
-            width="690"
+            src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue-decor.png?raw=true"
+            width="100%"
             alt="Wanderers: a short film by Erik Wernquist"
             title="Wanderers: a short film by Erik Wernquist"
         >
@@ -22,14 +21,15 @@
     <img src="https://img.shields.io/github/license/nosvagor/vagari?color=bb9af7&logo=gnu&labelColor=24283b&logoColor=bb9af7&style=for-the-badge">
 </p>
 
-#### Inspiration
+### 💡 Inspiration
 
-&emsp;&emsp; 🢫 <a href="https://github.com/enkia/tokyo-night-vscode-theme"> 🌆 Tokyo Night</a>
+&emsp;&emsp; 🥇 🢫 <a href="https://github.com/folke/tokyonight.nvim"> 🌆 Tokyo Night</a>
 <br>
-&emsp;&emsp; 🢫 <a href="https://cocopon.github.io/iceberg.vim/"> 🧊 Iceberg </a>
+&nbsp;&ensp;&emsp;&emsp;&emsp;&emsp; 🥈 🢫 <a href="https://cocopon.github.io/iceberg.vim/"> 🧊 Iceberg </a>
 <br>
-&emsp;&emsp; 🢫 <a href="https://www.nordtheme.com/docs/colors-and-palettes"> 🌠 Nord</a>
+&ensp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🥉 🢫 <a href="https://www.nordtheme.com/docs/colors-and-palettes"> 🌠 Nord</a>
 <br>
-&emsp;&emsp; 🢫 <a href="https://ethanschoonover.com/solarized/"> ☯️ Solarized </a>
+
+&emsp;&emsp;&ensp; Worthy Mentions 🢫 <a href="https://ethanschoonover.com/solarized/"> ☯️ Solarized </a>and <a href="https://github.com/morhetz/gruvbox"> 🌇 Gruvbox </a>
 
 ---

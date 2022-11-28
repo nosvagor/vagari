@@ -15,25 +15,53 @@
 </a>
 
 <p align="center">
+<a href="https://github.com/nosvagor/vagari/issues">
     <img
-        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=e0617a&logo=github&labelColor=24283b&logoColor=e0617a&style=for-the-badge"
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=e0617a&logo=fireship&labelColor=24283b&logoColor=e0617a&style=for-the-badge"
+        title="this is not fine!!"
+    >
+</a>
+&nbsp;
+<a href="https://github.com/nosvagor/vagari/discussions">
+    <img
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=ff9e64&logo=github&labelColor=24283b&logoColor=ff9e64&style=for-the-badge"
         title="alright then, keep your secrets"
-    >&nbsp;&nbsp;
+    >
+</a>
+&nbsp;
+<a href="https://github.com/nosvagor/vagari/stargazers">
     <img
-        src="https://img.shields.io/github/stars/nosvagor/vagari?color=ff9e64&logo=addthis&labelColor=24283b&logoColor=ff9e64&style=for-the-badge"
+        src="https://img.shields.io/github/stars/nosvagor/vagari?color=f5ce73&logo=apachespark&labelColor=24283b&logoColor=f5ce73&style=for-the-badge"
         title="what is love, baby don't hurt me"
-    >&nbsp;&nbsp;
+    >
+</a>
+<br>
+<a href="https://github.com/nosvagor/vagari/contributors">
+&nbsp;
+    <img
+        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=9ece6a&logo=gitea&labelColor=24283b&logoColor=9ece6a&style=for-the-badge"
+        title="gotta do the cooking by the book"
+    >
+</a>
+<a href="https://www.reddit.com/r/unixporn/">
+&nbsp;
     <img
         src="https://visitor-badge-reloaded.herokuapp.com/badge?color=73daca&logoColor=73daca&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
         title="hello there (I use arch, neovim, and rust, btw)"
-    >&nbsp;&nbsp;
+    >
+</a>
+<a href="https://www.youtube.com/watch?v=7mlAVC1YKsc">
+&nbsp;
     <img
         src="https://img.shields.io/github/forks/nosvagor/vagari?color=7aa2f7&logo=git&labelColor=24283b&logoColor=7aa2f7&style=for-the-badge"
-        title="same story, different perspective (nothing is original)"
-    >&nbsp;&nbsp;
+        title="Imitation is the sincerest form of flattery that mediocrity can pay to greatness."
+    >
+</a>
+<a href="https://youtu.be/gxAaO2rsdIs">
+&nbsp;
     <img
         src="https://img.shields.io/github/license/nosvagor/vagari?color=997ad4&logo=gnu&labelColor=24283b&logoColor=997ad4&style=for-the-badge"
-        title="living long enough to reproduce! R_0 > 1 ? share it : change it"
+        title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
 </p>
 
@@ -62,15 +90,18 @@
     >
 🥉 <a href="https://www.nordtheme.com/">Nord</a>
 <br>
-&emsp;&emsp;worthy mentions ↴
+&emsp;&emsp;&ensp;worthy mentions ↴
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<a href="https://ethanschoonover.com/solarized/">Solarized</a> and
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://github.com/catppuccin/nvim">Catppuccin</a>,
+<a href="https://ethanschoonover.com/solarized/">Solarized</a>, and
 <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
 </p>
 
 <br>
 
 ## 🢣 Pallete
+
+<br>
 
 ## 🢣 Gallery

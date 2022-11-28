@@ -37,18 +37,32 @@
     >
 </p>
 
-### 💡 Inspiration
+---
+
+### Inspiration 🢣
+
+<a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
+    <img
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/dystopia-utopia-decor.png?raw=true"
+        width="360"
+        height="220"
+        alt="Never draw (create, build, code) from imagination"
+        title="Never draw (create, build, code) from imagination"
+        align="right"
+    >
+    <br>
+</a>
 
 <p align="center">
-&emsp;&nbsp;🥇 <a href="https://github.com/folke/tokyonight.nvim"> Tokyo Night</a> 🥇
+&emsp;&emsp;&ensp;<a href="https://github.com/folke/tokyonight.nvim"><strong><big><big>🥇 Tokyo Night 🥇</big></big></strong></a>
 <br>
-<a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a> 🢢 🥈
+<a href="https://cocopon.github.ior/iceberg.vim/"><big>Iceberg 🥈&nbsp;</big></a>
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
         title="alright then, keep your secrets"
         width=128
     >
-🥉 🢫 <a href="https://www.nordtheme.com/">Nord</a>
+<small><a href="https://www.nordtheme.com/">&nbsp;🥉Nord</a></small>
 <br>
 &emsp;&emsp;worthy mentions ↴
 <br>
@@ -57,7 +71,6 @@
 <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
 </p>
 
-<p>
-</p>
+<br>
 
 ---

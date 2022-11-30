@@ -53,7 +53,7 @@
 &nbsp;
 <a href="https://www.youtube.com/watch?v=SsiBHDEFu10">
     <img
-        src="https://img.shields.io/github/watchers/nosvagor/vagari?color=86caf6&logo=git&labelColor=24283b&logoColor=86caf6&style=for-the-badge"
+        src="https://img.shields.io/github/watchers/nosvagor/vagari?color=86caf6&logo=apachecassandra&labelColor=24283b&logoColor=86caf6&style=for-the-badge"
         title="Hmmmmm..."
     >
 </a>
@@ -74,7 +74,7 @@
 <a href="">
     <img
         src="https://img.shields.io/github/sponsors/nosvagor?color=f896d6&logo=githubsponsors&labelColor=24283b&logoColor=f896d6&style=for-the-badge"
-        title="cullyn.eth"
+        title="ETH or DAI 🢣 cullyn.eth"
     >
 </p>
 
@@ -93,19 +93,19 @@
 </a>
 
 <p align="center">
-<a href="https://github.com/folke/tokyonight.nvim"><strong>🥇 Tokyo Night 🥇</strong></a>
+&emsp;&emsp;&ensp;&emsp;<a href="https://github.com/folke/tokyonight.nvim"><strong>🥇 Tokyo Night 🥇</strong></a>
 <br>
-&emsp;&ensp;<a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a> 🥈&nbsp;
+&emsp;&ensp;<a href="https://github.com/catppuccin/catppuccin">Catppuccin</a> 🥈&nbsp;
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
         title="nothing is original; mutate & evolve"
         width=128
     >
-🥉 <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
+🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
 <br>
-&emsp;worthy mentions ↴
+&emsp;&emsp;&ensp;&emsp;worthy mentions ↴
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
 <a href="https://www.nordtheme.com/">Nord</a>,
 <a href="https://ethanschoonover.com/solarized/">Solarized</a>, and
 <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
@@ -113,15 +113,72 @@
 
 <br>
 
+## 🢣 Pallet
+
+#### Neutral
+
+<table>
+    <tr>
+        <th> HSV </th>
+        <th> Color </th>
+        <th> Hex </th>
+    </tr>
+    <tr>
+        <td valign="center">354° 52% 97%</td>
+        <td valign="center"><img src="https://place-hold.it/64/24283b/24283b/24283b?text=red" alt="#24283b"></td>
+        <td valign="center">#24283b</td>
+    </tr>
+    <tr>
+        <td valign="center"></td>
+        <td valign="center"></td>
+        <td valign="center"></td>
+    </tr>
+    <tr>
+        <td valign="center"></td>
+        <td valign="center"></td>
+        <td valign="center"></td>
+    </tr>
+    <tr>
+        <td valign="center"></td>
+        <td valign="center"></td>
+        <td valign="center"></td>
+    </tr>
+    <tr>
+        <td valign="center"></td>
+        <td valign="center"></td>
+        <td valign="center"></td>
+    </tr>
+    <tr>
+        <td valign="center"></td>
+        <td valign="center"></td>
+        <td valign="center"></td>
+    </tr>
+
+</table>
+
+#### Core
+
+|    HSV    | Color        | HSL      |
+| :-------: | ------------ | -------- |
+| `#f7768e` | ![#f7768e]() | `f7768e` |
+
+#### Signal
+
+|    HSV    | Color                                                              | HSL      |
+| :-------: | ------------------------------------------------------------------ | -------- |
+| `#f7768e` | ![#f7768e](https://place-hold.it/36/f7768e/f7768e/f7768e?text=red) | `f7768e` |
+
+<br>
+
 ## 🢣 Philosophy
 
 <br>
 
-## 🢣 Pallete
+## 🢣 Gallery
 
 <br>
 
-## 🢣 Gallery
+## 🢣 Ports
 
 <br>
 

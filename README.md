@@ -115,6 +115,14 @@
 
 ## 🢣 Pallet
 
+<p align="center">
+    <img
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack.svg?raw=true"
+        title="v1"
+        width=500
+    >
+</p>
+
 #### Neutral
 
 <table>
@@ -153,20 +161,7 @@
         <td valign="center"></td>
         <td valign="center"></td>
     </tr>
-
 </table>
-
-#### Core
-
-|    HSV    | Color        | HSL      |
-| :-------: | ------------ | -------- |
-| `#f7768e` | ![#f7768e]() | `f7768e` |
-
-#### Signal
-
-|    HSV    | Color                                                              | HSL      |
-| :-------: | ------------------------------------------------------------------ | -------- |
-| `#f7768e` | ![#f7768e](https://place-hold.it/36/f7768e/f7768e/f7768e?text=red) | `f7768e` |
 
 <br>
 

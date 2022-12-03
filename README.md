@@ -119,7 +119,7 @@
 <p align="center">
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v2.svg?raw=true"
-        title="v1"
+        title="vagari color pallete"
         width="100%"
     >
 </p>

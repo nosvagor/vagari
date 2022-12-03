@@ -47,6 +47,7 @@
 <a href="https://www.reddit.com/r/unixporn/">
     <img
         src="https://visitor-badge-reloaded.herokuapp.com/badge?color=73daca&logoColor=73daca&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
+        alt="visitor count 💀"
         title="hello there (I use arch, neovim, and rust, btw)"
     >
 </a>

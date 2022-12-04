@@ -126,41 +126,24 @@
 
 #### Neutral
 
-<table>
+<table align="center">
     <tr>
+        <th> HSV </th>
+        <th> Color </th>
+        <th> Hex </th>
+        <th> </th>
         <th> HSV </th>
         <th> Color </th>
         <th> Hex </th>
     </tr>
     <tr>
-        <td valign="center">354° 52% 97%</td>
-        <td valign="center"><img src="https://place-hold.it/64/24283b/24283b/24283b?text=red" alt="#24283b"></td>
-        <td valign="center">#24283b</td>
-    </tr>
-    <tr>
-        <td valign="center"></td>
-        <td valign="center"></td>
-        <td valign="center"></td>
-    </tr>
-    <tr>
-        <td valign="center"></td>
-        <td valign="center"></td>
-        <td valign="center"></td>
-    </tr>
-    <tr>
-        <td valign="center"></td>
-        <td valign="center"></td>
-        <td valign="center"></td>
-    </tr>
-    <tr>
-        <td valign="center"></td>
-        <td valign="center"></td>
-        <td valign="center"></td>
-    </tr>
-    <tr>
-        <td valign="center"></td>
-        <td valign="center"></td>
-        <td valign="center"></td>
+        <td valign="center">231° 37% 21%</td>
+        <td valign="center"><img src="https://place-hold.it/64/222536/d1d6ed&text=bg&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">#222536</td>
+        <td></td>
+        <td valign="center">229° 12% 93%</td>
+        <td valign="center"><img src="https://place-hold.it/64/d1d6ed/222536&text=fg&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">#d6d6ed</td>
     </tr>
 </table>
 

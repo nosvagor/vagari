@@ -131,19 +131,37 @@
         <th> HSV </th>
         <th> Color </th>
         <th> Hex </th>
-        <th> </th>
-        <th> HSV </th>
-        <th> Color </th>
+        <th> 🪞</th>
         <th> Hex </th>
+        <th> Color </th>
+        <th> HSV </th>
     </tr>
     <tr>
-        <td valign="center">231° 37% 21%</td>
-        <td valign="center"><img src="https://place-hold.it/64/222536/d1d6ed&text=bg&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">231° 37 21</td>
+        <td valign="center"><img src="https://place-hold.it/64/222536/b4bcdb&text=base&bold&fontsize=14" alt="#24283b"></td>
         <td valign="center">#222536</td>
         <td></td>
-        <td valign="center">229° 12% 93%</td>
-        <td valign="center"><img src="https://place-hold.it/64/d1d6ed/222536&text=fg&bold&fontsize=14" alt="#24283b"></td>
-        <td valign="center">#d6d6ed</td>
+        <td valign="center">#b4bcdb</td>
+        <td valign="center"><img src="https://place-hold.it/64/b4bcdb/222536&text=top&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">228° 18 86</td>
+    </tr>
+    <tr>
+        <td valign="center">233° 42 16</td>
+        <td valign="center"><img src="https://place-hold.it/64/171928/b4bcdb&text=base&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">#171928</td>
+        <td></td>
+        <td valign="center">#ccd1e8</td>
+        <td valign="center"><img src="https://place-hold.it/64/ccd1e8/171928&text=top&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">229° 12 91</td>
+    </tr>
+    <tr>
+        <td valign="center">235° 39 11</td>
+        <td valign="center"><img src="https://place-hold.it/64/11121c/e6e8f5&text=base&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">#11121c</td>
+        <td></td>
+        <td valign="center">#e7e9f5</td>
+        <td valign="center"><img src="https://place-hold.it/64/e7e9f5/11121c&text=top&bold&fontsize=14" alt="#24283b"></td>
+        <td valign="center">231° 6 96</td>
     </tr>
 </table>
 

@@ -124,7 +124,7 @@
     >
 </p>
 
-#### Neutral
+<h4 align="center">Base</h4>
 
 <table align="center">
     <tr>
@@ -138,30 +138,60 @@
     </tr>
     <tr align="center">
         <td>231 37 21</td>
-        <td><img src="https://place-hold.it/64/222536/b4bcdb&text=bg&bold&fontsize=14"</td>
         <td>#222536</td>
+        <td><img src="https://place-hold.it/64/222536/b4bcdb&text=bg&bold&fontsize=14"</td>
         <td> ⇋ </td>
-        <td>#b4bcdb</td>
         <td><img src="https://place-hold.it/64/b4bcdb/222536&text=fg&bold&fontsize=14"</td>
+        <td>#b4bcdb</td>
         <td>228 18 86</td>
     </tr>
     <tr align="center">
         <td>233 42 16</td>
-        <td><img src="https://place-hold.it/64/171928/ccd1e8&text=bg1&bold&fontsize=14"></td>
         <td>#171928</td>
+        <td><img src="https://place-hold.it/64/171928/ccd1e8&text=bg1&bold&fontsize=14"></td>
         <td> ⇋ </td>
-        <td>#ccd1e8</td>
         <td><img src="https://place-hold.it/64/ccd1e8/171928&text=fg1&bold&fontsize=14"></td>
+        <td>#ccd1e8</td>
         <td>229 12 91</td>
     </tr>
     <tr align="center">
         <td>235 39 11</td>
-        <td><img src="https://place-hold.it/64/11121c/e7e9f5&text=bg2&bold&fontsize=14"></td>
         <td>#11121c</td>
+        <td><img src="https://place-hold.it/64/11121c/e7e9f5&text=bg2&bold&fontsize=14"></td>
         <td> ⇋ </td>
-        <td>#e7e9f5</td>
         <td><img src="https://place-hold.it/64/e7e9f5/11121c&text=fg2&bold&fontsize=14"></td>
+        <td>#e7e9f5</td>
         <td>231 06 96</td>
+    </tr>
+</table>
+
+<h4 align="center">Neutral</h4>
+
+<table align="center">
+    <tr>
+        <th> Color </th>
+        <th> Hex </th>
+        <th> HSV </th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/434a6b/b4bcdb&text=bgrey&bold&fontsize=14"</td>
+        <td>#434a6b</td>
+        <td>230 37 42</td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/586086/b4bcdb&text=bgray&bold&fontsize=14"</td>
+        <td>#586086</td>
+        <td>229 34 52</td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/6d779e/222536&text=fgray&bold&fontsize=14"</td>
+        <td>#6d779e</td>
+        <td>228 31 62</td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/848fb8/222536&text=fgrey&bold&fontsize=14"</td>
+        <td>#848fb8</td>
+        <td>227 28 72</td>
     </tr>
 </table>
 

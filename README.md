@@ -281,9 +281,10 @@
 
 ## 🢣 Gratitude
 
-[Refactoring UI](https://www.refactoringui.com)
+###### Resources
 
-[The Practice](https://a.co/d/35U9K5l)
+###### Books
 
-<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01HNJIJ58&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_3SFC6RZQY05P12KFPD59" ></iframe>
-<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B088QLT891&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_A7ZY0JE49N2QDTKH8YWN" ></iframe>
+- [Refactoring UI, by Adam Wathan & Steve Schoger](https://www.refactoringui.com)
+- [The Practice, by Seth Godin](https://a.co/d/35U9K5l)
+- [Hit Makers, by Derek Thompson](https://a.co/d/aae5wlc)

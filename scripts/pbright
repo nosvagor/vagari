@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+hex="${1//#/}"
+r=$(( 0x${hex:0:2} ))
+g=$(( 0x${hex:2:2} ))
+b=$(( 0x${hex:4:2} ))
+
+Y=$(echo "(0.299 * $r^2 + 0.587 * $g^2 + 0.114 * $b^2) / 255" | bc -l)
+Z=$(echo "scale=2; ($Y/255) * 100" | bc -l)
+
+echo "hex: #$hex"
+echo "rgb: $r $g $b"
+echo "perceived brightness: ${Z:0:2}%"

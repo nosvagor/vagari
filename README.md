@@ -15,38 +15,32 @@
 <p align="center">
 <a href="https://github.com/nosvagor/vagari/issues">
     <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f56079&logo=fireship&labelColor=24283b&logoColor=f56079&style=for-the-badge"
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f57389&logo=fireship&labelColor=24283b&logoColor=f57389&style=for-the-badge"
         title="this is not fine!!"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/discussions">
     <img
-        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=f59260&logo=github&labelColor=24283b&logoColor=f59260&style=for-the-badge"
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=f59f73&logo=github&labelColor=24283b&logoColor=f59f73&style=for-the-badge"
         title="alright then, keep your secrets"
     >
 </a>
 &nbsp;
-<a href="https://github.com/nosvagor/vagari/stargazers">
-    <img
-        src="https://img.shields.io/github/stars/nosvagor/vagari?color=ffe478&logo=apachespark&labelColor=24283b&logoColor=ffe478&style=for-the-badge"
-        title="what is love, baby don't hurt me"
-    >
-</a>
-&nbsp;
-<a href="">
-    <img
-        src="https://img.shields.io/github/sponsors/nosvagor?color=f896d6&logo=githubsponsors&labelColor=24283b&logoColor=f896d6&style=for-the-badge"
-        title="ETH or DAI 🢣 cullyn.eth"
-    >
-&nbsp;
+<!-- <a href=""> -->
+<!--     <img -->
+<!--         src="https://img.shields.io/github/sponsors/nosvagor?color=f896d6&logo=githubsponsors&labelColor=24283b&logoColor=f896d6&style=for-the-badge" -->
+<!--         title="Are you watching closely?" -->
+<!--     > -->
+<!-- &nbsp; -->
 <a href="https://github.com/nosvagor/vagari/contributors">
     <img
-        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=a5ff78&logo=gitea&labelColor=24283b&logoColor=a5ff78&style=for-the-badge"
+        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=9ff573&logo=gitea&labelColor=24283b&logoColor=9ff573&style=for-the-badge"
         title="gotta do the cooking by the book"
     >
 </a>
 &nbsp;
+<br>
 <a href="https://www.reddit.com/r/unixporn/">
     <img
         src="https://vbr.wocr.tk/badge?color=73f5df&logoColor=73f5df&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
@@ -57,21 +51,14 @@
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/network/members">
     <img
-        src="https://img.shields.io/github/forks/nosvagor/vagari?color=6986f5&logo=git&labelColor=24283b&logoColor=6986f5&style=for-the-badge"
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=738ef5&logo=git&labelColor=24283b&logoColor=738ef5&style=for-the-badge"
         title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts."
-    >
-</a>
-&nbsp;
-<a href="https://www.youtube.com/watch?v=SsiBHDEFu10">
-    <img
-        src="https://img.shields.io/github/watchers/nosvagor/vagari?color=60c3f5&logo=apachecassandra&labelColor=24283b&logoColor=60c3f5&style=for-the-badge"
-        title="Hmmmmm..."
     >
 </a>
 &nbsp;
 <a href="https://youtu.be/gxAaO2rsdIs">
     <img
-        src="https://img.shields.io/github/license/nosvagor/vagari?color=a578ff&logo=gnu&labelColor=24283b&logoColor=a578ff&style=for-the-badge"
+        src="https://img.shields.io/github/license/nosvagor/vagari?color=9e73f5&logo=gnu&labelColor=24283b&logoColor=9e73f5&style=for-the-badge"
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
 </p>
@@ -107,6 +94,24 @@
 <a href="https://www.nordtheme.com/">Nord</a>,
 <a href="https://ethanschoonover.com/solarized/">Solarized</a>, and
 <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/nosvagor/vagari/stargazers">
+    <img
+        src="https://img.shields.io/github/stars/nosvagor/vagari?color=f5bd73&logo=apachespark&labelColor=24283b&logoColor=f5bd73&style=for-the-badge"
+        title="what is love, baby don't hurt me"
+    >
+</a>
+&nbsp;
+<a href="">
+    <img
+        src="https://img.shields.io/github/sponsors/nosvagor?color=f573d5&logo=githubsponsors&labelColor=24283b&logoColor=f573d5&style=for-the-badge"
+        title="ETH or DAI 🢣 cullyn.eth"
+    >
+</a>
 </p>
 
 <br>

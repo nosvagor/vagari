@@ -114,8 +114,6 @@
 </a>
 </p>
 
-<br>
-
 ## 🢣 Pallet
 
 <p align="center">
@@ -197,28 +195,76 @@
     </tr>
 </table>
 
-<h4 align="center">Colors</h4>
+<h4 align="center">Communicative Colors</h4>
 
 <table align="center">
     <tr>
         <th> HSV </th>
         <th> Color </th>
         <th> Hex </th>
-        <th> ☮️ </th>
-        <th> Hex </th>
+    </tr>
+    <tr>
+        <td>260 53 96</td>
+        <td><img src="https://place-hold.it/64/9e73f5/7d38eb&text=purple&bold&fontsize=14"</td>
+        <td> #9e73f5 </td>
+    </tr>
+    <tr align="center">
+        <td>228 53 96</td>
+        <td><img src="https://place-hold.it/64/738ef5/3853eb&text=blue&bold&fontsize=14"</td>
+        <td>#738ef5</td>
+    </tr>
+    <tr align="center">
+        <td>200 53 96</td>
+        <td><img src="https://place-hold.it/64/73caf5/38a6eb&text=azure&bold&fontsize=14"</td>
+        <td>#73caf5</td>
+    </tr>
+    <tr align="center">
+        <td>170 53 96</td>
+        <td><img src="https://place-hold.it/64/73f5df/38ebc5&text=cyan&bold&fontsize=14"</td>
+        <td>#73f5df</td>
+    </tr>
+    <tr align="center">
+        <td>135 53 96</td>
+        <td><img src="https://place-hold.it/64/73f593/38eb5c&text=lime&bold&fontsize=14"</td>
+        <td>#73f593</td>
+    </tr>
+    <tr align="center">
+        <td>100 53 96</td>
+        <td><img src="https://place-hold.it/64/9ff573/6aeb38&text=green&bold&fontsize=14"</td>
+        <td>#9ff573</td>
+    </tr>
+</table>
+
+<h4 align="center"> Signaling Colors</h4>
+<table align="center">
+    <tr>
         <th> Color </th>
+        <th> Hex </th>
         <th> HSV </th>
     </tr>
     <tr align="center">
-        <td>170 61 96</td>
-        <td><img src="https://place-hold.it/64/60f5dc/222536&text=cyan&bold&fontsize=14"</td>
-        <td>#60f5dc</td>
-        <td>  </td>
-        <td> #f56079 </td>
-        <td><img src="https://place-hold.it/64/f56079/222536&text=red&bold&fontsize=14"</td>
-        <td>350 61 96</td>
+        <td>48 53 96</td>
+        <td><img src="https://place-hold.it/64/f5db73/ebbd38&text=yellow&bold&fontsize=14"</td>
+        <td> #f5db73 </td>
     </tr>
+    <tr align="center">
+        <td>20 53 96</td>
+        <td><img src="https://place-hold.it/64/f59f73/eb6b38&text=orange&bold&fontsize=14"</td>
+        <td> #f59f73 </td>
+    </tr>
+    <tr align="center">
+        <td>350 53 96</td>
+        <td><img src="https://place-hold.it/64/f57389/eb384d&text=red&bold&fontsize=14"</td>
+        <td> #f57389 </td>
+    </tr>
+    <tr align="center">
+        <td>315 53 96</td>
+        <td><img src="https://place-hold.it/64/f573d5/eb38bd&text=pink&bold&fontsize=14"</td>
+        <td> #f573d5 </td>
+    </tr>
+    <tr align="center">
 </table>
+
 <br>
 
 ## 🢣 Philosophy

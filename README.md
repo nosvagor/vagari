@@ -219,22 +219,23 @@
 
 ###### Books ⮯
 
-- [Refactoring UI, by Adam Wathan & Steve Schoger](https://www.refactoringui.com)
-- [The Practice, by Seth Godin](https://a.co/d/35U9K5l)
-- [Hit Makers, by Derek Thompson](https://a.co/d/aae5wlc)
-- [Escape Into Meaning, by Evan Puschak](https://a.co/d/9ofE8Zz)
+- [Refactoring UI](https://www.refactoringui.com), by Adam Wathan & Steve Schoger
+- [The Practice](https://a.co/d/35U9K5l), by Seth Godin
+- [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
+- [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
 
 ###### Resources ⮯
 
-- [Encycolorpedia](https://encycolorpedia.com/)
-- [Contrast Ratio Between Colors (and Relative Luminance)](https://contrast-ratio.com/)
-- [ChatGPT3 (For the times they are a-changin')](https://chat.openai.com/chat)
-- [Five Factors that Guide attention in Visual Search (Review Article)](https://doi.org/10.1038/s41562-017-0058)
+- [Encycolorpedia](https://encycolorpedia.com/) (color facts 'n stuff)
+- [Contrast Ratio Between Colors](https://contrast-ratio.com/) (and relative luminance)
+- [ChatGPT3](https://chat.openai.com/chat) (for the times they are a-changin')
+- [Dream Studio](https://beta.dreamstudio.ai/dream) (stable diffusion art generator)
+- [Five Factors that Guide attention in Visual Search](https://doi.org/10.1038/s41562-017-0058) (review article)
 
 ###### Videos ⮯
 
-- [Wanderers: a Short film by Erik Wernquist](https://youtu.be/YH3c1QZzRK4)
-- [Awakening from the Meaning Crisis (Series), by John Vervaeke](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-- [Ethan Becker (Hot Takes)](https://www.youtube.com/@EthanBecker70)
-- [ThePrimeagen (Hot Takes)](https://www.youtube.com/@ThePrimeagen)
-- [Theo &ndash; ping.gg (Hot Takes)](https://www.youtube.com/@t3dotgg)
+- [Wanderers](https://youtu.be/YH3c1QZzRK4) a short film by Erik Wernquist
+- [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) (series), by John Vervaeke
+- Hot takes, and good content:
+  - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen), [Theo](https://www.youtube.com/@t3dotgg), [Ethan Becker](https://www.youtube.com/@EthanBecker70)
+- [Seven Secrets](https://www.youtube.com/watch?v=dQw4w9WgXcQ), a set of unique persepctives on design

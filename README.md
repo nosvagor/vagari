@@ -205,33 +205,46 @@
 
 ## 🢣 Philosophy
 
-- **Manifest Meaning**, i.e., wherever possible, inject genre,
-  inspiration, or any prior ideas that formed taste.
-  - [Quantum Chromodynamics &ndash; What Makes the Strong Force Strong?](https://youtu.be/y1px8hBl7zg?t=787)
-    - The video that finally catalyized the creating of _vagari_.
-  - [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-    - A wonderful series created by John Vervaeke that continued drive me to
-      publish _vagari_, and essentially covers the entire field of philosophy.
-- [Arrival: A Response To Bad
-  Movies](https://youtu.be/z18LY6NME1s)
-  - My awawkening to importance of linguistics, story, and ulitmiately, most things I care about today.
-  - More on lilm, or rather, exploration of inguistics via film:
-    - [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (and the imporance of ...)
-    - [Hitchcock and the Language of Cinema](https://youtu.be/W_JPD8B_0Lc) (Silence)
-    - [How Studio Ghibli Makes Animation Feel Alive](https://youtu.be/jM6PPxN1xas) (Sound)
-    - [The Soul of Good Character Design](https://youtu.be/SM3IQFgP-d8) (Desire)
-    - [Every Face Tells A Story](https://youtu.be/FK1trQBa_2g) (Emotion)
-    - [Akira Kurosawa &ndash; Composing Movement](https://youtu.be/doaQC-S8de8) (Motion)
-    - [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectations)
-    - [Tenet &ndash; A Misunderstood Masterpiece](https://youtu.be/0OoLokmqo0A) (Structure)
-    - [Edgar Wright &ndash; How to Do Visual Comedy](https://youtu.be/3FOzD4Sfgag) (Creavity)
-    - [The Role in Filmmaking No One Talks About](https://youtu.be/MhFO4LJdwx0) (Detail)
-    - [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Editing)
+#### Manifest Meaning
+
+🢣 i.e., wherever possible, inject genre, inspiration, or any prior ideas that formed taste. ⮯
+<a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
+<img
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/arrival.png?raw=true"
+        width="42%"
+        align="right"
+    >
+<br>
+</a>
+
+[Quantum Chromodynamics &ndash; What Makes the Strong Force Strong?](https://youtu.be/y1px8hBl7zg?t=787)
+<br>The video that finally catalyzed the creating of _vagari_.
+
+[Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
+<br>A wonderful series created by John Vervaeke that continued drive me to publish _vagari_, and essentially covers the entire field of philosophy.
+
+[Arrival: A Response To Bad Movies](https://youtu.be/z18LY6NME1s)
+<br>My awakening to importance of linguistics, story, and ultimately, most things I care about today.
+
+More on film, or rather, exploration of linguistics via film:
+
+- [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (and the imporance of ...)
+- [Hitchcock and the Language of Cinema](https://youtu.be/W_JPD8B_0Lc) (Silence)
+- [How Studio Ghibli Makes Animation Feel Alive](https://youtu.be/jM6PPxN1xas) (Sound)
+- [The Soul of Good Character Design](https://youtu.be/SM3IQFgP-d8) (Desire)
+- [Every Face Tells A Story](https://youtu.be/FK1trQBa_2g) (Emotion)
+- [Akira Kurosawa &ndash; Composing Movement](https://youtu.be/doaQC-S8de8) (Motion)
+- [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectations)
+- [Tenet &ndash; A Misunderstood Masterpiece](https://youtu.be/0OoLokmqo0A) (Structure)
+- [Edgar Wright &ndash; How to Do Visual Comedy](https://youtu.be/3FOzD4Sfgag) (Creavity)
+- [The Role in Filmmaking No One Talks About](https://youtu.be/MhFO4LJdwx0) (Detail)
+- [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Editing)
 
 <br>
 
-- **Color as a Language**, i.e., a system of communication that has evolved
-  amoung designers.
+#### Color as a Language
+
+🢣 i.e., acknowledge that color (design itself) is a system of communication that has evolved among designers.
 
 <br>
 
@@ -263,7 +276,7 @@
 - [ChatGPT3](https://chat.openai.com/chat) (for the times they are a-changin')
 - [Dream Studio](https://beta.dreamstudio.ai/dream) (stable diffusion art generator)
 - [Five Factors that Guide attention in Visual Search](https://doi.org/10.1038/s41562-017-0058) (review article)
-- [Seven Secrets](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (a set of unique persepctives on design)
+- [Seven Secrets](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (a set of unique perspectives on design)
 
 <!-- ###### Videos ⮯ -->
 <!---->

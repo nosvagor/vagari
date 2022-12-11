@@ -207,28 +207,32 @@
 
 #### Manifest Meaning
 
-🢣 i.e., wherever possible, inject genre, inspiration, or any prior ideas that formed taste. ⮯
+⮩ i.e., wherever possible, inject genre, inspiration, or any relationship of signficiance ⮯
 <a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
 <img
         src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/arrival-large-decor.png?raw=true"
-        width="42%"
+        width="34%"
         align="right"
     >
 <br>
 </a>
 
 [Quantum Chromodynamics &ndash; What Makes the Strong Force Strong?](https://youtu.be/y1px8hBl7zg?t=787)
-<br>The video that finally catalyzed the creating of _vagari_.
+<br>The video that finally catalyzed the creation of _vagari_.
 
 [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-<br>A wonderful series created by John Vervaeke that continued drive me to publish _vagari_, and essentially covers the entire field of philosophy.
+<br>A wonderful series created by John Vervaeke that continued drive me to publish _vagari_, and essentially the entire field of philosophy.
 
 [Arrival: A Response To Bad Movies](https://youtu.be/z18LY6NME1s)
-<br>My awakening to importance of linguistics, story, and ultimately, most things I care about today.
+<br>An awakening to the importance of linguistics, story, non-zero-sum games, and ultimately, the craft of combination and creation of ideas.
 
-More on film, or rather, exploration of linguistics via film:
+#### Color as a Language, Design as the Grammar
 
-- [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (and the imporance of ...)
+⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history ⮯
+
+Mining meaning from media, or rather, the **exploration of linguistics** via the most dominant visual medium:
+
+- [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (and the importance of ...)
 - [Hitchcock and the Language of Cinema](https://youtu.be/W_JPD8B_0Lc) (Silence)
 - [How Studio Ghibli Makes Animation Feel Alive](https://youtu.be/jM6PPxN1xas) (Sound)
 - [The Soul of Good Character Design](https://youtu.be/SM3IQFgP-d8) (Desire)
@@ -236,23 +240,30 @@ More on film, or rather, exploration of linguistics via film:
 - [Akira Kurosawa &ndash; Composing Movement](https://youtu.be/doaQC-S8de8) (Motion)
 - [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectations)
 - [Tenet &ndash; A Misunderstood Masterpiece](https://youtu.be/0OoLokmqo0A) (Structure)
-- [Edgar Wright &ndash; How to Do Visual Comedy](https://youtu.be/3FOzD4Sfgag) (Creavity)
+- [This Top Gun Scene Is Like A Perfect Pop Song](https://youtu.be/MN-1jdFSDs8) (Universality)
+- [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Theme)
+- [Edgar Wright &ndash; How to Do Visual Comedy](https://youtu.be/3FOzD4Sfgag) (Creativity)
 - [The Role in Filmmaking No One Talks About](https://youtu.be/MhFO4LJdwx0) (Detail)
-- [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Editing)
 
-<br>
+###### Conclusion
 
-#### Color as a Language
+⮩ Import as much cultural grammar from a variety of sources, especially visual
+mediums (like film). Study and understand genre to leverage and advance
+expectations in a newly defined language&mdash;**spoken with color**.
 
-🢣 i.e., acknowledge that color (design itself) is a system of communication that has evolved among designers.
-
-<br>
+⮩ Of course, there is more to _vagari_ than just a color scheme. Ultimately,
+**_vagari_ is a design philosophy**, centered around guiding visual attention
+in relatively-static, mostly text-filled, screen-based environments.
 
 ## 🢣 Gallery
 
 <br>
 
 ## 🢣 Ports
+
+<br>
+
+## 🢣 Contribution
 
 <br>
 
@@ -264,7 +275,7 @@ More on film, or rather, exploration of linguistics via film:
 - [The Practice](https://a.co/d/35U9K5l), by Seth Godin
 - [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
 - [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
-- [The Anatomy of Story](https://a.co/d/dlMURY4), by John Truby
+- [The Anatomy of Genre](https://a.co/d/dlMURY4), by John Truby
 - [Exhalation: Stories](https://a.co/d/5UKCWsx) and [Stories of Your Life and Others](https://a.co/d/dPteGuY), by Ted Chiang
 - [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
 - [The Beginning of Infinity](https://a.co/d/1s4J1Lj), by David Deutsch

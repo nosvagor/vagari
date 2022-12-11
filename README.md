@@ -210,7 +210,7 @@
 🢣 i.e., wherever possible, inject genre, inspiration, or any prior ideas that formed taste. ⮯
 <a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
 <img
-        src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/arrival.png?raw=true"
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/arrival-large-decor.png?raw=true"
         width="42%"
         align="right"
     >

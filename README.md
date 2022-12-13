@@ -203,7 +203,7 @@
 
 <br>
 
-## 🢣 Philosophy
+## 🢣 General Philosophy
 
 #### Manifest Meaning
 
@@ -221,39 +221,55 @@
 <br>The video that finally catalyzed the creation of _vagari_.
 
 [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-<br>A wonderful series created by John Vervaeke that continued drive me to publish _vagari_, and essentially the entire field of philosophy.
+<br>A wonderful and comprehensive series about history, philosophy, and the meaning of _meaning_; it provided the enery needed to publish _vagari_.
 
 [Arrival: A Response To Bad Movies](https://youtu.be/z18LY6NME1s)
 <br>An awakening to the importance of linguistics, story, non-zero-sum games, and ultimately, the craft of combination and creation of ideas.
 
-#### Color as a Language, Design as the Grammar
+##### Colors as the Symbols, Design as the Grammar
 
 ⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history ⮯
 
-Mining meaning from media, or rather, the **exploration of linguistics** via the most dominant visual medium:
+Mining meaning from media, or rather, the **exploration of culture** via the most dominant mediums:
 
-- [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (and the importance of ...)
+- [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (importance of ...)
 - [Hitchcock and the Language of Cinema](https://youtu.be/W_JPD8B_0Lc) (Silence)
 - [How Studio Ghibli Makes Animation Feel Alive](https://youtu.be/jM6PPxN1xas) (Sound)
-- [The Soul of Good Character Design](https://youtu.be/SM3IQFgP-d8) (Desire)
-- [Every Face Tells A Story](https://youtu.be/FK1trQBa_2g) (Emotion)
 - [Akira Kurosawa &ndash; Composing Movement](https://youtu.be/doaQC-S8de8) (Motion)
-- [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectations)
+- [The Soul of Good Character Design](https://youtu.be/SM3IQFgP-d8) (Desire)
+- [Frank Ocean &ndash; Musical Identity](https://youtu.be/6ohakZ5wYu8) (Depth)
+- [Every Face Tells A Story](https://youtu.be/FK1trQBa_2g) (Emotion)
+- [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectation)
 - [Tenet &ndash; A Misunderstood Masterpiece](https://youtu.be/0OoLokmqo0A) (Structure)
-- [This Top Gun Scene Is Like A Perfect Pop Song](https://youtu.be/MN-1jdFSDs8) (Universality)
-- [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Theme)
 - [Edgar Wright &ndash; How to Do Visual Comedy](https://youtu.be/3FOzD4Sfgag) (Creativity)
+- [This Top Gun Scene Is Like A Perfect Pop Song](https://youtu.be/MN-1jdFSDs8) (Universality)
+- [Why Mass Effect Should Be the Next Game of Thrones](https://youtu.be/-elPKyfpJrM) (Adapatation)
+- [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Theme)
+- [Childish Gambino &ndash; Storytelling Through Hip-Hop](https://youtu.be/OgQ3Hpj-CBU) (Cohesion)
 - [The Role in Filmmaking No One Talks About](https://youtu.be/MhFO4LJdwx0) (Detail)
+- [What Matters is What You Do](https://youtu.be/EL7e05pClKM) (Humility)
+- [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (Motivation)
 
 ###### Conclusion
 
 ⮩ Import as much cultural grammar from a variety of sources, especially visual
 mediums (like film). Study and understand genre to leverage and advance
-expectations in a newly defined language&mdash;**spoken with color**.
+expectations in a _narrowly defined language_&mdash;**spoken with color**.
 
 ⮩ Of course, there is more to _vagari_ than just a color scheme. Ultimately,
-**_vagari_ is a design philosophy**, centered around guiding visual attention
-in relatively-static, mostly text-filled, screen-based environments.
+**_vagari_ is a design philosophy**, centered around guiding _visual attention_
+in relatively-static, non-verbal, screen-based environments.
+
+### 🢣 Design Principles
+
+#### Chaos is Not _chaotic_&mdash;it's Beautiful
+
+- [Chaos is a mathmaetical concept](https://youtu.be/fDek6cYijxI); an intrinsic pattern of the universe that
+  arises in non-linear systems.
+
+#### Pareto principle
+
+<br>
 
 ## 🢣 Gallery
 
@@ -269,16 +285,14 @@ in relatively-static, mostly text-filled, screen-based environments.
 
 ## 🢣 Gratitude
 
-###### Books ⮯
+⮩ The links below are included because they are:
 
-- [Refactoring UI](https://www.refactoringui.com), by Adam Wathan & Steve Schoger
-- [The Practice](https://a.co/d/35U9K5l), by Seth Godin
-- [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
-- [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
-- [The Anatomy of Genre](https://a.co/d/dlMURY4), by John Truby
-- [Exhalation: Stories](https://a.co/d/5UKCWsx) and [Stories of Your Life and Others](https://a.co/d/dPteGuY), by Ted Chiang
-- [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
-- [The Beginning of Infinity](https://a.co/d/1s4J1Lj), by David Deutsch
+- **Major** references; ideas that had a large impact and repeatedly come up.
+- **Indirect** references; ideas that provide extra context for design principles or direct references.
+- Simply **superb** and _highly recommended_ for the **curious** minds out there.
+
+> "Somewhere, something incredible is waiting to be known."
+> &ndash; <cite>Carl Sagan</cite>
 
 ###### Resources ⮯
 
@@ -289,8 +303,18 @@ in relatively-static, mostly text-filled, screen-based environments.
 - [Five Factors that Guide attention in Visual Search](https://doi.org/10.1038/s41562-017-0058) (review article)
 - [Seven Secrets](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (a set of unique perspectives on design)
 
-<!-- ###### Videos ⮯ -->
-<!---->
-<!-- - [Wanderers](https://youtu.be/YH3c1QZzRK4) a short film by Erik Wernquist -->
-<!-- - Hot takes, and good content: -->
-<!--   - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen), [Theo](https://www.youtube.com/@t3dotgg), [Ethan Becker](https://www.youtube.com/@EthanBecker70) -->
+###### Books ⮯
+
+- [Refactoring UI](https://www.refactoringui.com), by Adam Wathan & Steve Schoger
+- [The Practice](https://a.co/d/35U9K5l), by Seth Godin
+- [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
+- [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
+- [The Anatomy of Genre](https://a.co/d/dlMURY4), by John Truby
+- [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
+- [Exhalation: Stories](https://a.co/d/5UKCWsx) and [Stories of Your Life and Others](https://a.co/d/dPteGuY), by Ted Chiang
+- [The Fabric of Reality](https://a.co/d/iApzyrW) and [The Beginning of Infinity](https://a.co/d/1s4J1Lj), by David Deutsch
+- [Chaos](https://a.co/d/7ZtUoqN) and [Information](https://a.co/d/flwyX9W), by James Gleick
+
+###### Shoulders to Stand On ⮯
+
+-

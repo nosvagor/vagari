@@ -207,11 +207,12 @@
 
 #### Manifest Meaning
 
-⮩ i.e., wherever possible, inject genre, inspiration, or any relationship of signficiance ⮯
-<a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
+⮩ i.e., wherever possible, inject genre, inspiration, or any relationship of
+signficiance. ⮯
+<a href="https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ">
 <img
         src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/arrival-large-decor.png?raw=true"
-        width="34%"
+        width="36%"
         align="right"
     >
 <br>
@@ -221,14 +222,16 @@
 <br>The video that finally catalyzed the creation of _vagari_.
 
 [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
-<br>A wonderful and comprehensive series about history, philosophy, and the meaning of _meaning_; it provided the enery needed to publish _vagari_.
+<br>A wonderful series about history, philosophy, and the
+meaning of _meaning_; it provided the energy needed to publish _vagari_.
 
 [Arrival: A Response To Bad Movies](https://youtu.be/z18LY6NME1s)
-<br>An awakening to the importance of linguistics, story, non-zero-sum games, and ultimately, the craft of combination and creation of ideas.
+<br>An awakening to the importance of linguistics, story, non-zero-sum games,
+and ultimately, the craft of combining _good_ ideas.
 
-##### Colors as the Symbols, Design as the Grammar
+#### Colors as the Symbols, Design as the Grammar
 
-⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history ⮯
+⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history. ⮯
 
 Mining meaning from media, or rather, the **exploration of culture** via the most dominant mediums:
 
@@ -239,16 +242,62 @@ Mining meaning from media, or rather, the **exploration of culture** via the mos
 - [The Soul of Good Character Design](https://youtu.be/SM3IQFgP-d8) (Desire)
 - [Frank Ocean &ndash; Musical Identity](https://youtu.be/6ohakZ5wYu8) (Depth)
 - [Every Face Tells A Story](https://youtu.be/FK1trQBa_2g) (Emotion)
-- [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectation)
-- [Tenet &ndash; A Misunderstood Masterpiece](https://youtu.be/0OoLokmqo0A) (Structure)
+- [GoT &ndash; How to Evoke Emotion](https://youtu.be/jgZXDeGjf84) (Structure)
+- [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectations)
+- [Tenet &ndash; A Misunderstood Masterpiece](https://youtu.be/0OoLokmqo0A) (Subjectivity)
 - [Edgar Wright &ndash; How to Do Visual Comedy](https://youtu.be/3FOzD4Sfgag) (Creativity)
 - [This Top Gun Scene Is Like A Perfect Pop Song](https://youtu.be/MN-1jdFSDs8) (Universality)
 - [Why Mass Effect Should Be the Next Game of Thrones](https://youtu.be/-elPKyfpJrM) (Adapatation)
 - [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Theme)
 - [Childish Gambino &ndash; Storytelling Through Hip-Hop](https://youtu.be/OgQ3Hpj-CBU) (Cohesion)
+- [The Secret Ingredients of Great Hospitality](https://youtu.be/bwcyXcOpWVs) (Belonging)
 - [The Role in Filmmaking No One Talks About](https://youtu.be/MhFO4LJdwx0) (Detail)
+- [Satoshi Kon &ndash; Editing Space & Time](https://youtu.be/oz49vQwSoTE) (Transitions)
 - [What Matters is What You Do](https://youtu.be/EL7e05pClKM) (Humility)
 - [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (Motivation)
+
+#### Chaos is not _chaotic_&mdash;it's Beautiful
+
+⮩ [Chaos is a mathmaetical concept](https://youtu.be/fDek6cYijxI); an intrinsic
+pattern of the universe that arises in non-linear systems. ⮯
+
+Creativity is not a some special, dualistic force ("_the muse_,") that only
+humans possess. **Creativity _is_ chaos**&mdash;it's an emergent property that originates from the of the
+embrace of sensitive starting conditions in dynamical systems (e.g., human
+minds), coupled with, but not limited to:
+
+- **[curiosity](https://youtu.be/_XWRF1UArO4)** in the _unknown_, and an deep desire _to understand_.
+- **[courage](https://youtu.be/dKz095P7LdU)** to challenge the _status quo_, and everlasting itch _to explore_.
+- **[humility](https://youtu.be/Tfrrubw7pcE)** in allowing the _process_ to unfold, and willingness _to fail_.
+
+#### Is Fashion Invented, or Discovered?
+
+⮩ [Most Adavance, Yet Acceptable](https://youtu.be/mgyGptmH7EE); evolution acts
+on [mutations during replication](https://youtu.be/UhSStR-FpQc) of existing
+entities. ⮯
+
+[Style](https://www.youtube.com/watch?v=NEvMHRgPdyk) is analogous to the
+concept of [fitness](https://youtu.be/UhSStR-FpQc) in evolution applied, when
+applied to culture&mdash;it's easy to think that **fashion** (_evolution_) is a
+forward march that makes better and better **styles** (_organisms_). Instead,
+fashion is a "_bumbling mess that just gets lucky sometimes_," i.e.:
+
+1. Expression (and imitation) of a style is the primary way that it is
+   replicated.
+2. The primary niche to be filled is in the domain **self-expression**, with a sub-domain of **functionality**.
+3. Thus, a relatively good (_fit_) style is one that allows the users to
+   express something about themselves (color), while maintaining functionality (design grammar), in
+   order for expression to be noticed by others.
+4. Hence, _vagari_'s primary use case: a **color scheme**; further design
+   principles are simply means to create a more cohesive and deep meaning
+   behind the selection of color.
+
+If the hypothesis of _vagari_ is correct, then in a sense fashion is
+discovered. I.e., the most fashionable style of the time is found via somewhat
+random exploration. However, in a sense fashion also invented, because
+ultimately style (the result of fashion) is created as a means to out replicate competing styles.
+
+---
 
 ###### Conclusion
 
@@ -260,12 +309,11 @@ expectations in a _narrowly defined language_&mdash;**spoken with color**.
 **_vagari_ is a design philosophy**, centered around guiding _visual attention_
 in relatively-static, non-verbal, screen-based environments.
 
-### 🢣 Design Principles
+---
 
-#### Chaos is Not _chaotic_&mdash;it's Beautiful
+## 🢣 Design Principles
 
-- [Chaos is a mathmaetical concept](https://youtu.be/fDek6cYijxI); an intrinsic pattern of the universe that
-  arises in non-linear systems.
+#### [60&ndash;30&ndash;10 Rule](https://youtu.be/UWwNIMHFdW4)
 
 #### Pareto principle
 

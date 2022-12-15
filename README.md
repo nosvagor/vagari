@@ -256,9 +256,9 @@ Mining meaning from media, or rather, the **exploration of culture** via the mos
 - [What Matters is What You Do](https://youtu.be/EL7e05pClKM) (Humility)
 - [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (Motivation)
 
-#### Chaos is not _chaotic_&mdash;it's Beautiful
+#### Chaos is not _chaotic_&dash;it's Beautiful
 
-⮩ [Chaos is a mathmaetical concept](https://youtu.be/fDek6cYijxI); an intrinsic
+[Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
 pattern of the universe that arises in non-linear systems. ⮯
 
 Creativity is not a some special, dualistic force ("_the muse_,") that only
@@ -313,9 +313,29 @@ in relatively-static, non-verbal, screen-based environments.
 
 ## 🢣 Design Principles
 
-#### [60&ndash;30&ndash;10 Rule](https://youtu.be/UWwNIMHFdW4)
+<h3 align="left">Sex</h3>
 
-#### Pareto principle
+[Zipf](https://youtu.be/fCn8zs912OE)
+
+[Six](https://youtu.be/Iwpi1Lm6dFo)
+
+<h3 align="left">Story</h3>
+
+[Angle's Cocktail](https://youtu.be/Nj-hdQMa3uA)
+
+<h3 align="left">Chaos</h3>
+
+[the logistic map](https://youtu.be/ovJcsL7vyrk) (4.669)
+[Factals](https://youtu.be/HeQX2HjkcNo)
+[Holomorphic dynamics](https://youtu.be/LqbZpur38nw)
+
+<h3 align="left">Collaboration</h3>
+
+[Infinity](https://youtu.be/HeQX2HjkcNo)
+
+"We do not know and will not know, yet we try regardless."
+
+What Would you do, even if you knew you would fail?
 
 <br>
 

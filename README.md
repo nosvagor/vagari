@@ -256,13 +256,13 @@ Mining meaning from media, or rather, the **exploration of culture** via the mos
 - [What Matters is What You Do](https://youtu.be/EL7e05pClKM) (Humility)
 - [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (Motivation)
 
-#### Chaos is not _chaotic_&dash;it's Beautiful
+#### Chaos is not _chaotic_&mdash;Choas is _order_
 
 [Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
 pattern of the universe that arises in non-linear systems. ⮯
 
 Creativity is not a some special, dualistic force ("_the muse_,") that only
-humans possess. **Creativity _is_ chaos**&mdash;it's an emergent property that originates from the of the
+humans possess. **Creativity _is_ Chaos**&mdash;it's an emergent property that originates from the of the
 embrace of sensitive starting conditions in dynamical systems (e.g., human
 minds), coupled with, but not limited to:
 
@@ -313,27 +313,50 @@ in relatively-static, non-verbal, screen-based environments.
 
 ## 🢣 Design Principles
 
-<h3 align="left">Sex</h3>
+### Sex
 
-[Zipf](https://youtu.be/fCn8zs912OE)
+⮩ i.e., the ["Swedish number for six"](), or the
+maximum number of objects in focus at a given time. ⮯
 
-[Six](https://youtu.be/Iwpi1Lm6dFo)
+Jokes aside, the sex principle is more than just a joke&mdash;it's about
+dealing with **[cognitive overhead](https://youtu.be/fCn8zs912OE?t=412)**. As a whole, design must be _simple and
+sexy_, not _minimal and mundane_. This principle is core to _vagari_ and
+represents the adherence of the [selfish memes/genes](https://youtu.be/2mTVtToioLg) theory replicators with unbounded evolution, i.e.:
 
-<h3 align="left">Story</h3>
+1. Something is _sexy_ if it is attractive or exciting, and in the realms of ideas, desire for replication.
+2. _Communication_ is all about replicating an idea inside another mind, but it's not perfect&mdash;mutations occur.
+3. Thus, a good design is one that is enticing, welcoming the new idea, with minimal (but not zero) mutations.
+4. Hence, the adoption of, and iteration on, well known design principles:
+   - [Understanding the Principles of Design](https://youtu.be/UmHMVU6dceA)
+   - [6 Golden Rules Of Layout Design](https://youtu.be/EFf9jBs2yfU)
+   - [Breaking Down the Principles of Design](https://www.toptal.com/designers/gui/principles-of-design-infographic)
+   - [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design)
+   - [The 60&ndash;30&dash;10 Rule](https://youtu.be/UWwNIMHFdW4)
+
+The essential idea here involves minimizing the impact of anything that _stresses working memory_, i.e.:
+
+- Maximum of [**6** _objects_](https://youtu.be/Iwpi1Lm6dFo) in a _scene_, i.e., 6 _things_ that require increased discernment.
+- Maximum of [**3** _layers_](https://youtu.be/CFRhGnuXG-4) to an _object_, i.e., 3 _variations_ that track change within an object.
+
+Doing this properly results in a easier to manage [punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between [abstraction and coupling](https://youtu.be/rQlMtztiAoA).
+
+### Saga
 
 [Angle's Cocktail](https://youtu.be/Nj-hdQMa3uA)
 
-<h3 align="left">Chaos</h3>
+### Complexity
 
 [the logistic map](https://youtu.be/ovJcsL7vyrk) (4.669)
 [Factals](https://youtu.be/HeQX2HjkcNo)
 [Holomorphic dynamics](https://youtu.be/LqbZpur38nw)
 
-<h3 align="left">Collaboration</h3>
+### Collaboration
 
 [Infinity](https://youtu.be/HeQX2HjkcNo)
 
-"We do not know and will not know, yet we try regardless."
+⮩ _ignoramus et ignorabimus_, **_tamen id conamur_** ⮯
+<br>
+&emsp;&emsp;&emsp;&emsp;⮩ "_We do not know and will not know_, **_yet we try regardless_**." ⮯
 
 What Would you do, even if you knew you would fail?
 

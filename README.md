@@ -295,7 +295,7 @@ fashion is a "_bumbling mess that just gets lucky sometimes_," i.e.:
 If the hypothesis of _vagari_ is correct, then in a sense fashion is
 discovered. I.e., the most fashionable style of the time is found via somewhat
 random exploration. However, in a sense fashion also invented, because
-ultimately style (the result of fashion) is created as a means to out replicate competing styles.
+ultimately style (the result of the proccess of fashion) is created as a means to out replicate competing styles.
 
 ---
 
@@ -307,7 +307,7 @@ expectations in a _narrowly defined language_&mdash;**spoken with color**.
 
 ⮩ Of course, there is more to _vagari_ than just a color scheme. Ultimately,
 **_vagari_ is a design philosophy**, centered around guiding _visual attention_
-in relatively-static, non-verbal, screen-based environments.
+in relatively-static, non-verbal environments.
 
 ---
 
@@ -315,34 +315,32 @@ in relatively-static, non-verbal, screen-based environments.
 
 ### Sex
 
-⮩ i.e., the ["Swedish number for six"](), or the
+⮩ i.e., the ["Swedish number for six"](https://youtu.be/Iwpi1Lm6dFo?t=777), or the
 maximum number of objects in focus at a given time. ⮯
 
 Jokes aside, the sex principle is more than just a joke&mdash;it's about
 dealing with **[cognitive overhead](https://youtu.be/fCn8zs912OE?t=412)**. As a whole, design must be _simple and
 sexy_, not _minimal and mundane_. This principle is core to _vagari_ and
-represents the adherence of the [selfish memes/genes](https://youtu.be/2mTVtToioLg) theory replicators with unbounded evolution, i.e.:
+represents the adherence of the [selfish memes/genes](https://youtu.be/2mTVtToioLg) theory of replicators with unbounded evolution, i.e.:
 
 1. Something is _sexy_ if it is attractive or exciting, and in the realms of ideas, desire for replication.
 2. _Communication_ is all about replicating an idea inside another mind, but it's not perfect&mdash;mutations occur.
-3. Thus, a good design is one that is enticing, welcoming the new idea, with minimal (but not zero) mutations.
+3. Thus, a good design is one that is enticing, welcoming a new idea, with minimal (but not zero) mutations.
 4. Hence, the adoption of, and iteration on, well known design principles:
    - [Understanding the Principles of Design](https://youtu.be/UmHMVU6dceA)
    - [6 Golden Rules Of Layout Design](https://youtu.be/EFf9jBs2yfU)
    - [Breaking Down the Principles of Design](https://www.toptal.com/designers/gui/principles-of-design-infographic)
    - [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design)
-   - [The 60&ndash;30&dash;10 Rule](https://youtu.be/UWwNIMHFdW4)
+   - [8 Important Composition Tips](https://youtu.be/VArISvUuyr0)
+   - [The 60&ndash;30&ndash;10 Rule](https://youtu.be/UWwNIMHFdW4)
+   - [How to Break Rules](https://youtu.be/06zi53J_BBw)
 
 The essential idea here involves minimizing the impact of anything that _stresses working memory_, i.e.:
 
-- Maximum of [**6** _objects_](https://youtu.be/Iwpi1Lm6dFo) in a _scene_, i.e., 6 _things_ that require increased discernment.
+- Maximum of [**6** _objects_](https://youtu.be/Iwpi1Lm6dFo?t=777) in a _scene_, i.e., 6 _things_ that require increased discernment.
 - Maximum of [**3** _layers_](https://youtu.be/CFRhGnuXG-4) to an _object_, i.e., 3 _variations_ that track change within an object.
 
 Doing this properly results in a easier to manage [punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between [abstraction and coupling](https://youtu.be/rQlMtztiAoA).
-
-### Saga
-
-[Angle's Cocktail](https://youtu.be/Nj-hdQMa3uA)
 
 ### Complexity
 
@@ -350,15 +348,37 @@ Doing this properly results in a easier to manage [punctuated equilibrium](https
 [Factals](https://youtu.be/HeQX2HjkcNo)
 [Holomorphic dynamics](https://youtu.be/LqbZpur38nw)
 
+### Saga
+
+⮩ i.e., [imagination is the key to cooperation](https://youtu.be/LLucUmQVBAE); shared exploration of fiction is how we create useful norms. ⮯
+
+Essentially, if you could not tell already, story (_meaning_) is a huge factor
+in the philosophy of _vagari_. Anyone can make a [color
+scheme](https://www.slant.co/topics/358/~best-color-themes-for-text-editors),
+and many others will be better for certain people in certain contexts. In the
+end, _vagari_ is not trying to be the _best_ color scheme ([functionality is a
+just a useful
+quality](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
+
+Instead, _vagari_ is trying to be the most _meaningful_ color scheme. _vagari_
+assumes that most other color schemes do not allow the _art of color_ to
+transcend functionality. The solution is to allow the users to say something
+about themselves&mdash;a reason to choose, share, and improve this color scheme, rather than
+any of the others.
+
+Crucially important and related principles not already mentioned:
+
+1. [Once Upon A.I.](https://youtu.be/nG9dMHTCKNU)
+2. [Angle's Cocktail](https://youtu.be/Nj-hdQMa3uA)
+3. [What would you do, even if you knew you **would fail**?](https://youtu.be/XAE46z9wT0A)
+
 ### Collaboration
 
-[Infinity](https://youtu.be/HeQX2HjkcNo)
-
-⮩ _ignoramus et ignorabimus_, **_tamen id conamur_** ⮯
+⮩ _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_** ⮯
 <br>
-&emsp;&emsp;&emsp;&emsp;⮩ "_We do not know and will not know_, **_yet we try regardless_**." ⮯
+&emsp;&emsp;&emsp;&emsp;⮩ "_We do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**." ⮯
 
-What Would you do, even if you knew you would fail?
+[The Future Of Reasoning](https://youtu.be/_ArVh3Cj9rw)
 
 <br>
 
@@ -404,6 +424,7 @@ What Would you do, even if you knew you would fail?
 - [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
 - [Exhalation: Stories](https://a.co/d/5UKCWsx) and [Stories of Your Life and Others](https://a.co/d/dPteGuY), by Ted Chiang
 - [The Fabric of Reality](https://a.co/d/iApzyrW) and [The Beginning of Infinity](https://a.co/d/1s4J1Lj), by David Deutsch
+- [21 Lessons for the 21st Century](https://a.co/d/3s4uwq2) and [Homo Deus](https://a.co/d/bIDFGCW), by Yuval Noah Harari
 - [Chaos](https://a.co/d/7ZtUoqN) and [Information](https://a.co/d/flwyX9W), by James Gleick
 
 ###### Shoulders to Stand On ⮯

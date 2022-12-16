@@ -328,11 +328,12 @@ represents the adherence of the [selfish memes/genes](https://youtu.be/2mTVtToio
 3. Thus, a good design is one that is enticing, welcoming a new idea, with minimal (but not zero) mutations.
 4. Hence, the adoption of, and iteration on, well known design principles:
    - [Understanding the Principles of Design](https://youtu.be/UmHMVU6dceA)
-   - [6 Golden Rules Of Layout Design](https://youtu.be/EFf9jBs2yfU)
-   - [Breaking Down the Principles of Design](https://www.toptal.com/designers/gui/principles-of-design-infographic)
-   - [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design)
-   - [8 Important Composition Tips](https://youtu.be/VArISvUuyr0)
+     - [6 Golden Rules Of Layout Design](https://youtu.be/EFf9jBs2yfU)
+     - [Breaking Down the Principles of Design](https://www.toptal.com/designers/gui/principles-of-design-infographic)
+     - [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design)
    - [The 60&ndash;30&ndash;10 Rule](https://youtu.be/UWwNIMHFdW4)
+     - [Dominance of Two Colors](https://youtu.be/YCJXS4hvOsU)
+   - [8 Important Composition Tips](https://youtu.be/VArISvUuyr0)
    - [How to Break Rules](https://youtu.be/06zi53J_BBw)
 
 The essential idea here involves minimizing the impact of anything that _stresses working memory_, i.e.:

@@ -329,11 +329,11 @@ represents the adherence of the [selfish memes/genes](https://youtu.be/2mTVtToio
 4. Hence, the adoption of, and iteration on, well known design principles:
    - [Understanding the Principles of Design](https://youtu.be/UmHMVU6dceA)
      - [6 Golden Rules Of Layout Design](https://youtu.be/EFf9jBs2yfU)
+     - [8 Important Composition Tips](https://youtu.be/VArISvUuyr0)
      - [Breaking Down the Principles of Design](https://www.toptal.com/designers/gui/principles-of-design-infographic)
      - [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design)
    - [The 60&ndash;30&ndash;10 Rule](https://youtu.be/UWwNIMHFdW4)
      - [Dominance of Two Colors](https://youtu.be/YCJXS4hvOsU)
-   - [8 Important Composition Tips](https://youtu.be/VArISvUuyr0)
    - [How to Break Rules](https://youtu.be/06zi53J_BBw)
 
 The essential idea here involves minimizing the impact of anything that _stresses working memory_, i.e.:
@@ -361,16 +361,17 @@ end, _vagari_ is not trying to be the _best_ color scheme ([functionality is a
 just a useful
 quality](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
 
-Instead, _vagari_ is trying to be the most _meaningful_ color scheme. _vagari_
+Instead, at it's core, _vagari_ is trying to be the most _meaningful_ color scheme. _vagari_
 assumes that most other color schemes do not allow the _art of color_ to
 transcend functionality. The solution is to allow the users to say something
-about themselves&mdash;a reason to choose, share, and improve this color scheme, rather than
-any of the others.
+about themselves&mdash;a reason to choose, share, and improve this color
+scheme, rather than any of the other perectly adequate (and exceptional) color
+schemes out there.
 
-Crucially important and related principles not already mentioned:
+Related principles and concepts not already mentioned:
 
 1. [Once Upon A.I.](https://youtu.be/nG9dMHTCKNU)
-2. [Angle's Cocktail](https://youtu.be/Nj-hdQMa3uA)
+2. [The Angle's Cocktail](https://youtu.be/Nj-hdQMa3uA)
 3. [What would you do, even if you knew you **would fail**?](https://youtu.be/XAE46z9wT0A)
 
 ### Collaboration
@@ -409,24 +410,24 @@ Crucially important and related principles not already mentioned:
 ###### Resources ⮯
 
 - [Encycolorpedia](https://encycolorpedia.com/) (color facts 'n stuff)
-- [Contrast Ratio Between Colors](https://contrast-ratio.com/) (and relative luminance)
 - [ChatGPT3](https://chat.openai.com/chat) (for the times they are a-changin')
 - [Dream Studio](https://beta.dreamstudio.ai/dream) (stable diffusion art generator)
+- [Contrast Ratio Between Colors](https://contrast-ratio.com/) (and relative luminance)
 - [Five Factors that Guide attention in Visual Search](https://doi.org/10.1038/s41562-017-0058) (review article)
 - [Seven Secrets](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (a set of unique perspectives on design)
+- [Refactoring UI](https://www.refactoringui.com), by Adam Wathan & Steve Schoger
 
 ###### Books ⮯
 
-- [Refactoring UI](https://www.refactoringui.com), by Adam Wathan & Steve Schoger
 - [The Practice](https://a.co/d/35U9K5l), by Seth Godin
 - [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
-- [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
 - [The Anatomy of Genre](https://a.co/d/dlMURY4), by John Truby
 - [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
+- [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
+- [Chaos](https://a.co/d/7ZtUoqN) and [Information](https://a.co/d/flwyX9W), by James Gleick
 - [Exhalation: Stories](https://a.co/d/5UKCWsx) and [Stories of Your Life and Others](https://a.co/d/dPteGuY), by Ted Chiang
 - [The Fabric of Reality](https://a.co/d/iApzyrW) and [The Beginning of Infinity](https://a.co/d/1s4J1Lj), by David Deutsch
 - [21 Lessons for the 21st Century](https://a.co/d/3s4uwq2) and [Homo Deus](https://a.co/d/bIDFGCW), by Yuval Noah Harari
-- [Chaos](https://a.co/d/7ZtUoqN) and [Information](https://a.co/d/flwyX9W), by James Gleick
 
 ###### Shoulders to Stand On ⮯
 

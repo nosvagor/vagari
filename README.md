@@ -256,7 +256,7 @@ Mining meaning from media, or rather, the **exploration of culture** via the mos
 - [What Matters is What You Do](https://youtu.be/EL7e05pClKM) (Humility)
 - [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (Motivation)
 
-#### Chaos is not _chaotic_&mdash;Choas is _order_
+#### Chaos is not _chaotic_
 
 [Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
 pattern of the universe that arises in non-linear systems. ⮯
@@ -266,9 +266,9 @@ humans possess. **Creativity _is_ Chaos**&mdash;it's an emergent property that o
 embrace of sensitive starting conditions in dynamical systems (e.g., human
 minds), coupled with, but not limited to:
 
-- **[curiosity](https://youtu.be/_XWRF1UArO4)** in the _unknown_, and an deep desire _to understand_.
-- **[courage](https://youtu.be/dKz095P7LdU)** to challenge the _status quo_, and everlasting itch _to explore_.
-- **[humility](https://youtu.be/Tfrrubw7pcE)** in allowing the _process_ to unfold, and willingness _to fail_.
+- **[curiosity](https://youtu.be/_XWRF1UArO4)** in the _unknown_, and an deep desire _to **understand**_.
+- **[courage](https://youtu.be/dKz095P7LdU)** to challenge the _status quo_, and everlasting itch _to **explore**_.
+- **[humility](https://youtu.be/Tfrrubw7pcE)** in allowing the _process_ to unfold, and willingness _to **fail**_.
 
 #### Is Fashion Invented, or Discovered?
 
@@ -295,7 +295,7 @@ fashion is a "_bumbling mess that just gets lucky sometimes_," i.e.:
 If the hypothesis of _vagari_ is correct, then in a sense fashion is
 discovered. I.e., the most fashionable style of the time is found via somewhat
 random exploration. However, in a sense fashion also invented, because
-ultimately style (the result of the proccess of fashion) is created as a means to out replicate competing styles.
+ultimately style (the result of the proccess of fashion) is created as a means to out-replicate competing styles.
 
 ---
 
@@ -345,8 +345,11 @@ Doing this properly results in a easier to manage [punctuated equilibrium](https
 
 ### Complexity
 
+⮩ i.e., a dance involving [computational irreducibly](https://youtu.be/mfW7pvlrzyM) and
+[information theory](https://youtu.be/v68zYyaEmEA?t=485), and [choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
+
 [the logistic map](https://youtu.be/ovJcsL7vyrk) (4.669)
-[Factals](https://youtu.be/HeQX2HjkcNo)
+[Factals](https://youtu.be/-RdOwhmqP5s?t=675)
 [Holomorphic dynamics](https://youtu.be/LqbZpur38nw)
 
 ### Saga
@@ -376,9 +379,9 @@ Related principles and concepts not already mentioned:
 
 ### Collaboration
 
-⮩ _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_** ⮯
+⮩ id est, _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_** ⮯
 <br>
-&emsp;&emsp;&emsp;&emsp;⮩ "_We do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**." ⮯
+&emsp;&emsp;&emsp;&emsp;⮩ i.e., _we do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**. ⮯
 
 [The Future Of Reasoning](https://youtu.be/_ArVh3Cj9rw)
 

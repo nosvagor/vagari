@@ -297,20 +297,6 @@ discovered. I.e., the most fashionable style of the time is found via somewhat
 random exploration. However, in a sense fashion also invented, because
 ultimately style (the result of the proccess of fashion) is created as a means to out-replicate competing styles.
 
----
-
-###### Conclusion
-
-⮩ Import as much cultural grammar from a variety of sources, especially visual
-mediums (like film). Study and understand genre to leverage and advance
-expectations in a _narrowly defined language_&mdash;**spoken with color**.
-
-⮩ Of course, there is more to _vagari_ than just a color scheme. Ultimately,
-**_vagari_ is a design philosophy**, centered around guiding _visual attention_
-in relatively-static, non-verbal environments.
-
----
-
 ## 🢣 Design Principles
 
 ### Sex
@@ -326,7 +312,7 @@ represents the adherence of the [selfish memes/genes](https://youtu.be/2mTVtToio
 1. Something is _sexy_ if it is attractive or exciting, and in the realms of ideas, desire for replication.
 2. _Communication_ is all about replicating an idea inside another mind, but it's not perfect&mdash;mutations occur.
 3. Thus, a good design is one that is enticing, welcoming a new idea, with minimal (but not zero) mutations.
-4. Hence, the adoption of, and iteration on, well known design principles:
+4. Hence, the adoption of, and iteration on, well known and attractive design principles:
    - [Understanding the Principles of Design](https://youtu.be/UmHMVU6dceA)
      - [6 Golden Rules Of Layout Design](https://youtu.be/EFf9jBs2yfU)
      - [8 Important Composition Tips](https://youtu.be/VArISvUuyr0)
@@ -341,16 +327,35 @@ The essential idea here involves minimizing the impact of anything that _stresse
 - Maximum of [**6** _objects_](https://youtu.be/Iwpi1Lm6dFo?t=777) in a _scene_, i.e., 6 _things_ that require increased discernment.
 - Maximum of [**3** _layers_](https://youtu.be/CFRhGnuXG-4) to an _object_, i.e., 3 _variations_ that track change within an object.
 
-Doing this properly results in a easier to manage [punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between [abstraction and coupling](https://youtu.be/rQlMtztiAoA).
+Ideally, properly embracing this principle ought to result in an easier to manage
+[punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between [abstraction and
+coupling](https://youtu.be/rQlMtztiAoA) via evolution in design by the sexual
+selection of interested minds.
 
 ### Complexity
 
 ⮩ i.e., a dance involving [computational irreducibly](https://youtu.be/mfW7pvlrzyM) and
-[information theory](https://youtu.be/v68zYyaEmEA?t=485), and [choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
+[information](https://youtu.be/v68zYyaEmEA?t=485), and [choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
 
-[the logistic map](https://youtu.be/ovJcsL7vyrk) (4.669)
-[Factals](https://youtu.be/-RdOwhmqP5s?t=675)
-[Holomorphic dynamics](https://youtu.be/LqbZpur38nw)
+Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
+of this, the embrace of choas is at the core of the design philosophy. _vagari_
+is not looking for _the answer_&mdash;_vagari_ is looking for **an answer**;
+always open to a new answer, or a new way of approaching problems.
+
+The starting point of many decisions usually draw upon inspiration from the
+apparent universality of various mathematical concepts or patterns (e.g.,
+[factals](https://youtu.be/-RdOwhmqP5s?t=675) and [holomorphic
+dynamics](https://youtu.be/LqbZpur38nw)), hopefully resulting in the injection
+of mathematical meaning (e.g., [the logistic map](https://youtu.be/ovJcsL7vyrk)
+and [Feigenbaum constants](https://en.wikipedia.org/wiki/Feigenbaum_constants) for
+some contrast ratios).
+
+> "There are no separate systems. The world is a continuum. Where to draw a
+> boundary around a system depends on the purpose of the discussion."
+> &ndash; <cite>Donella H. Meadows</cite>
+
+Ideally, properly embracing this principle means a embarking on constant exploration of
+alternative approaches via the willingness depart from the respectable (but not holy) constraints initially set by interesting maths.
 
 ### Saga
 
@@ -360,15 +365,14 @@ Essentially, if you could not tell already, story (_meaning_) is a huge factor
 in the philosophy of _vagari_. Anyone can make a [color
 scheme](https://www.slant.co/topics/358/~best-color-themes-for-text-editors),
 and many others will be better for certain people in certain contexts. In the
-end, _vagari_ is not trying to be the _best_ color scheme ([functionality is a
-just a useful
+end, _vagari_ is not trying to be the _best_ or _most popular_ color scheme ([functionality is a just a useful
 quality](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
 
-Instead, at it's core, _vagari_ is trying to be the most _meaningful_ color scheme. _vagari_
-assumes that most other color schemes do not allow the _art of color_ to
-transcend functionality. The solution is to allow the users to say something
-about themselves&mdash;a reason to choose, share, and improve this color
-scheme, rather than any of the other perectly adequate (and exceptional) color
+Instead, at it's core, _vagari_ is trying to be the most _meaningful_ color
+scheme. _vagari_ assumes that most other color schemes do not allow the _art of
+color_ to transcend functionality. The solution is to allow the users to say
+something about themselves&mdash;a reason to choose, share, and improve this
+color scheme, rather than any of the other adequate (and exceptional) color
 schemes out there.
 
 Related principles and concepts not already mentioned:
@@ -377,13 +381,34 @@ Related principles and concepts not already mentioned:
 2. [The Angle's Cocktail](https://youtu.be/Nj-hdQMa3uA)
 3. [What would you do, even if you knew you **would fail**?](https://youtu.be/XAE46z9wT0A)
 
+Ideally, properly embracing this principle ought to compel users to want to
+proudly display and share _vagari_, resulting in a positive feedback loop of _meaning_ via the injection _new meaning_, provided by _new users_.
+
 ### Collaboration
 
 ⮩ id est, _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_** ⮯
 <br>
 &emsp;&emsp;&emsp;&emsp;⮩ i.e., _we do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**. ⮯
 
-[The Future Of Reasoning](https://youtu.be/_ArVh3Cj9rw)
+The above phrase is the best simple representation the core philosophy of
+_vagari_.
+
+Perhaps, the two most relevant books to the formation of this principle:
+
+1. [The Beginning of Infinity](https://a.co/d/1s4J1Lj), by David Deutsch
+2. [The Network State](https://thenetworkstate.com), by Balaji Srinivasan
+
+One might be tempted to ask: _"why so does vagari seem so&mldr; pretentious?"_
+
+Well, to be frank: _vagari is pretentious_; it's kind of essential to success of the project, actually.
+
+Ideally, shared participation in this fiction will hopefully manifest a reality
+among the participants. The philosophy of _vagari_ is built upon the idea that
+[collaboration is the ultimate force for
+discovery](https://youtu.be/_ArVh3Cj9rw). Sure, one node in a network may be
+the seed, or the spark, for a cascade of activation&mldr; but it's the activity
+in the network itself that creates the **gestalt**, i.e., the unique property of
+a whole that is more than the sum of it's parts.
 
 <br>
 
@@ -404,7 +429,7 @@ Related principles and concepts not already mentioned:
 ⮩ The links below are included because they are:
 
 - **Major** references; ideas that had a large impact and repeatedly come up.
-- **Indirect** references; ideas that provide extra context for design principles or direct references.
+- **Indirect** references; ideas that provide extra context or were resources that were very useful.
 - Simply **superb** and _highly recommended_ for the **curious** minds out there.
 
 > "Somewhere, something incredible is waiting to be known."
@@ -418,20 +443,20 @@ Related principles and concepts not already mentioned:
 - [Contrast Ratio Between Colors](https://contrast-ratio.com/) (and relative luminance)
 - [Five Factors that Guide attention in Visual Search](https://doi.org/10.1038/s41562-017-0058) (review article)
 - [Seven Secrets](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (a set of unique perspectives on design)
-- [Refactoring UI](https://www.refactoringui.com), by Adam Wathan & Steve Schoger
+- [Refactoring UI](https://www.refactoringui.com) (a book + set of resoruces for web design)
 
 ###### Books ⮯
 
 - [The Practice](https://a.co/d/35U9K5l), by Seth Godin
-- [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
+- [The Infinite Game](https://a.co/d/b8WpPX4), by Simon Sinek
 - [The Anatomy of Genre](https://a.co/d/dlMURY4), by John Truby
-- [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
-- [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
 - [Chaos](https://a.co/d/7ZtUoqN) and [Information](https://a.co/d/flwyX9W), by James Gleick
+- [Thinking In Systems](https://a.co/d/8PKtbDC), by Donella H. Meadows
 - [Exhalation: Stories](https://a.co/d/5UKCWsx) and [Stories of Your Life and Others](https://a.co/d/dPteGuY), by Ted Chiang
 - [The Fabric of Reality](https://a.co/d/iApzyrW) and [The Beginning of Infinity](https://a.co/d/1s4J1Lj), by David Deutsch
 - [21 Lessons for the 21st Century](https://a.co/d/3s4uwq2) and [Homo Deus](https://a.co/d/bIDFGCW), by Yuval Noah Harari
-
-###### Shoulders to Stand On ⮯
-
--
+- [The Man from the Future](https://a.co/d/2KYcgRl), by Ananyo Bhattacharya
+- [Escape Into Meaning](https://a.co/d/9ofE8Zz), by Evan Puschak
+- [The Network State](https://thenetworkstate.com), by Balaji Srinivasan
+- [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
+- [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson

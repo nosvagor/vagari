@@ -123,32 +123,20 @@
         width="100%"
     >
 </p>
-
-<h4 align="center">Base</h4>
-
+<h4 align="center">Darks</h4>
 <table align="center">
     <tr align="center">
         <td><img src="https://place-hold.it/64/11121c/e7e9f5&text=bg2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/171928/ccd1e8&text=bg1&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/b4bcdb&text=bg&bold&fontsize=14"</td>
-        <td> 🪞 </td>
-        <td><img src="https://place-hold.it/64/b4bcdb/222536&text=fg&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/ccd1e8/171928&text=fg1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/e7e9f5/11121c&text=fg2&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
-        <td>#11121c</td>
-        <td>#171928</td>
-        <td>#222536</td>
-        <td> ⇋ </td>
-        <td>#b4bcdb</td>
-        <td>#ccd1e8</td>
-        <td>#e7e9f5</td>
+        <td><code>#11121c</code></td>
+        <td><code>#171928</code></td>
+        <td><code>#222536</code></td>
     </tr>
 </table>
-
-<h4 align="center">Grey</h4>
-
+<h4 align="center">Greys</h4>
 <table align="center">
     <tr align="center">
         <td><img src="https://place-hold.it/64/434a6b/b4bcdb&text=g4&bold&fontsize=14"</td>
@@ -157,17 +145,15 @@
         <td><img src="https://place-hold.it/64/848fb8/222536&text=g7&bold&fontsize=14"</td>
     </tr>
     <tr align="center">
-        <td>#434a6b</td>
-        <td>#586086</td>
-        <td>#6d779e</td>
-        <td>#848fb8</td>
+        <td><code>#434a6b</code></td>
+        <td><code>#586086</code></td>
+        <td><code>#6d779e</code></td>
+        <td><code>#848fb8</code></td>
     </tr>
 </table>
-
 <h4 align="center">Communicative Colors</h4>
-
 <table align="center">
-    <tr>
+    <tr align="center">
         <td><img src="https://place-hold.it/64/9e73f5/7d38eb&text=purple&bold&fontsize=14"</td>
         <td><img src="https://place-hold.it/64/738ef5/3853eb&text=blue&bold&fontsize=14"</td>
         <td><img src="https://place-hold.it/64/73caf5/38a6eb&text=azure&bold&fontsize=14"</td>
@@ -176,16 +162,15 @@
         <td><img src="https://place-hold.it/64/9ff573/6aeb38&text=green&bold&fontsize=14"</td>
     </tr>
     <tr align="center">
-        <td>#9e73f5</td>
-        <td>#738ef5</td>
-        <td>#73caf5</td>
-        <td>#73f5df</td>
-        <td>#73f593</td>
-        <td>#9ff573</td>
+        <td><code>#9e73f5</code></td>
+        <td><code>#738ef5</code></td>
+        <td><code>#73caf5</code></td>
+        <td><code>#73f5df</code></td>
+        <td><code>#73f593</code></td>
+        <td><code>#9ff573</code></td>
     </tr>
 </table>
-
-<h4 align="center"> Signaling Colors</h4>
+<h4 align="center">Signaling Colors</h4>
 <table align="center">
     <tr align="center">
         <td><img src="https://place-hold.it/64/f5db73/ebbd38&text=yellow&bold&fontsize=14"</td>
@@ -194,10 +179,23 @@
         <td><img src="https://place-hold.it/64/f573d5/eb38bd&text=pink&bold&fontsize=14"</td>
     </tr>
     <tr align="center">
-        <td> #f5db73 </td>
-        <td> #f59f73 </td>
-        <td> #f57389 </td>
-        <td> #f573d5 </td>
+        <td><code>#f5db73</code></td>
+        <td><code>#f59f73</code></td>
+        <td><code>#f57389</code></td>
+        <td><code>#f573d5</code></td>
+    </tr>
+</table>
+<h4 align="center">Lights</h4>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/b4bcdb/222536&text=fg&bold&fontsize=14"</td>
+        <td><img src="https://place-hold.it/64/ccd1e8/171928&text=fg1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/e7e9f5/11121c&text=fg2&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#b4bcdb</code></td>
+        <td><code>#ccd1e8</code></td>
+        <td><code>#e7e9f5</code></td>
     </tr>
 </table>
 

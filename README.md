@@ -365,7 +365,7 @@ Essentially, if you could not tell already, story (_meaning_) is a huge factor
 in the philosophy of _vagari_. Anyone can make a [color
 scheme](https://www.slant.co/topics/358/~best-color-themes-for-text-editors),
 and many others will be better for certain people in certain contexts. In the
-end, _vagari_ is not trying to be the _best_ or _most popular_ color scheme ([functionality is a just a useful
+end, _vagari_ is not trying to be the _best_, or _most popular_, color scheme ([functionality is a just a useful
 quality](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
 
 Instead, at it's core, _vagari_ is trying to be the most _meaningful_ color
@@ -382,7 +382,7 @@ Related principles and concepts not already mentioned:
 3. [What would you do, even if you knew you **would fail**?](https://youtu.be/XAE46z9wT0A)
 
 Ideally, properly embracing this principle ought to compel users to want to
-proudly display and share _vagari_, resulting in a positive feedback loop of _meaning_ via the injection _new meaning_, provided by _new users_.
+proudly display and share _vagari_, resulting in a positive feedback loop of _meaning_ via the injection of _new meaning_, provided by _new users_.
 
 ### Collaboration
 
@@ -408,7 +408,15 @@ among the participants. The philosophy of _vagari_ is built upon the idea that
 discovery](https://youtu.be/_ArVh3Cj9rw). Sure, one node in a network may be
 the seed, or the spark, for a cascade of activation&mldr; but it's the activity
 in the network itself that creates the **gestalt**, i.e., the unique property of
-a whole that is more than the sum of it's parts.
+a whole that is more than the sum of its parts.
+
+---
+
+<h4 align="center">
+<a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">wanderers</a>
+</h4>
+
+---
 
 <br>
 

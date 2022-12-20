@@ -118,7 +118,7 @@
 
 <p align="center">
     <img
-        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v2.svg?raw=true"
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v3.svg?raw=true"
         title="vagari color pallete"
         width="100%"
     >

@@ -114,96 +114,96 @@
 </a>
 </p>
 
-## 🢣 Pallet
-
-<p align="center">
-    <img
-        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v3.svg?raw=true"
-        title="vagari color pallete"
-        width="100%"
-    >
-</p>
-<h4 align="center">Darks</h4>
-<table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/0f0f10/e7e9f5&text=d&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/131316/e7e9f5&text=d1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/11121c/e7e9f5&text=bg2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/171928/ccd1e8&text=bg1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/b4bcdb&text=bg&bold&fontsize=14"</td>
-    </tr>
-    <tr align="center">
-        <td><code>#0f0f10</code></td>
-        <td><code>#131316</code></td>
-        <td><code>#11121c</code></td>
-        <td><code>#171928</code></td>
-        <td><code>#222536</code></td>
-    </tr>
-</table>
-<h4 align="center">Lights</h4>
-<table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/b4bcdb/222536&text=fg&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/ccd1e8/171928&text=fg1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/e7e9f5/11121c&text=fg2&bold&fontsize=14"></td>
-    </tr>
-    <tr align="center">
-        <td><code>#b4bcdb</code></td>
-        <td><code>#ccd1e8</code></td>
-        <td><code>#e7e9f5</code></td>
-    </tr>
-</table>
-<h4 align="center">Greys</h4>
-<table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/434a6b/b4bcdb&text=g4&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/586086/ccd1e8&text=g5&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/6d779e/171928&text=g6&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/848fb8/222536&text=g7&bold&fontsize=14"</td>
-    </tr>
-    <tr align="center">
-        <td><code>#434a6b</code></td>
-        <td><code>#586086</code></td>
-        <td><code>#6d779e</code></td>
-        <td><code>#848fb8</code></td>
-    </tr>
-</table>
-<h4 align="center">Communicative Colors</h4>
-<table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/9e73f5/7d38eb&text=purple&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/738ef5/3853eb&text=blue&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/73caf5/38a6eb&text=azure&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/73f5df/38ebc5&text=cyan&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/73f593/38eb5c&text=lime&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/9ff573/6aeb38&text=green&bold&fontsize=14"</td>
-    </tr>
-    <tr align="center">
-        <td><code>#9e73f5</code></td>
-        <td><code>#738ef5</code></td>
-        <td><code>#73caf5</code></td>
-        <td><code>#73f5df</code></td>
-        <td><code>#73f593</code></td>
-        <td><code>#9ff573</code></td>
-    </tr>
-</table>
-<h4 align="center">Signaling Colors</h4>
-<table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/f5db73/ebbd38&text=yellow&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/f59f73/eb6b38&text=orange&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/f57389/eb384d&text=red&bold&fontsize=14"</td>
-        <td><img src="https://place-hold.it/64/f573d5/eb38bd&text=pink&bold&fontsize=14"</td>
-    </tr>
-    <tr align="center">
-        <td><code>#f5db73</code></td>
-        <td><code>#f59f73</code></td>
-        <td><code>#f57389</code></td>
-        <td><code>#f573d5</code></td>
-    </tr>
-</table>
-
-<br>
+<!-- ## 🢣 Pallet -->
+<!---->
+<!-- <p align="center"> -->
+<!--     <img -->
+<!--         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v3.svg?raw=true" -->
+<!--         title="vagari color pallete" -->
+<!--         width="100%" -->
+<!--     > -->
+<!-- </p> -->
+<!-- <h4 align="center">Darks</h4> -->
+<!-- <table align="center"> -->
+<!--     <tr align="center"> -->
+<!--         <td><img src="https://place-hold.it/64/0f0f10/e7e9f5&text=d&bold&fontsize=14"></td> -->
+<!--         <td><img src="https://place-hold.it/64/131316/e7e9f5&text=d1&bold&fontsize=14"></td> -->
+<!--         <td><img src="https://place-hold.it/64/11121c/e7e9f5&text=bg2&bold&fontsize=14"></td> -->
+<!--         <td><img src="https://place-hold.it/64/171928/ccd1e8&text=bg1&bold&fontsize=14"></td> -->
+<!--         <td><img src="https://place-hold.it/64/222536/b4bcdb&text=bg&bold&fontsize=14"</td> -->
+<!--     </tr> -->
+<!--     <tr align="center"> -->
+<!--         <td><code>#0f0f10</code></td> -->
+<!--         <td><code>#131316</code></td> -->
+<!--         <td><code>#11121c</code></td> -->
+<!--         <td><code>#171928</code></td> -->
+<!--         <td><code>#222536</code></td> -->
+<!--     </tr> -->
+<!-- </table> -->
+<!-- <h4 align="center">Lights</h4> -->
+<!-- <table align="center"> -->
+<!--     <tr align="center"> -->
+<!--         <td><img src="https://place-hold.it/64/b4bcdb/222536&text=fg&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/ccd1e8/171928&text=fg1&bold&fontsize=14"></td> -->
+<!--         <td><img src="https://place-hold.it/64/e7e9f5/11121c&text=fg2&bold&fontsize=14"></td> -->
+<!--     </tr> -->
+<!--     <tr align="center"> -->
+<!--         <td><code>#b4bcdb</code></td> -->
+<!--         <td><code>#ccd1e8</code></td> -->
+<!--         <td><code>#e7e9f5</code></td> -->
+<!--     </tr> -->
+<!-- </table> -->
+<!-- <h4 align="center">Greys</h4> -->
+<!-- <table align="center"> -->
+<!--     <tr align="center"> -->
+<!--         <td><img src="https://place-hold.it/64/434a6b/b4bcdb&text=g4&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/586086/ccd1e8&text=g5&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/6d779e/171928&text=g6&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/848fb8/222536&text=g7&bold&fontsize=14"</td> -->
+<!--     </tr> -->
+<!--     <tr align="center"> -->
+<!--         <td><code>#434a6b</code></td> -->
+<!--         <td><code>#586086</code></td> -->
+<!--         <td><code>#6d779e</code></td> -->
+<!--         <td><code>#848fb8</code></td> -->
+<!--     </tr> -->
+<!-- </table> -->
+<!-- <h4 align="center">Communicative Colors</h4> -->
+<!-- <table align="center"> -->
+<!--     <tr align="center"> -->
+<!--         <td><img src="https://place-hold.it/64/9e73f5/7d38eb&text=purple&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/738ef5/3853eb&text=blue&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/73caf5/38a6eb&text=azure&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/73f5df/38ebc5&text=cyan&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/73f593/38eb5c&text=lime&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/9ff573/6aeb38&text=green&bold&fontsize=14"</td> -->
+<!--     </tr> -->
+<!--     <tr align="center"> -->
+<!--         <td><code>#9e73f5</code></td> -->
+<!--         <td><code>#738ef5</code></td> -->
+<!--         <td><code>#73caf5</code></td> -->
+<!--         <td><code>#73f5df</code></td> -->
+<!--         <td><code>#73f593</code></td> -->
+<!--         <td><code>#9ff573</code></td> -->
+<!--     </tr> -->
+<!-- </table> -->
+<!-- <h4 align="center">Signaling Colors</h4> -->
+<!-- <table align="center"> -->
+<!--     <tr align="center"> -->
+<!--         <td><img src="https://place-hold.it/64/f5db73/ebbd38&text=yellow&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/f59f73/eb6b38&text=orange&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/f57389/eb384d&text=red&bold&fontsize=14"</td> -->
+<!--         <td><img src="https://place-hold.it/64/f573d5/eb38bd&text=pink&bold&fontsize=14"</td> -->
+<!--     </tr> -->
+<!--     <tr align="center"> -->
+<!--         <td><code>#f5db73</code></td> -->
+<!--         <td><code>#f59f73</code></td> -->
+<!--         <td><code>#f57389</code></td> -->
+<!--         <td><code>#f573d5</code></td> -->
+<!--     </tr> -->
+<!-- </table> -->
+<!---->
+<!-- <br> -->
 
 ## 🢣 General Philosophy
 

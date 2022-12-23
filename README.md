@@ -114,15 +114,15 @@
 </a>
 </p>
 
-<!-- ## 🢣 Pallet -->
-<!---->
-<!-- <p align="center"> -->
-<!--     <img -->
-<!--         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v3.svg?raw=true" -->
-<!--         title="vagari color pallete" -->
-<!--         width="100%" -->
-<!--     > -->
-<!-- </p> -->
+## 🢣 Pallet
+
+<p align="center">
+    <img
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v3.svg?raw=true"
+        title="vagari color pallete"
+        width="100%"
+    >
+</p>
 <!-- <h4 align="center">Darks</h4> -->
 <!-- <table align="center"> -->
 <!--     <tr align="center"> -->

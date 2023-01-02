@@ -336,8 +336,10 @@ selection of interested minds.
 
 ### Complexity
 
-⮩ i.e., a dance involving [computational irreducibly](https://youtu.be/mfW7pvlrzyM) and
-[information](https://youtu.be/v68zYyaEmEA?t=485), and [choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
+⮩ i.e., a dance involving [computational
+irreducibly](https://youtu.be/mfW7pvlrzyM),
+[information](https://youtu.be/v68zYyaEmEA?t=485), and
+[choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
 
 Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
 of this, the embrace of choas is at the core of the design philosophy. _vagari_
@@ -367,8 +369,8 @@ Essentially, if you could not tell already, story (_meaning_) is a huge factor
 in the philosophy of _vagari_. Anyone can make a [color
 scheme](https://www.slant.co/topics/358/~best-color-themes-for-text-editors),
 and many others will be better for certain people in certain contexts. In the
-end, _vagari_ is not trying to be the _best_, or _most popular_, color scheme ([functionality is a just a useful
-quality](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
+end, _vagari_ is not trying to be the _best_, or _most popular_, color scheme
+([functionality/appeal is are just a useful qualitieis](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
 
 Instead, at it's core, _vagari_ is trying to be the most _meaningful_ color
 scheme. _vagari_ assumes that most other color schemes do not allow the _art of
@@ -406,8 +408,7 @@ Well, to be frank: _vagari is pretentious_; it's kind of essential to success of
 
 Ideally, shared participation in this fiction will hopefully manifest a reality
 among the participants. The philosophy of _vagari_ is built upon the idea that
-[collaboration is the ultimate force for
-discovery](https://youtu.be/_ArVh3Cj9rw). Sure, one node in a network may be
+[collaboration is the ultimate force for discovery](https://youtu.be/_ArVh3Cj9rw). Sure, one node in a network may be
 the seed, or the spark, for a cascade of activation&mldr; but it's the activity
 in the network itself that creates the **gestalt**, i.e., the unique property of
 a whole that is more than the sum of its parts.

@@ -145,7 +145,7 @@
         <td><img src="https://place-hold.it/64/09090b/8c92ba&text=d3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
-        <th></th>
+        <th> 🕶️ </th>
         <td><code>#101014</code></td>
         <td><code>#1a1a24</code></td>
         <td><code>#09090b</code></td>

@@ -114,7 +114,7 @@
 </a>
 </p>
 
-## 🢣 Pallet
+## 🢣 Palette
 
 <p align="center">
     <img
@@ -172,7 +172,7 @@ signficiance. ⮯
 </a>
 
 [Quantum Chromodynamics &ndash; What Makes the Strong Force Strong?](https://youtu.be/y1px8hBl7zg?t=787)
-<br>The video that finally catalyzed the creation of _vagari_.
+<br>The video that catalyzed the creation of _vagari_.
 
 [Awakening from the Meaning Crisis](https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 <br>A wonderful series about history, philosophy, and the

@@ -127,10 +127,10 @@
 <h4 align="center">Background</h4>
 <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/64/222536/c5c9e2&text=bg&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/b6bbd8&text=bg&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/181a2a/b6bbd8&text=bg1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/0e101b/a7abce&text=bg2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/08080d/8c92ba&text=bg3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/0e101b/b6bbd8&text=bg2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/08080d/b6bbd8&text=bg3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#222536</code></td>
@@ -140,9 +140,9 @@
     </tr>
     <tr align="center">
         <th> ⮩ </th>
-        <td><img src="https://place-hold.it/64/1a1a24/b6bbd8&text=d1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/101014/a7abce&text=da&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/09090b/8c92ba&text=d3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/1a1a24/b6bbd8&text=dr&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/101014/b6bbd8&text=dr1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/09090b/b6bbd8&text=dr2&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <th> 🕶️ </th>
@@ -151,6 +151,258 @@
         <td><code>#09090b</code></td>
     </tr>
     <tr align="center">
+    </tr>
+</table>
+
+<h4 align="center">Foreground</h4>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/8c92ba/0e101b&text=fg2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/a7abce/0e101b&text=fg1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/b6bbd8/0e101b&text=fg&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/c5c9e2/0e101b&text=br&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/d7dbee/0e101b&text=br1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#d7dbee</code></td>
+        <td><code>#c5c9e2</code></td>
+        <td><code>#b6bbd8</code></td>
+        <td><code>#a7abce</code></td>
+        <td><code>#8c92ba</code></td>
+    </tr>
+</table>
+
+<h4 align="center">Core</h4>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/3d60e6/0e101b&text=blu0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/6c88f4/0e101b&text=blu&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/a2b4fa/0e101b&text=blu1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#3d60e6</code></td>
+        <td><code>#6b88f4</code></td>
+        <td><code>#a2b4fa</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/d55c13/0e101b&text=orn0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/ec9055/0e101b&text=orn&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/ff9e7a/0e101b&text=orn1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#d55c1e</code></td>
+        <td><code>#ec9055</code></td>
+        <td><code>#ff9e7a</code></td>
+    </tr>
+</table>
+
+<h4 align="center">Communicative</h4>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/2a87c7/0e101b&text=azr0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/59b5e5/0e101b&text=azr&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/9edbff/0e101b&text=azr1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#2a87c7</code></td>
+        <td><code>#59b5e5</code></td>
+        <td><code>#9edbff</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/8f40e3/0e101b&text=prp0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/9d7af0/0e101b&text=prp&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/c2aafc/0e101b&text=prp1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#8f40e3</code></td>
+        <td><code>#9d7af0</code></td>
+        <td><code>#c2aafc</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/5e9249/0e101b&text=grn0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/86b96f/0e101b&text=grn&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/b7e6a3/0e101b&text=grn1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#5e9249</code></td>
+        <td><code>#86b96f</code></td>
+        <td><code>#b7e6a3</code></td>
+    </tr>
+</table>
+
+<h4 align="center">Signaling</h4>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/02bba5/0e101b&text=cyn0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/4adecd/0e101b&text=cyn&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/a8fff9/0e101b&text=cyn1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#02bba5</code></td>
+        <td><code>#4adecd</code></td>
+        <td><code>#a8fff9</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/40964e/0e101b&text=emr0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/65be75/0e101b&text=emr&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/9eeaab/0e101b&text=emr1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#40964e</code></td>
+        <td><code>#65b375</code></td>
+        <td><code>#9eeaab</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/d79c13/0e101b&text=yel0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/e6c747/0e101b&text=yel&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/fff19e/0e101b&text=yel1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#d79c13</code></td>
+        <td><code>#e6c747</code></td>
+        <td><code>#fff19e</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/d0253a/0e101b&text=red0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/ed5f6f/0e101b&text=red&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/ff99b1/0e101b&text=red1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#d0253a</code></td>
+        <td><code>#ed5f6f</code></td>
+        <td><code>#ff99b1</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/b7349f/0e101b&text=pnk0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/dc60bf/0e101b&text=pnk&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/ff94d4/0e101b&text=pnk1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#b7349f</code></td>
+        <td><code>#dc60bf</code></td>
+        <td><code>#ff94d4</code></td>
+    </tr>
+</table>
+
+<h4 align="center">Muted</h4>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/883f41/0e101b&text=leu0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/ae615f/0e101b&text=leu&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/cf9590/0e101b&text=leu1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#883f41</code></td>
+        <td><code>#ae615f</code></td>
+        <td><code>#cf9590</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/707d3a/0e101b&text=met0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/9bab57/0e101b&text=met&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/c2cf90/0e101b&text=met1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#707d3a</code></td>
+        <td><code>#9bab57</code></td>
+        <td><code>#c2cf90</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/44836e/0e101b&text=val0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/5cb397/0e101b&text=val&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/9dd4c2/0e101b&text=val1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#44826e</code></td>
+        <td><code>#5cb397</code></td>
+        <td><code>#9dd4c2</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/3e5584/0e101b&text=his0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/5678ac/0e101b&text=his&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/8ba5cb/0e101b&text=his1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#3e5584</code></td>
+        <td><code>#5678ac</code></td>
+        <td><code>#8ba5cb</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/48/754087/0e101b&text=trp0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/9e5eb0/0e101b&text=trp&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/c293cd/0e101b&text=trp1&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#754087</code></td>
+        <td><code>#9e5eb0</code></td>
+        <td><code>#c293cd</code></td>
+    </tr>
+</table>
+
+<h4 align="center">Grey</h4>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/64//0e101b&text=gb&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64//0e101b&text=gb&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64//0e101b&text=gb1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64//0e101b&text=gb&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64//0e101b&text=gb3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
+        <td><code>#</code></td>
     </tr>
 </table>
 

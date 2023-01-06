@@ -110,6 +110,23 @@
 
 ## 🢣 Contents
 
+- [Palette](#-palette)
+  - [Background](#background), [Foreground](#foreground)
+  - [Core](#Core), [Communicative](#Communicative), [Signaling](#Signaling), [Muted](#Muted), [Greys](#Greys)
+- [General Philosophy](#-general-philosophy)
+  - [Manifest Meaning](#manifest-meaning)
+  - [Colors as the Symbols, Design as the Grammar](#colors-as-the-symbols-design-as-the-grammar)
+  - [Chaos is not _chaotic_](#chaos-is-not-_chaotic_)
+  - [Is Fashion Invented or Discovered?](#is-fashion-invented-or-discovered)
+- [Design Principles](#-design-principles)
+  - [Sex](#sex), [Complexity](#complexity), [Saga](#saga), [Collaboration](#collaboration)
+- [Gallery](#-gallery)
+- [Ports](#-ports)
+- [Contribution](#-contribution)
+- [Gratitude](#-gratitude)
+  - [Resources](#resources-)
+  - [Books](#⮯books-)
+
 ## 🢣 Palette
 
 <p align="center">
@@ -334,7 +351,7 @@
     </tr>
 </table>
 
-<h4 align="center">Grey</h4>
+<h4 align="center">Greys</h4>
 <table align="center">
     <tr align="center">
         <td><img src="https://place-hold.it/48/3c4162/0e101b&text=slt0&bold&fontsize=14"></td>
@@ -487,7 +504,7 @@ minds), coupled with, but not limited to:
 - **[courage](https://youtu.be/dKz095P7LdU)** to challenge the _status quo_, and everlasting itch _to **explore**_.
 - **[humility](https://youtu.be/Tfrrubw7pcE)** in allowing the _process_ to unfold, and willingness _to **fail**_.
 
-#### Is Fashion Invented, or Discovered?
+#### Is Fashion Invented or Discovered?
 
 ⮩ [Most Adavance, Yet Acceptable](https://youtu.be/mgyGptmH7EE); evolution acts
 on [mutations during replication](https://youtu.be/UhSStR-FpQc) of existing

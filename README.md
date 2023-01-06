@@ -62,8 +62,8 @@
 <a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/dystopia-utopia-decor.png?raw=true"
-        width="360"
-        height="220"
+        width="40%"
+        height="40%"
         alt="Never draw (create, build, code) from imagination"
         title="Never draw (create, build, code) from imagination"
         align="right"
@@ -72,23 +72,19 @@
 </a>
 
 <p align="center">
-&emsp;&emsp;&ensp;&emsp;<a href="https://github.com/folke/tokyonight.nvim"><strong>🥇 Tokyo Night 🥇</strong></a>
+&emsp;&emsp;&emsp;&ensp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><big><strong>🥇 Catppuccin 🥇</strong></big></a>
 <br>
-&emsp;&ensp;<a href="https://github.com/catppuccin/catppuccin">Catppuccin</a> 🥈&nbsp;
+&emsp;&ensp;<a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a>&nbsp;🥈&nbsp;
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
-        title="nothing is original; mutate & evolve"
-        width=128
+        title="nothing is original; mutate & evolve1"
+        width=164
     >
-🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
-<br>
-&emsp;&emsp;&ensp;&emsp;worthy mentions ↴
-<br>
-&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-<a href="https://www.nordtheme.com/">Nord</a>,
-<a href="https://ethanschoonover.com/solarized/">Solarized</a>, and
-<a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
+🥉 <small><a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a></small>
 </p>
+
+<br>
+<small>
 
 <br>
 
@@ -108,6 +104,11 @@
 </a>
 </p>
 
+worthy mentions:
+<a href="https://www.nordtheme.com/">Nord</a>,
+<a href="https://ethanschoonover.com/solarized/">Solarized</a>, and
+<a href="https://github.com/morhetz/gruvbox">Gruvbox</a></small>
+
 ## 🢣 Contents
 
 - [Palette](#-palette)
@@ -116,7 +117,7 @@
 - [General Philosophy](#-general-philosophy)
   - [Manifest Meaning](#manifest-meaning)
   - [Colors as the Symbols, Design as the Grammar](#colors-as-the-symbols-design-as-the-grammar)
-  - [Chaos is not _chaotic_](#chaos-is-not-_chaotic_)
+  - [Chaos is not _chaotic_](#chaos-is-not-chaotic)
   - [Is Fashion Invented or Discovered?](#is-fashion-invented-or-discovered)
 - [Design Principles](#-design-principles)
   - [Sex](#sex), [Complexity](#complexity), [Saga](#saga), [Collaboration](#collaboration)
@@ -124,8 +125,7 @@
 - [Ports](#-ports)
 - [Contribution](#-contribution)
 - [Gratitude](#-gratitude)
-  - [Resources](#resources-)
-  - [Books](#⮯books-)
+  - [Resources](#resources-), [Books](#books-)
 
 ## 🢣 Palette
 

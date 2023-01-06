@@ -27,12 +27,6 @@
     >
 </a>
 &nbsp;
-<!-- <a href=""> -->
-<!--     <img -->
-<!--         src="https://img.shields.io/github/sponsors/nosvagor?color=f896d6&logo=githubsponsors&labelColor=24283b&logoColor=f896d6&style=for-the-badge" -->
-<!--         title="Are you watching closely?" -->
-<!--     > -->
-<!-- &nbsp; -->
 <a href="https://github.com/nosvagor/vagari/contributors">
     <img
         src="https://img.shields.io/github/contributors/nosvagor/vagari?color=9ff573&logo=gitea&labelColor=24283b&logoColor=9ff573&style=for-the-badge"
@@ -113,6 +107,8 @@
     >
 </a>
 </p>
+
+## 🢣 Contents
 
 ## 🢣 Palette
 
@@ -341,12 +337,12 @@
 <h4 align="center">Grey</h4>
 <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/48/3c4162/0e101b&text=plt0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/444a6f/0e101b&text=platinum&bold&fontsize=11"></td>
-        <td><img src="https://place-hold.it/48/4c527b/0e101b&text=plt1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/48/515885/0e101b&text=plt2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/48/596091/0e101b&text=plt3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/48/646ca0/0e101b&text=plt4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/3c4162/0e101b&text=slt0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/444a6f/0e101b&text=slate&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/4c527b/0e101b&text=slt1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/515885/0e101b&text=slt2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/596091/0e101b&text=slt3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/646ca0/0e101b&text=slt4&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#3c4162</code></td>
@@ -389,12 +385,12 @@
         <td><code>#6a716a</code></td>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/48/553c34/0e101b&text=stn0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/62463c/0e101b&text=stone&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/48/755448/0e101b&text=stn1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/48/755448/0e101b&text=stn2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/48/7e5a4e/0e101b&text=stn3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/48/8f6557/0e101b&text=stn4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/553c34/0e101b&text=rst0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/62463c/0e101b&text=rust&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/755448/0e101b&text=rst1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/755448/0e101b&text=rst2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/7e5a4e/0e101b&text=rst3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/8f6557/0e101b&text=rst4&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#553c34</code></td>
@@ -578,7 +574,7 @@ some contrast ratios).
 > &ndash; <cite>Donella H. Meadows</cite>
 
 Ideally, properly embracing this principle means a embarking on constant exploration of
-alternative approaches via the willingness depart from the respectable (but not holy) constraints initially set by interesting maths.
+alternative approaches via the willingness depart from the respectable (but not holy) constraints initially set by (ideally) interesting maths.
 
 ### Saga
 
@@ -605,7 +601,7 @@ Related principles and concepts not already mentioned:
 3. [What would you do, even if you knew you **would fail**?](https://youtu.be/XAE46z9wT0A)
 
 Ideally, properly embracing this principle ought to compel users to want to
-proudly display and share _vagari_, resulting in a positive feedback loop of _meaning_ via the injection of _new meaning_, provided by _new users_.
+proudly display and share _vagari_, resulting in a positive feedback loop of _meaning_ via the injection of _new ideas_, provided by _new users_.
 
 ### Collaboration
 
@@ -632,8 +628,6 @@ the seed, or the spark, for a cascade of activation&mldr; but it's the activity
 in the network itself that creates the **gestalt**, i.e., the unique property of
 a whole that is more than the sum of its parts.
 
----
-
 <h4 align="center">
 <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">wanderers</a>
 </h4>
@@ -658,9 +652,9 @@ a whole that is more than the sum of its parts.
 
 ⮩ The links below are included because they are:
 
-- **Major** references; ideas that had a large impact and repeatedly come up.
-- **Indirect** references; ideas that provide extra context or were resources that were very useful.
-- Simply **superb** and _highly recommended_ for the **curious** minds out there.
+- **Major** references or contain ideas that had a large impact and repeatedly come up.
+- **Indirect** references or contain ideas that provide extra context and may have not been referenced directly.
+- **Superb** and are _highly recommended_ for the curious minds out there.
 
 > "Somewhere, something incredible is waiting to be known."
 > &ndash; <cite>Carl Sagan</cite>
@@ -680,6 +674,7 @@ a whole that is more than the sum of its parts.
 - [The Practice](https://a.co/d/35U9K5l), by Seth Godin
 - [The Infinite Game](https://a.co/d/b8WpPX4), by Simon Sinek
 - [The Anatomy of Genre](https://a.co/d/dlMURY4), by John Truby
+- [Principles: Life and Work](https://a.co/d/d2MEH2g), by Ray Dalio
 - [Chaos](https://a.co/d/7ZtUoqN) and [Information](https://a.co/d/flwyX9W), by James Gleick
 - [Thinking In Systems](https://a.co/d/8PKtbDC), by Donella H. Meadows
 - [Exhalation: Stories](https://a.co/d/5UKCWsx) and [Stories of Your Life and Others](https://a.co/d/dPteGuY), by Ted Chiang
@@ -690,3 +685,8 @@ a whole that is more than the sum of its parts.
 - [The Network State](https://thenetworkstate.com), by Balaji Srinivasan
 - [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
 - [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
+
+<small>_Note_: receny bias is surely playing a huge role in what is included above.
+Reference list will be exapnded overtime and will hopefully be rarely
+minimized. Credit will always be given if the source of inspiration is
+realized, however most source insipiration is probably lost due memory entropy 😟.</small>

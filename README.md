@@ -59,37 +59,27 @@
 
 ## 🢣 Inspiration
 
-<a href="https://www.youtube.com/watch?v=NEvMHRgPdyk">
-    <img
-        src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/dystopia-utopia-decor.png?raw=true"
-        width="40%"
-        height="40%"
-        alt="Never draw (create, build, code) from imagination"
-        title="Never draw (create, build, code) from imagination"
-        align="right"
-    >
-    <br>
-</a>
-
 <p align="center">
-&emsp;&emsp;&emsp;&ensp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><big><strong>🥇 Catppuccin 🥇</strong></big></a>
+&emsp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><strong>🥇 Catppuccin 🥇</strong></a>
 <br>
-&emsp;&ensp;<a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a>&nbsp;🥈&nbsp;
+<a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a>&nbsp;🥈&nbsp;
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
-        title="nothing is original; mutate & evolve1"
-        width=164
+        title="nothing is original"
+        width=30%
     >
-🥉 <small><a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a></small>
+🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
 </p>
 
-<br>
-<small>
-
-<br>
+<p align="right">
+⮩ <em>worthy mentions</em>:
+<a href="https://www.nordtheme.com/">Nord</a>,
+<a href="https://ethanschoonover.com/solarized/">Solarized</a>,
+<a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
+</p>
 
 <p align="center">
-<a href="https://github.com/nosvagor/vagari/stargazers">
+&emsp;&emsp;<a href="https://github.com/nosvagor/vagari/stargazers">
     <img
         src="https://img.shields.io/github/stars/nosvagor/vagari?color=f5bd73&logo=apachespark&labelColor=24283b&logoColor=f5bd73&style=for-the-badge"
         title="what is love, baby don't hurt me"
@@ -103,11 +93,6 @@
     >
 </a>
 </p>
-
-worthy mentions:
-<a href="https://www.nordtheme.com/">Nord</a>,
-<a href="https://ethanschoonover.com/solarized/">Solarized</a>, and
-<a href="https://github.com/morhetz/gruvbox">Gruvbox</a></small>
 
 ## 🢣 Contents
 
@@ -703,7 +688,7 @@ a whole that is more than the sum of its parts.
 - [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
 - [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
 
-<small>_Note_: receny bias is surely playing a huge role in what is included above.
+_Note_: receny bias is surely playing a huge role in what is included above.
 Reference list will be exapnded overtime and will hopefully be rarely
 minimized. Credit will always be given if the source of inspiration is
-realized, however most source insipiration is probably lost due memory entropy 😟.</small>
+realized, however most source insipiration is probably lost due memory entropy 😟

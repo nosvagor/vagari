@@ -1,3 +1,5 @@
+<!-- ============================================================================ -->
+<!-- ☄️  heading & badges: {{{ -->
 <h1 align="center"> ☄️ vagari ☄️ </h1>
 
 <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">
@@ -57,8 +59,11 @@
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
 </p>
+<!-- }}} -->
+<!-- ============================================================================ -->
 
-## 🢣 Inspiration
+<details open>
+<summary><h2>Inspiration</h2></summary>
 
 <p align="center">
 &emsp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><strong>🥇 Catppuccin 🥇</strong></a>
@@ -74,26 +79,28 @@
 
 <p align="right">
 ⮩ <em>worthy mentions</em>:
-<a href="https://www.nordtheme.com/">Nord</a>,
-<a href="https://ethanschoonover.com/solarized/">Solarized</a>,
-<a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
+    <a href="https://www.nordtheme.com/">Nord</a>,
+    <a href="https://ethanschoonover.com/solarized/">Solarized</a>,
+    <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
 </p>
 
 <p align="center">
-&emsp;&emsp;<a href="https://github.com/nosvagor/vagari/stargazers">
-    <img
-        src="https://img.shields.io/github/stars/nosvagor/vagari?color=e6c747&logo=apachespark&labelColor=24283b&logoColor=e6c747&style=for-the-badge"
-        title="what is love, baby don't hurt me"
-    >
-</a>
-&nbsp;
-<a href="cullyn.eth/">
-    <img
-        src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=24283b&logoColor=dc60bf&style=for-the-badge"
-        title="github sponsors not set up, pref ETH to cullyn.eth for now"
-    >
-</a>
+    &emsp;&emsp;
+    <a href="https://github.com/nosvagor/vagari/stargazers">
+        <img
+            src="https://img.shields.io/github/stars/nosvagor/vagari?color=e6c747&logo=apachespark&labelColor=24283b&logoColor=e6c747&style=for-the-badge"
+            title="what is love, baby don't hurt me"
+        >
+    </a>
+    &nbsp;
+    <a href="cullyn.eth/">
+        <img
+            src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=24283b&logoColor=dc60bf&style=for-the-badge"
+            title="github sponsors not set up, pref ETH to cullyn.eth for now"
+        >
+    </a>
 </p>
+</details>
 
 ## 🢣 Contents
 
@@ -433,6 +440,8 @@
 </table>
 </details>
 
+<br>
+
 ## 🢣 General Philosophy
 
 #### Manifest Meaning
@@ -463,7 +472,12 @@ and ultimately, the craft of combining _good_ ideas.
 
 ⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history. ⮯
 
-Mining meaning from media, or rather, the **exploration of culture** via the most dominant mediums:
+An obsession with the language of film provided much insight and some rationale
+for this general philosophical (or rather, biological) concept. Hence, the
+following represents a way to mine meaning from media, or rather, the
+
+<details closed> <summary><strong>exploration of culture</strong> via the
+most dominant mediums:</summary>
 
 - [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (importance of ...)
 - [Hitchcock and the Language of Cinema](https://youtu.be/W_JPD8B_0Lc) (Silence)
@@ -486,9 +500,11 @@ Mining meaning from media, or rather, the **exploration of culture** via the mos
 - [What Matters is What You Do](https://youtu.be/EL7e05pClKM) (Humility)
 - [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (Motivation)
 
+</details>
+
 #### Chaos is not _chaotic_
 
-[Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
+⮩ [Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
 pattern of the universe that arises in non-linear systems. ⮯
 
 Creativity is not a some special, dualistic force ("_the muse_,") that only
@@ -595,16 +611,16 @@ proudly display and share _vagari_, resulting in a positive feedback loop of _me
 ⮩ i.e., a dance involving [computational
 irreducibly](https://youtu.be/mfW7pvlrzyM),
 [information](https://youtu.be/v68zYyaEmEA?t=485), and
-[choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
+[chaos](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
 
 Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
-of this, the embrace of choas is at the core of the design philosophy. _vagari_
+of this, the embrace of chaos is at the core of the design philosophy. _vagari_
 is not looking for _the answer_&mdash;_vagari_ is looking for **an answer**;
 always open to a new answer, or a new way of approaching problems.
 
 The starting point of many decisions usually draw upon inspiration from the
 apparent universality of various mathematical concepts or patterns (e.g.,
-[factals](https://youtu.be/-RdOwhmqP5s?t=675) and [holomorphic
+[fractals](https://youtu.be/-RdOwhmqP5s?t=675) and [holomorphic
 dynamics](https://youtu.be/LqbZpur38nw)), hopefully resulting in the injection
 of mathematical meaning (e.g., [the logistic map](https://youtu.be/ovJcsL7vyrk)
 and [Feigenbaum constants](https://en.wikipedia.org/wiki/Feigenbaum_constants) for
@@ -633,7 +649,14 @@ Perhaps, the two most relevant books to the formation of this principle:
 
 One might be tempted to ask: _"why so does vagari seem so&mldr; pretentious?"_
 
-Well, to be frank: _vagari is pretentious_; it's kind of essential to success of the project, actually.
+Well, to be frank: _vagari is pretentious_; it's kind of essential to success
+of the project, actually. **To conjecture**:
+
+> projects like _vagari_ ought to grow to represent a digital
+> flag of some order. Design frameworks ought to move past representing brands,
+> and move towards being a means to virtue signal the digital community
+> (nation) you are a part of. Overtime, frameworks should to evolve like
+> languages, and be less universal.
 
 Ideally, shared participation in this fiction will hopefully manifest a reality
 among the participants. The philosophy of _vagari_ is built upon the idea that
@@ -659,9 +682,10 @@ a whole that is more than the sum of its parts.
 - [ ] [dunst](https://github.com/catppuccin/dunst)
 - [ ] [fzf](https://github.com/catppuccin/fzf)
 - [ ] [GTK](https://github.com/catppuccin/gtk)
+- [ ] [eww]()
 - [ ] [hyprland](https://github.com/catppuccin/hyprland)
 
-<details open><summary> 🪐 Apps</summary>
+<details open><summary>🪐 Apps</summary>
 
 - [ ] [neovim](https://github.com/catppuccin/nvim)
 - [ ] [kitty](https://github.com/catppuccin/kitty)
@@ -685,9 +709,9 @@ a whole that is more than the sum of its parts.
 - [ ] [Twitter]()
 - [ ] [Monkeytype](https://github.com/catppuccin/monkeytype)
 
-_Note_: most of the above ports were orginally modified versions of
-[catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many
-thanks 🙇
+> _Note_: most of the above ports were orginally modified versions of
+> [catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many
+> thanks 🙇
 
 </details>
 
@@ -733,7 +757,12 @@ thanks 🙇
 - [The Selfish Gene](https://a.co/d/0tfeKQO), by Richard Dawkins
 - [Hit Makers](https://a.co/d/aae5wlc), by Derek Thompson
 
-_Note_: receny bias is surely playing a huge role in what is included above.
-Reference list will be exapnded overtime and will hopefully be rarely
-minimized. Credit will always be given if the source of inspiration is
-realized, however most source insipiration is probably lost due memory entropy 😟
+> _Note_: recency bias is surely playing a huge role in what is included above.
+> Reference list will be expanded overtime and will hopefully be rarely
+> minimized. Credit will always be given if the source of inspiration is
+> realized, however most source inspiration is probably lost due memory
+> entropy. In better words:
+>
+> "I cannot remember the books I've read any more than the meals I've
+> eaten; even so, they have made me."
+> &mdash; <cite>Ralph Waldo Emerson</cite>

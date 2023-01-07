@@ -123,8 +123,8 @@
 </p>
 
 <details open >
-<summary><h4 align="center">Background</h4></summary>
-<table align="center">
+<summary><h4>Background</h4></summary>
+<table>
     <tr align="center">
         <td><img src="https://place-hold.it/78/222536/b6bbd8&text=bg&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/181a2a/b6bbd8&text=bg1&bold&fontsize=14"></td>
@@ -154,8 +154,9 @@
 </table>
 </details>
 
-<h4 align="center">Foreground</h4>
-<table align="center">
+<details open >
+<summary><h4>Foreground</h4></summary>
+<table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/8c92ba/0e101b&text=fg2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/a7abce/0e101b&text=fg1&bold&fontsize=14"></td>
@@ -171,9 +172,11 @@
         <td><code>#8c92ba</code></td>
     </tr>
 </table>
+</details>
 
-<h4 align="center">Core</h4>
-<table align="center">
+<details open >
+<summary><h4>Core</h4></summary>
+<table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3d60e6/0e101b&text=blu0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/6c88f4/0e101b&text=blue&bold&fontsize=14"></td>
@@ -195,9 +198,11 @@
         <td><code>#ff9e7a</code></td>
     </tr>
 </table>
+</details>
 
-<h4 align="center">Communicative</h4>
-<table align="center">
+<details open >
+<summary><h4>Communicative</h4></summary>
+<table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/2a87c7/0e101b&text=azr0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/59b5e5/0e101b&text=azure&bold&fontsize=14"></td>
@@ -229,9 +234,11 @@
         <td><code>#c2aafc</code></td>
     </tr>
 </table>
+</details>
 
-<h4 align="center">Signaling</h4>
-<table align="center">
+<details open >
+<summary><h4>Signaling</h4></summary>
+<table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/02bba5/0e101b&text=cyn0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/4adecd/0e101b&text=cyan&bold&fontsize=14"></td>
@@ -283,9 +290,12 @@
         <td><code>#ff94d4</code></td>
     </tr>
 </table>
+</details>
 
+<details open >
+<summary><h4>Muted</h4></summary>
 <h4 align="center">Muted</h4>
-<table align="center">
+<table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3e5584/0e101b&text=his0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/5678ac/0e101b&text=histidine&bold&fontsize=12"></td>
@@ -337,9 +347,11 @@
         <td><code>#c293cd</code></td>
     </tr>
 </table>
+</details>
 
-<h4 align="center">Greys</h4>
-<table align="center">
+<details open >
+<summary><h4>Greys</h4></summary>
+<table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3c4162/0e101b&text=slt0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/444a6f/0e101b&text=slate&bold&fontsize=14"></td>
@@ -421,8 +433,7 @@
         <td><code>#816681</code></td>
     </tr>
 </table>
-
-<br>
+</details>
 
 ## 🢣 General Philosophy
 

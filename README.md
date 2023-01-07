@@ -3,6 +3,7 @@
 <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">
     <p align="center" >
         ⮩ to wander, stroll about, roam, be unsettled, spread abroad ⮯
+        <br>
         <img
             src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue-decor.png?raw=true"
             width="50%"
@@ -52,7 +53,7 @@
 &nbsp;
 <a href="https://youtu.be/gxAaO2rsdIs">
     <img
-        src="https://img.shields.io/github/forks/nosvagor/vagari?color=9d71f0&logo=gnu&labelColor=24283b&logoColor=9d71f0&style=for-the-badge"
+        src="https://img.shields.io/github/license/nosvagor/vagari?color=9d71f0&logo=gnu&labelColor=24283b&logoColor=9d71f0&style=for-the-badge"
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
 </p>
@@ -685,7 +686,7 @@ a whole that is more than the sum of its parts.
 - [ ] [Monkeytype](https://github.com/catppuccin/monkeytype)
 
 _Note_: most of the above ports were orginally modified versions of
-[catppuccin'si ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many
+[catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many
 thanks 🙇
 
 </details>

@@ -5,7 +5,7 @@
         ⮩ to wander, stroll about, roam, be unsettled, spread abroad ⮯
         <img
             src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue-decor.png?raw=true"
-            width="69%"
+            width="50%"
             alt="Wanderers: a short film by Erik Wernquist"
             title="Wanderers: a short film by Erik Wernquist"
         >
@@ -66,7 +66,7 @@
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
         title="nothing is original"
-        width=35%
+        width=30%
     >
 🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
 </p>
@@ -86,10 +86,10 @@
     >
 </a>
 &nbsp;
-<a href="">
+<a href="cullyn.eth/">
     <img
         src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=24283b&logoColor=dc60bf&style=for-the-badge"
-        title="ETH or DAI 🢣 cullyn.eth"
+        title="github sponsors not set up, pref ETH to cullyn.eth for now"
     >
 </a>
 </p>
@@ -97,15 +97,13 @@
 ## 🢣 Contents
 
 - [Palette](#-palette)
-  - [Background](#background), [Foreground](#foreground)
-  - [Core](#Core), [Communicative](#Communicative), [Signaling](#Signaling), [Muted](#Muted), [Greys](#Greys)
 - [General Philosophy](#-general-philosophy)
   - [Manifest Meaning](#manifest-meaning)
   - [Colors as the Symbols, Design as the Grammar](#colors-as-the-symbols-design-as-the-grammar)
   - [Chaos is not _chaotic_](#chaos-is-not-chaotic)
   - [Is Fashion Invented or Discovered?](#is-fashion-invented-or-discovered)
 - [Design Principles](#-design-principles)
-  - [Sex](#sex), [Complexity](#complexity), [Saga](#saga), [Collaboration](#collaboration)
+  - [Sex](#sex), [Saga](#saga), [Complexity](#complexity), [Collaboration](#collaboration)
 - [Gallery](#-gallery)
 - [Ports](#-ports)
 - [Contribution](#-contribution)
@@ -122,8 +120,8 @@
     >
 </p>
 
-<details open >
-<summary><h4>Background</h4></summary>
+<details closed >
+<summary>background</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/78/222536/b6bbd8&text=bg&bold&fontsize=14"></td>
@@ -154,8 +152,8 @@
 </table>
 </details>
 
-<details open >
-<summary><h4>Foreground</h4></summary>
+<details closed >
+<summary>foreground</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/8c92ba/0e101b&text=fg2&bold&fontsize=14"></td>
@@ -174,8 +172,8 @@
 </table>
 </details>
 
-<details open >
-<summary><h4>Core</h4></summary>
+<details closed >
+<summary>core</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3d60e6/0e101b&text=blu0&bold&fontsize=14"></td>
@@ -200,8 +198,8 @@
 </table>
 </details>
 
-<details open >
-<summary><h4>Communicative</h4></summary>
+<details closed >
+<summary>communicative</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/2a87c7/0e101b&text=azr0&bold&fontsize=14"></td>
@@ -236,8 +234,8 @@
 </table>
 </details>
 
-<details open >
-<summary><h4>Signaling</h4></summary>
+<details closed >
+<summary>signaling</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/02bba5/0e101b&text=cyn0&bold&fontsize=14"></td>
@@ -292,9 +290,8 @@
 </table>
 </details>
 
-<details open >
-<summary><h4>Muted</h4></summary>
-<h4 align="center">Muted</h4>
+<details closed >
+<summary>muted</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3e5584/0e101b&text=his0&bold&fontsize=14"></td>
@@ -349,8 +346,8 @@
 </table>
 </details>
 
-<details open >
-<summary><h4>Greys</h4></summary>
+<details closed >
+<summary>greys</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3c4162/0e101b&text=slt0&bold&fontsize=14"></td>
@@ -565,33 +562,6 @@ manage [punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between
 exists in idea-space as well as code) via evolution in design by the sexual selection
 of interested minds.
 
-### Complexity
-
-⮩ i.e., a dance involving [computational
-irreducibly](https://youtu.be/mfW7pvlrzyM),
-[information](https://youtu.be/v68zYyaEmEA?t=485), and
-[choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
-
-Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
-of this, the embrace of choas is at the core of the design philosophy. _vagari_
-is not looking for _the answer_&mdash;_vagari_ is looking for **an answer**;
-always open to a new answer, or a new way of approaching problems.
-
-The starting point of many decisions usually draw upon inspiration from the
-apparent universality of various mathematical concepts or patterns (e.g.,
-[factals](https://youtu.be/-RdOwhmqP5s?t=675) and [holomorphic
-dynamics](https://youtu.be/LqbZpur38nw)), hopefully resulting in the injection
-of mathematical meaning (e.g., [the logistic map](https://youtu.be/ovJcsL7vyrk)
-and [Feigenbaum constants](https://en.wikipedia.org/wiki/Feigenbaum_constants) for
-some contrast ratios).
-
-> "There are no separate systems. The world is a continuum. Where to draw a
-> boundary around a system depends on the purpose of the discussion."
-> &ndash; <cite>Donella H. Meadows</cite>
-
-Ideally, properly embracing this principle means a embarking on constant exploration of
-alternative approaches via the willingness depart from the respectable (but not holy) constraints initially set by (ideally) interesting maths.
-
 ### Saga
 
 ⮩ i.e., [imagination is the key to cooperation](https://youtu.be/LLucUmQVBAE); shared exploration of fiction is how we create useful norms. ⮯
@@ -618,6 +588,33 @@ Related principles and concepts not already mentioned:
 
 Ideally, properly embracing this principle ought to compel users to want to
 proudly display and share _vagari_, resulting in a positive feedback loop of _meaning_ via the injection of _new ideas_, provided by _new users_.
+
+### Complexity
+
+⮩ i.e., a dance involving [computational
+irreducibly](https://youtu.be/mfW7pvlrzyM),
+[information](https://youtu.be/v68zYyaEmEA?t=485), and
+[choas](https://github.com/nosvagor/vagari#chaos-is-not-chaotic). ⮯
+
+Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
+of this, the embrace of choas is at the core of the design philosophy. _vagari_
+is not looking for _the answer_&mdash;_vagari_ is looking for **an answer**;
+always open to a new answer, or a new way of approaching problems.
+
+The starting point of many decisions usually draw upon inspiration from the
+apparent universality of various mathematical concepts or patterns (e.g.,
+[factals](https://youtu.be/-RdOwhmqP5s?t=675) and [holomorphic
+dynamics](https://youtu.be/LqbZpur38nw)), hopefully resulting in the injection
+of mathematical meaning (e.g., [the logistic map](https://youtu.be/ovJcsL7vyrk)
+and [Feigenbaum constants](https://en.wikipedia.org/wiki/Feigenbaum_constants) for
+some contrast ratios).
+
+> "There are no separate systems. The world is a continuum. Where to draw a
+> boundary around a system depends on the purpose of the discussion."
+> &ndash; <cite>Donella H. Meadows</cite>
+
+Ideally, properly embracing this principle means a embarking on constant exploration of
+alternative approaches via the willingness depart from the respectable (but not holy) constraints initially set by (ideally) interesting maths.
 
 ### Collaboration
 

@@ -121,7 +121,7 @@
 </p>
 
 <details closed >
-<summary>background</summary>
+<summary> ⬛ background</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/78/222536/b6bbd8&text=bg&bold&fontsize=14"></td>
@@ -153,7 +153,7 @@
 </details>
 
 <details closed >
-<summary>foreground</summary>
+<summary> ⬜ foreground</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/8c92ba/0e101b&text=fg2&bold&fontsize=14"></td>
@@ -173,7 +173,7 @@
 </details>
 
 <details closed >
-<summary>core</summary>
+<summary> 🎏 core</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3d60e6/0e101b&text=blu0&bold&fontsize=14"></td>
@@ -199,7 +199,7 @@
 </details>
 
 <details closed >
-<summary>communicative</summary>
+<summary> 🎆 communicative</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/2a87c7/0e101b&text=azr0&bold&fontsize=14"></td>
@@ -235,7 +235,7 @@
 </details>
 
 <details closed >
-<summary>signaling</summary>
+<summary> 🎨 signaling</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/02bba5/0e101b&text=cyn0&bold&fontsize=14"></td>
@@ -291,11 +291,11 @@
 </details>
 
 <details closed >
-<summary>muted</summary>
+<summary> 🍡 muted</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3e5584/0e101b&text=his0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/5678ac/0e101b&text=histidine&bold&fontsize=12"></td>
+        <td><img src="https://place-hold.it/64/5678ac/0e101b&text=his&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/8ba5cb/0e101b&text=his1&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
@@ -305,7 +305,7 @@
     </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/48/44836e/0e101b&text=val0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/5cb397/0e101b&text=valine&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/5cb397/0e101b&text=val&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/9dd4c2/0e101b&text=val1&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
@@ -315,7 +315,7 @@
     </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/48/707d3a/0e101b&text=lys0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/9bab57/0e101b&text=methionine&bold&fontsize=9"></td>
+        <td><img src="https://place-hold.it/64/9bab57/0e101b&text=met&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/c2cf90/0e101b&text=met1&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
@@ -325,7 +325,7 @@
     </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/48/883f41/0e101b&text=leu0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/ae615f/0e101b&text=leucine&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/ae615f/0e101b&text=leu&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/cf9590/0e101b&text=leu1&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
@@ -335,7 +335,7 @@
     </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/48/754087/0e101b&text=trp0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/9e5eb0/0e101b&text=tryptophan&bold&fontsize=9"></td>
+        <td><img src="https://place-hold.it/64/9e5eb0/0e101b&text=trp&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/c293cd/0e101b&text=trp1&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
@@ -347,7 +347,7 @@
 </details>
 
 <details closed >
-<summary>greys</summary>
+<summary> 👽 grey</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/48/3c4162/0e101b&text=slt0&bold&fontsize=14"></td>

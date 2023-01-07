@@ -15,21 +15,21 @@
 <p align="center">
 <a href="https://github.com/nosvagor/vagari/issues">
     <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f57389&logo=fireship&labelColor=24283b&logoColor=f57389&style=for-the-badge"
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=ed5f6f&logo=fireship&labelColor=24283b&logoColor=ed5f6f&style=for-the-badge"
         title="this is not fine!!"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/discussions">
     <img
-        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=f59f73&logo=github&labelColor=24283b&logoColor=f59f73&style=for-the-badge"
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=ec9055&logo=github&labelColor=24283b&logoColor=ec9055&style=for-the-badge"
         title="alright then, keep your secrets"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/contributors">
     <img
-        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=9ff573&logo=gitea&labelColor=24283b&logoColor=9ff573&style=for-the-badge"
+        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=86b96f&logo=gitea&labelColor=24283b&logoColor=86b96f&style=for-the-badge"
         title="gotta do the cooking by the book"
     >
 </a>
@@ -37,7 +37,7 @@
 <br>
 <a href="https://www.reddit.com/r/unixporn/">
     <img
-        src="https://vbr.wocr.tk/badge?color=73f5df&logoColor=73f5df&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
+        src="https://vbr.wocr.tk/badge?color=59b5e5&logoColor=59b5e5&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
         alt="visitor count 💀"
         title="hello there (I use arch, neovim, and rust, btw)"
     >
@@ -45,14 +45,14 @@
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/network/members">
     <img
-        src="https://img.shields.io/github/forks/nosvagor/vagari?color=738ef5&logo=git&labelColor=24283b&logoColor=738ef5&style=for-the-badge"
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=6c88f4&logo=git&labelColor=24283b&logoColor=6c88f4&style=for-the-badge"
         title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts."
     >
 </a>
 &nbsp;
 <a href="https://youtu.be/gxAaO2rsdIs">
     <img
-        src="https://img.shields.io/github/license/nosvagor/vagari?color=9e73f5&logo=gnu&labelColor=24283b&logoColor=9e73f5&style=for-the-badge"
+        src="https://img.shields.io/github/license/nosvagor/vagari?color=9d71f0&logo=gnu&labelColor=24283b&logoColor=9d71f0&style=for-the-badge"
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
 </p>
@@ -66,7 +66,7 @@
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
         title="nothing is original"
-        width=30%
+        width=35%
     >
 🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
 </p>
@@ -81,14 +81,14 @@
 <p align="center">
 &emsp;&emsp;<a href="https://github.com/nosvagor/vagari/stargazers">
     <img
-        src="https://img.shields.io/github/stars/nosvagor/vagari?color=f5bd73&logo=apachespark&labelColor=24283b&logoColor=f5bd73&style=for-the-badge"
+        src="https://img.shields.io/github/stars/nosvagor/vagari?color=e6c747&logo=apachespark&labelColor=24283b&logoColor=e6c747&style=for-the-badge"
         title="what is love, baby don't hurt me"
     >
 </a>
 &nbsp;
 <a href="">
     <img
-        src="https://img.shields.io/github/sponsors/nosvagor?color=f573d5&logo=githubsponsors&labelColor=24283b&logoColor=f573d5&style=for-the-badge"
+        src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=24283b&logoColor=dc60bf&style=for-the-badge"
         title="ETH or DAI 🢣 cullyn.eth"
     >
 </a>
@@ -122,7 +122,8 @@
     >
 </p>
 
-<h4 align="center">Background</h4>
+<details open >
+<summary><h4 align="center">Background</h4></summary>
 <table align="center">
     <tr align="center">
         <td><img src="https://place-hold.it/78/222536/b6bbd8&text=bg&bold&fontsize=14"></td>
@@ -151,6 +152,7 @@
     <tr align="center">
     </tr>
 </table>
+</details>
 
 <h4 align="center">Foreground</h4>
 <table align="center">
@@ -526,7 +528,7 @@ maximum number of objects in focus at a given time. ⮯
 Jokes aside, the sex principle is more than just a joke&mdash;it's about
 dealing with **[cognitive overhead](https://youtu.be/fCn8zs912OE?t=412)**. As a whole, design must be _simple and
 sexy_, not _minimal and mundane_. This principle is core to _vagari_ and
-represents the adherence of the [selfish memes/genes](https://youtu.be/2mTVtToioLg) theory of replicators with unbounded evolution, i.e.:
+represents the adherence to the [selfish memes/genes](https://youtu.be/2mTVtToioLg) theory of replicators with unbounded evolution, i.e.:
 
 1. Something is _sexy_ if it is attractive or exciting, and in the realms of ideas, desire for replication.
 2. _Communication_ is all about replicating an idea inside another mind, but it's not perfect&mdash;mutations occur.
@@ -546,10 +548,11 @@ The essential idea here involves minimizing the impact of anything that _stresse
 - Maximum of [**6** _objects_](https://youtu.be/Iwpi1Lm6dFo?t=777) in a _scene_, i.e., 6 _things_ that require increased discernment.
 - Maximum of [**3** _layers_](https://youtu.be/CFRhGnuXG-4) to an _object_, i.e., 3 _variations_ that track change within an object.
 
-Ideally, properly embracing this principle ought to result in an easier to manage
-[punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between [abstraction and
-coupling](https://youtu.be/rQlMtztiAoA) via evolution in design by the sexual
-selection of interested minds.
+Ideally, properly embracing this principle ought to result in an easier to
+manage [punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between
+[abstraction and coupling](https://youtu.be/rQlMtztiAoA) (a tradeoff that
+exists in idea-space as well as code) via evolution in design by the sexual selection
+of interested minds.
 
 ### Complexity
 
@@ -630,12 +633,6 @@ the seed, or the spark, for a cascade of activation&mldr; but it's the activity
 in the network itself that creates the **gestalt**, i.e., the unique property of
 a whole that is more than the sum of its parts.
 
-<h4 align="center">
-<a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">wanderers</a>
-</h4>
-
----
-
 <br>
 
 ## 🢣 Gallery
@@ -644,7 +641,46 @@ a whole that is more than the sum of its parts.
 
 ## 🢣 Ports
 
-<br>
+<details open><summary>🔧 System</summary>
+
+- [ ] [bat](https://github.com/catppuccin/bat)
+- [ ] [btop](https://github.com/catppuccin/btop)
+- [ ] [CAVA](https://github.com/catppuccin/cava)
+- [ ] [cursors](https://github.com/catppuccin/cursors)
+- [ ] [dunst](https://github.com/catppuccin/dunst)
+- [ ] [fzf](https://github.com/catppuccin/fzf)
+- [ ] [GTK](https://github.com/catppuccin/gtk)
+- [ ] [hyprland](https://github.com/catppuccin/hyprland)
+
+<details open><summary> 🪐 Apps</summary>
+
+- [ ] [neovim](https://github.com/catppuccin/nvim)
+- [ ] [kitty](https://github.com/catppuccin/kitty)
+- [ ] [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
+- [ ] [lazygit](https://github.com/catppuccin/lazygit)
+- [ ] [zathura](https://github.com/catppuccin/zathura)
+- [ ] [Discord](https://github.com/catppuccin/discord)
+- [ ] [Telegram](https://github.com/catppuccin/telegram)
+- [ ] [Obsidian](https://github.com/catppuccin/obsidian)
+- [ ] [YouTube Music](https://github.com/catppuccin/youtubemusic)
+
+</details>
+
+<details open><summary>✨ Web</summary>
+
+- [ ] [Firefox](https://github.com/catppuccin/firefox)
+- [ ] [Dark Reader](https://github.com/catppuccin/dark-reader)
+- [ ] [Vimium](https://github.com/catppuccin/vimium)
+- [ ] [GitHub](https://github.com/catppuccin/github)
+- [ ] [YouTube](https://github.com/catppuccin/youtube)
+- [ ] [Twitter]()
+- [ ] [Monkeytype](https://github.com/catppuccin/monkeytype)
+
+_Note_: most of the above ports were orginally modified versions of
+[catppuccin'si ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many
+thanks 🙇
+
+</details>
 
 ## 🢣 Contribution
 
@@ -655,7 +691,7 @@ a whole that is more than the sum of its parts.
 ⮩ The links below are included because they are:
 
 - **Major** references or contain ideas that had a large impact and repeatedly come up.
-- **Indirect** references or contain ideas that provide extra context and may have not been referenced directly.
+- **Indirect** references or contain ideas that provide extra context and deserve extra attention.
 - **Superb** and are _highly recommended_ for the curious minds out there.
 
 > "Somewhere, something incredible is waiting to be known."

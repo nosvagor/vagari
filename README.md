@@ -52,7 +52,7 @@
 &nbsp;
 <a href="https://youtu.be/gxAaO2rsdIs">
     <img
-        src="https://img.shields.io/github/license/nosvagor/vagari?color=9d71f0&logo=gnu&labelColor=24283b&logoColor=9d71f0&style=for-the-badge"
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=9d71f0&logo=gnu&labelColor=24283b&logoColor=9d71f0&style=for-the-badge"
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
 </p>

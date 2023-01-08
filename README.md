@@ -63,7 +63,7 @@
 <!-- ============================================================================ -->
 
 <details open>
-<summary><h2>Inspiration</h2></summary>
+<summary><h4>Inspiration</h4></summary>
 
 <p align="center">
 &emsp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><strong>🥇 Catppuccin 🥇</strong></a>
@@ -102,7 +102,8 @@
 </p>
 </details>
 
-## 🢣 Contents
+<details open>
+<summary><h2>Contents</h2></summary>
 
 - [Palette](#-palette)
 - [General Philosophy](#-general-philosophy)
@@ -117,8 +118,10 @@
 - [Contribution](#-contribution)
 - [Gratitude](#-gratitude)
   - [Resources](#resources-), [Books](#books-)
+  </details>
 
-## 🢣 Palette
+<details open>
+<summary><h2>Palette</h2></summary>
 
 <p align="center">
     <img
@@ -439,8 +442,7 @@
     </tr>
 </table>
 </details>
-
-<br>
+</details>
 
 ## 🢣 General Philosophy
 

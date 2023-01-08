@@ -1,5 +1,5 @@
 <!-- ============================================================================ -->
-<!-- ☄️  heading & badges: {{{ -->
+<!-- ☄️  heading {{{ -->
 <h1 align="center"> ☄️ vagari ☄️ </h1>
 
 <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">
@@ -62,8 +62,9 @@
 <!-- }}} -->
 <!-- ============================================================================ -->
 
+<!-- 🌈 inspiration {{{ -->
 <details open>
-<summary><h4>Inspiration</h4></summary>
+<summary><h2>Inspiration</h2></summary>
 
 <p align="center">
 &emsp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><strong>🥇 Catppuccin 🥇</strong></a>
@@ -101,25 +102,30 @@
     </a>
 </p>
 </details>
+<!-- }}} -->
 
+<!-- 🏓 contents {{{ -->
 <details open>
 <summary><h2>Contents</h2></summary>
 
-- [Palette](#-palette)
-- [General Philosophy](#-general-philosophy)
+- [Palette](#palette)
+- [General Philosophy](#general-philosophy)
   - [Manifest Meaning](#manifest-meaning)
   - [Colors as the Symbols, Design as the Grammar](#colors-as-the-symbols-design-as-the-grammar)
   - [Chaos is not _chaotic_](#chaos-is-not-chaotic)
   - [Is Fashion Invented or Discovered?](#is-fashion-invented-or-discovered)
-- [Design Principles](#-design-principles)
+- [Design Principles](#design-principles)
   - [Sex](#sex), [Saga](#saga), [Complexity](#complexity), [Collaboration](#collaboration)
-- [Gallery](#-gallery)
-- [Ports](#-ports)
-- [Contribution](#-contribution)
-- [Gratitude](#-gratitude)
+- [Gallery](#gallery)
+- [Ports](#ports)
+- [Contribution](#contribution)
+- [Gratitude](#gratitude)
   - [Resources](#resources-), [Books](#books-)
-  </details>
 
+</details>
+<!-- }}} -->
+
+<!-- 🎨 palette {{{ -->
 <details open>
 <summary><h2>Palette</h2></summary>
 
@@ -443,10 +449,13 @@
 </table>
 </details>
 </details>
+<!-- }}} -->
 
-## 🢣 General Philosophy
+<!-- 🧠 philosophy {{{ -->
+<details open>
+<summary><h2>General Philosophy</h2></summary>
 
-#### Manifest Meaning
+### Manifest Meaning
 
 ⮩ i.e., wherever possible, inject genre, inspiration, or any relationship of
 signficiance. ⮯
@@ -470,7 +479,7 @@ meaning of _meaning_; it provided the energy needed to publish _vagari_.
 <br>An awakening to the importance of linguistics, story, non-zero-sum games,
 and ultimately, the craft of combining _good_ ideas.
 
-#### Colors as the Symbols, Design as the Grammar
+### Colors as the Symbols, Design as the Grammar
 
 ⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history. ⮯
 
@@ -504,7 +513,7 @@ most dominant mediums:</summary>
 
 </details>
 
-#### Chaos is not _chaotic_
+### Chaos is not _chaotic_
 
 ⮩ [Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
 pattern of the universe that arises in non-linear systems. ⮯
@@ -518,7 +527,7 @@ minds), coupled with, but not limited to:
 - **[courage](https://youtu.be/dKz095P7LdU)** to challenge the _status quo_, and everlasting itch _to **explore**_.
 - **[humility](https://youtu.be/Tfrrubw7pcE)** in allowing the _process_ to unfold, and willingness _to **fail**_.
 
-#### Is Fashion Invented or Discovered?
+### Is Fashion Invented or Discovered?
 
 ⮩ [Most Adavance, Yet Acceptable](https://youtu.be/mgyGptmH7EE); evolution acts
 on [mutations during replication](https://youtu.be/UhSStR-FpQc) of existing
@@ -545,7 +554,12 @@ discovered. I.e., the most fashionable style of the time is found via somewhat
 random exploration. However, in a sense fashion also invented, because
 ultimately style (the result of the proccess of fashion) is created as a means to out-replicate competing styles.
 
-## 🢣 Design Principles
+</details>
+<!-- }}} -->
+
+<!-- 🤴 {{{ principles -->
+<details open>
+<summary><h2>Design Principles</h2></summary>
 
 ### Sex
 
@@ -667,13 +681,18 @@ the seed, or the spark, for a cascade of activation&mldr; but it's the activity
 in the network itself that creates the **gestalt**, i.e., the unique property of
 a whole that is more than the sum of its parts.
 
-<br>
+</details>
+<!-- }}} -->
 
-## 🢣 Gallery
+<!-- 🪟 gallary {{{ -->
+<details open>
+<summary><h2>Gallery</h2></summary>
+</details>
+<!-- }}} -->
 
-<br>
-
-## 🢣 Ports
+<!-- 🚢 ports {{{ -->
+<details open>
+<summary><h2>Ports</h2></summary>
 
 <details open><summary>🔧 System</summary>
 
@@ -711,17 +730,24 @@ a whole that is more than the sum of its parts.
 - [ ] [Twitter]()
 - [ ] [Monkeytype](https://github.com/catppuccin/monkeytype)
 
-> _Note_: most of the above ports were orginally modified versions of
+> _Note_: many of the above ports were orginally modified versions of
 > [catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many
 > thanks 🙇
 
 </details>
 
-## 🢣 Contribution
+</details>
+<!-- }}} -->
 
-<br>
+<!-- 🤝 contributing {{{ -->
+<details open>
+<summary><h2>Contributing</h2></summary>
+</details>
+<!-- }}} -->
 
-## 🢣 Gratitude
+<!-- 🙇 gratitude {{{ -->
+<details open>
+<summary><h2>Gratitude</h2></summary>
 
 ⮩ The links below are included because they are:
 
@@ -768,3 +794,7 @@ a whole that is more than the sum of its parts.
 > "I cannot remember the books I've read any more than the meals I've
 > eaten; even so, they have made me."
 > &mdash; <cite>Ralph Waldo Emerson</cite>
+
+</details>
+
+<!-- }}} -->

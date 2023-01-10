@@ -89,7 +89,7 @@
     &emsp;&emsp;
     <a href="https://github.com/nosvagor/vagari/stargazers">
         <img
-            src="https://img.shields.io/github/stars/nosvagor/vagari?color=e6c747&logo=apachespark&labelColor=24283b&logoColor=e6c747&style=for-the-badge"
+            src="https://img.shields.io/github/stars/nosvagor/vagari?color=ecc45d&logo=apachespark&labelColor=24283b&logoColor=ecc45d&style=for-the-badge"
             title="what is love, baby don't hurt me"
         >
     </a>
@@ -160,8 +160,8 @@
     </tr>
     <tr align="center">
         <th> 🕶️ </th>
-        <td><code>#101014</code></td>
         <td><code>#1a1a24</code></td>
+        <td><code>#101014</code></td>
         <td><code>#09090b</code></td>
     </tr>
     <tr align="center">
@@ -275,13 +275,13 @@
         <td><code>#9eeaab</code></td>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/48/d79c13/0e101b&text=yel&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/e6c747/0e101b&text=yellow&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/d79c04/0e101b&text=yel&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/ecc45d/0e101b&text=yellow&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/fff19e/0e101b&text=yel1&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
-        <td><code>#d79c13</code></td>
-        <td><code>#e6c747</code></td>
+        <td><code>#d79c04</code></td>
+        <td><code>#ecc45d</code></td>
         <td><code>#fff19e</code></td>
     </tr>
     <tr align="center">
@@ -331,7 +331,7 @@
         <td><code>#9dd4c2</code></td>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/48/707d3a/0e101b&text=lys0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/48/707d3a/0e101b&text=met0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/9bab57/0e101b&text=met&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/48/c2cf90/0e101b&text=met1&bold&fontsize=14"></td>
     </tr>

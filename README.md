@@ -696,39 +696,41 @@ a whole that is more than the sum of its parts.
 
 <details open><summary>🔧 System</summary>
 
-- [ ] [bat](https://github.com/catppuccin/bat)
-- [ ] [btop](https://github.com/catppuccin/btop)
-- [ ] [CAVA](https://github.com/catppuccin/cava)
-- [ ] [cursors](https://github.com/catppuccin/cursors)
-- [ ] [dunst](https://github.com/catppuccin/dunst)
-- [ ] [fzf](https://github.com/catppuccin/fzf)
-- [ ] [GTK](https://github.com/catppuccin/gtk)
-- [ ] [eww]()
-- [ ] [hyprland](https://github.com/catppuccin/hyprland)
-
+<!-- - [bat](https://github.com/catppuccin/bat) -->
+<!-- - [btop](https://github.com/catppuccin/btop) -->
+<!-- - [CAVA](https://github.com/catppuccin/cava) -->
+<!-- - [cursors](https://github.com/catppuccin/cursors) -->
+<!-- - [dunst](https://github.com/catppuccin/dunst) -->
+<!-- - [fzf](https://github.com/catppuccin/fzf) -->
+<!-- - [GTK](https://github.com/catppuccin/gtk) -->
+<!-- - [eww]() -->
+<!-- - [hyprland](https://github.com/catppuccin/hyprland) -->
+<!---->
 <details open><summary>🪐 Apps</summary>
 
-- [ ] [neovim](https://github.com/catppuccin/nvim)
-- [ ] [kitty](https://github.com/catppuccin/kitty)
-- [ ] [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting)
-- [ ] [lazygit](https://github.com/catppuccin/lazygit)
-- [ ] [zathura](https://github.com/catppuccin/zathura)
-- [ ] [Discord](https://github.com/catppuccin/discord)
-- [ ] [Telegram](https://github.com/catppuccin/telegram)
-- [ ] [Obsidian](https://github.com/catppuccin/obsidian)
-- [ ] [YouTube Music](https://github.com/catppuccin/youtubemusic)
+<!-- - [neovim](https://github.com/catppuccin/nvim) -->
+<!-- - [kitty](https://github.com/catppuccin/kitty) -->
+<!-- - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) -->
+<!-- - [lazygit](https://github.com/catppuccin/lazygit) -->
+<!-- - [zathura](https://github.com/catppuccin/zathura) -->
+<!-- - [Discord](https://github.com/catppuccin/discord) -->
+<!-- - [Telegram](https://github.com/catppuccin/telegram) -->
+<!-- - [Obsidian](https://github.com/catppuccin/obsidian) -->
+<!-- - [YouTube Music](https://github.com/catppuccin/youtubemusic) -->
+- [Inkscape]( et)
+
 
 </details>
 
 <details open><summary>✨ Web</summary>
 
-- [ ] [Firefox](https://github.com/catppuccin/firefox)
-- [ ] [Dark Reader](https://github.com/catppuccin/dark-reader)
-- [ ] [Vimium](https://github.com/catppuccin/vimium)
-- [ ] [GitHub](https://github.com/catppuccin/github)
-- [ ] [YouTube](https://github.com/catppuccin/youtube)
-- [ ] [Twitter]()
-- [ ] [Monkeytype](https://github.com/catppuccin/monkeytype)
+<!-- - [Firefox](https://github.com/catppuccin/firefox) -->
+<!-- - [Dark Reader](https://github.com/catppuccin/dark-reader) -->
+<!-- - [Vimium](https://github.com/catppuccin/vimium) -->
+<!-- - [GitHub](https://github.com/catppuccin/github) -->
+<!-- - [YouTube](https://github.com/catppuccin/youtube) -->
+<!-- - [Twitter]() -->
+<!-- - [Monkeytype](https://github.com/catppuccin/monkeytype) -->
 
 > _Note_: many of the above ports were orginally modified versions of
 > [catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many

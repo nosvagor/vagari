@@ -483,13 +483,13 @@ and ultimately, the craft of combining _good_ ideas.
 
 ⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history. ⮯
 
-An obsession with the language of film provided much insight and some rationale
-for this general philosophical (or rather, biological) concept. Hence, the
-following represents a way to mine meaning from media, or rather, the...
 
 <details open>
-<summary><strong>exploration of culture</strong> via the
-most dominant mediums:
+<summary>
+An obsession with the language of film provided much insight and some rationale
+for this general philosophical (or rather, biological) concept. Hence, the
+following represents a way to mine meaning from media, or rather, the
+<strong>🎭 exploration of culture</strong> via the some of the most dominant mediums:
 </summary>
 
 - [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (importance of ...)
@@ -531,7 +531,7 @@ minds), coupled with, but not limited to:
 
 ### Is Fashion Invented or Discovered?
 
-⮩ [Most Adavance, Yet Acceptable](https://youtu.be/mgyGptmH7EE); evolution acts
+⮩ [Most Advanced, Yet Acceptable](https://youtu.be/mgyGptmH7EE); evolution acts
 on [mutations during replication](https://youtu.be/UhSStR-FpQc) of existing
 entities. ⮯
 
@@ -554,7 +554,7 @@ fashion is a "_bumbling mess that just gets lucky sometimes_," i.e.:
 If the hypothesis of _vagari_ is correct, then in a sense fashion is
 discovered. I.e., the most fashionable style of the time is found via somewhat
 random exploration. However, in a sense fashion also invented, because
-ultimately style (the result of the proccess of fashion) is created as a means to out-replicate competing styles.
+ultimately style (the result of the process of fashion) is created as a means to out-replicate competing styles.
 
 </details>
 <!-- }}} -->
@@ -670,11 +670,11 @@ One might be tempted to ask: _"why so does vagari seem so&mldr; pretentious?"_
 Well, to be frank: _vagari is pretentious_; it's kind of essential to success
 of the project, actually. **To conjecture**:
 
-> projects like _vagari_ ought to grow to represent a digital
-> flag of some order. Design frameworks ought to move past representing brands,
-> and move towards being a means to virtue signal the digital community
+> projects like _vagari_ ought to grow to represent a **digital
+> flag** of some order. Design frameworks ought to move past representing brands,
+> and move towards being a means to virtue signal the **digital community**
 > (nation) you are a part of. Overtime, frameworks should to evolve like
-> languages, and be less universal.
+> languages, and be less universal (diversity++).
 
 Ideally, shared participation in this fiction will hopefully manifest a reality
 among the participants. The philosophy of _vagari_ is built upon the idea that
@@ -753,7 +753,7 @@ a whole that is more than the sum of its parts.
 <details open>
 <summary><h2>Gratitude</h2></summary>
 
-⮩ The links below are included because they are:
+⮩ The links below are included (in no particular order) because they are:
 
 - **Major** references or contain ideas that had a large impact and repeatedly come up.
 - **Indirect** references or contain ideas that provide extra context and deserve extra attention.
@@ -770,7 +770,7 @@ a whole that is more than the sum of its parts.
 - [Contrast Ratio Between Colors](https://contrast-ratio.com/) (and relative luminance)
 - [Five Factors that Guide attention in Visual Search](https://doi.org/10.1038/s41562-017-0058) (review article)
 - [Seven Secrets](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (a set of unique perspectives on design)
-- [Refactoring UI](https://www.refactoringui.com) (a book + set of resoruces for web design)
+- [Refactoring UI](https://www.refactoringui.com) (a book + set of resources for web design)
 
 ###### Books ⮯
 

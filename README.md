@@ -485,10 +485,12 @@ and ultimately, the craft of combining _good_ ideas.
 
 An obsession with the language of film provided much insight and some rationale
 for this general philosophical (or rather, biological) concept. Hence, the
-following represents a way to mine meaning from media, or rather, the
+following represents a way to mine meaning from media, or rather, the...
 
-<details closed> <summary><strong>exploration of culture</strong> via the
-most dominant mediums:</summary>
+<details open>
+<summary><strong>exploration of culture</strong> via the
+most dominant mediums:
+</summary>
 
 - [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (importance of ...)
 - [Hitchcock and the Language of Cinema](https://youtu.be/W_JPD8B_0Lc) (Silence)
@@ -520,7 +522,7 @@ pattern of the universe that arises in non-linear systems. ⮯
 
 Creativity is not a some special, dualistic force ("_the muse_,") that only
 humans possess. **Creativity _is_ Chaos**&mdash;it's an emergent property that originates from the of the
-embrace of sensitive starting conditions in dynamical systems (e.g., human
+embrace of&mdash;and the eventual obsevraiton of&mdash;sensitive starting conditions in dynamical systems (e.g., human
 minds), coupled with, but not limited to:
 
 - **[curiosity](https://youtu.be/_XWRF1UArO4)** in the _unknown_, and an deep desire _to **understand**_.
@@ -684,7 +686,7 @@ a whole that is more than the sum of its parts.
 </details>
 <!-- }}} -->
 
-<!-- 🪟 gallary {{{ -->
+<!-- 🪟 gallery {{{ -->
 <details open>
 <summary><h2>Gallery</h2></summary>
 </details>

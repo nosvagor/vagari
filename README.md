@@ -764,6 +764,7 @@ a whole that is more than the sum of its parts.
 
 ###### Resources ⮯
 
+- [Paletton](https://paletton.com/) (color pallet generator)
 - [Encycolorpedia](https://encycolorpedia.com/) (color facts 'n stuff)
 - [ChatGPT3](https://chat.openai.com/chat) (for the times they are a-changin')
 - [Dream Studio](https://beta.dreamstudio.ai/dream) (stable diffusion art generator)

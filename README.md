@@ -62,48 +62,6 @@
 <!-- }}} -->
 <!-- ============================================================================ -->
 
-<!-- 🌈 Inspiration {{{ -->
-<details open>
-<summary><h2>Inspiration</h2></summary>
-
-<p align="center">
-&emsp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><strong>🥇 Catppuccin 🥇</strong></a>
-<br>
-<a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a>&nbsp;🥈&nbsp;
-    <img
-        src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
-        title="nothing is original"
-        width=30%
-    >
-🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
-</p>
-
-<p align="right">
-<em>worthy mentions</em>:
-    <a href="https://www.nordtheme.com/">Nord</a>,
-    <a href="https://ethanschoonover.com/solarized/">Solarized</a>,
-    <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
-</p>
-
-<p align="center">
-    &emsp;&emsp;
-    <a href="https://github.com/nosvagor/vagari/stargazers">
-        <img
-            src="https://img.shields.io/github/stars/nosvagor/vagari?color=ecc45d&logo=apachespark&labelColor=24283b&logoColor=ecc45d&style=for-the-badge"
-            title="what is love, baby don't hurt me"
-        >
-    </a>
-    &nbsp;
-    <a href="cullyn.eth/">
-        <img
-            src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=24283b&logoColor=dc60bf&style=for-the-badge"
-            title="github sponsors not set up, pref ETH to cullyn.eth for now"
-        >
-    </a>
-</p>
-</details>
-<!-- }}} -->
-
 <!-- 🏓 Contents {{{ -->
 <details open>
 <summary><h2>Contents</h2></summary>
@@ -194,7 +152,7 @@
     <summary><h4> 👽 Grey</h4></summary>
     <p></p>
 </details>
-
+</details>
 
 <!-- }}} -->
 
@@ -445,9 +403,8 @@ a whole that is more than the sum of its parts.
 <!-- 🚢 Ports {{{ -->
 <details open>
 <summary><h2>Ports</h2></summary>
-
-<details open><summary>🔧 System</summary>
-
+<!-- <details open><summary>🔧 System</summary> -->
+<!---->
 <!-- - [bat](https://github.com/catppuccin/bat) -->
 <!-- - [btop](https://github.com/catppuccin/btop) -->
 <!-- - [CAVA](https://github.com/catppuccin/cava) -->
@@ -458,8 +415,9 @@ a whole that is more than the sum of its parts.
 <!-- - [eww]() -->
 <!-- - [hyprland](https://github.com/catppuccin/hyprland) -->
 <!---->
-<details open><summary>🪐 Apps</summary>
-
+<!-- </details> -->
+<!-- <details open><summary>🪐 Apps</summary> -->
+<!---->
 <!-- - [neovim](https://github.com/catppuccin/nvim) -->
 <!-- - [kitty](https://github.com/catppuccin/kitty) -->
 <!-- - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) -->
@@ -469,13 +427,13 @@ a whole that is more than the sum of its parts.
 <!-- - [Telegram](https://github.com/catppuccin/telegram) -->
 <!-- - [Obsidian](https://github.com/catppuccin/obsidian) -->
 <!-- - [YouTube Music](https://github.com/catppuccin/youtubemusic) -->
-
-- [Inkscape](et)
-
-</details>
-
-<details open><summary>✨ Web</summary>
-
+<!---->
+<!-- - [Inkscape](et) -->
+<!---->
+<!-- </details> -->
+<!---->
+<!-- <details open><summary>✨ Web</summary> -->
+<!---->
 <!-- - [Firefox](https://github.com/catppuccin/firefox) -->
 <!-- - [Dark Reader](https://github.com/catppuccin/dark-reader) -->
 <!-- - [Vimium](https://github.com/catppuccin/vimium) -->
@@ -483,19 +441,59 @@ a whole that is more than the sum of its parts.
 <!-- - [YouTube](https://github.com/catppuccin/youtube) -->
 <!-- - [Twitter]() -->
 <!-- - [Monkeytype](https://github.com/catppuccin/monkeytype) -->
-
-> _Note_: many of the above ports were orginally modified versions of
-> [catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many
-> thanks 🙇
-
-</details>
-
+<!---->
+<!-- > _Note_: many of the above ports were originally modified versions of -->
+<!-- > [catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many -->
+<!-- > thanks 🙇 -->
+<!---->
 </details>
 <!-- }}} -->
 
 <!-- 🤝 Contributing {{{ -->
 <details open>
 <summary><h2>Contributing</h2></summary>
+</details>
+<!-- }}} -->
+
+<!-- 🌈 Inspiration {{{ -->
+<details open>
+<summary><h2>Inspiration</h2></summary>
+
+<p align="center">
+&emsp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><strong>🥇 Catppuccin 🥇</strong></a>
+<br>
+<a href="https://github.com/folke/tokyonight.nvim">Tokyo Night</a>&nbsp;🥈&nbsp;
+    <img
+        src="https://github.com/nosvagor/vagari/blob/main/share/gifs/inspiration.gif?raw=true"
+        title="nothing is original"
+        width=30%
+    >
+🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
+</p>
+
+<p align="right">
+<em>worthy mentions</em>:
+    <a href="https://www.nordtheme.com/">Nord</a>,
+    <a href="https://ethanschoonover.com/solarized/">Solarized</a>,
+    <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
+</p>
+
+<p align="center">
+    &emsp;&emsp;
+    <a href="https://github.com/nosvagor/vagari/stargazers">
+        <img
+            src="https://img.shields.io/github/stars/nosvagor/vagari?color=ecc45d&logo=apachespark&labelColor=24283b&logoColor=ecc45d&style=for-the-badge"
+            title="what is love, baby don't hurt me"
+        >
+    </a>
+    &nbsp;
+    <a href="cullyn.eth/">
+        <img
+            src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=24283b&logoColor=dc60bf&style=for-the-badge"
+            title="github sponsors not set up, pref ETH to cullyn.eth for now"
+        >
+    </a>
+</p>
 </details>
 <!-- }}} -->
 

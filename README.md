@@ -1,5 +1,5 @@
 <!-- ============================================================================ -->
-<!-- ☄️  heading {{{ -->
+<!-- ☄️  Heading {{{ -->
 <h1 align="center"> ☄️ vagari ☄️ </h1>
 
 <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">
@@ -62,7 +62,7 @@
 <!-- }}} -->
 <!-- ============================================================================ -->
 
-<!-- 🌈 inspiration {{{ -->
+<!-- 🌈 Inspiration {{{ -->
 <details open>
 <summary><h2>Inspiration</h2></summary>
 
@@ -104,7 +104,7 @@
 </details>
 <!-- }}} -->
 
-<!-- 🏓 contents {{{ -->
+<!-- 🏓 Contents {{{ -->
 <details open>
 <summary><h2>Contents</h2></summary>
 
@@ -125,20 +125,20 @@
 </details>
 <!-- }}} -->
 
-<!-- 🎨 palette {{{ -->
+<!-- 🎨 Palette {{{ -->
 <details open>
 <summary><h2>Palette</h2></summary>
 
 <p align="center">
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v3.svg?raw=true"
-        title="vagari color pallete"
+        title="vagari color pallet"
         width="100%"
     >
 </p>
 
-<details closed >
-<summary> ⬛ background</summary>
+<details open >
+<summary> ☯  background</summary>
 <table>
     <tr align="center">
         <td><img src="https://place-hold.it/78/222536/b6bbd8&text=bg&bold&fontsize=14"></td>
@@ -169,7 +169,7 @@
 </table>
 </details>
 
-<details closed >
+<details open >
 <summary> ⬜ foreground</summary>
 <table>
     <tr align="center">
@@ -189,7 +189,7 @@
 </table>
 </details>
 
-<details closed >
+<details open >
 <summary> 🎏 core</summary>
 <table>
     <tr align="center">
@@ -215,7 +215,7 @@
 </table>
 </details>
 
-<details closed >
+<details open >
 <summary> 🎆 communicative</summary>
 <table>
     <tr align="center">
@@ -251,7 +251,7 @@
 </table>
 </details>
 
-<details closed >
+<details open >
 <summary> 🎨 signaling</summary>
 <table>
     <tr align="center">
@@ -307,7 +307,7 @@
 </table>
 </details>
 
-<details closed >
+<details open >
 <summary> 🍡 muted</summary>
 <table>
     <tr align="center">
@@ -363,7 +363,7 @@
 </table>
 </details>
 
-<details closed >
+<details open >
 <summary> 👽 grey</summary>
 <table>
     <tr align="center">
@@ -451,7 +451,7 @@
 </details>
 <!-- }}} -->
 
-<!-- 🧠 philosophy {{{ -->
+<!-- 🧠 Philosophy {{{ -->
 <details open>
 <summary><h2>General Philosophy</h2></summary>
 
@@ -482,7 +482,6 @@ and ultimately, the craft of combining _good_ ideas.
 ### Colors as the Symbols, Design as the Grammar
 
 ⮩ i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history. ⮯
-
 
 <details open>
 <summary>
@@ -559,7 +558,7 @@ ultimately style (the result of the process of fashion) is created as a means to
 </details>
 <!-- }}} -->
 
-<!-- 🤴 {{{ principles -->
+<!-- 🤴 Principles {{{ -->
 <details open>
 <summary><h2>Design Principles</h2></summary>
 
@@ -686,13 +685,13 @@ a whole that is more than the sum of its parts.
 </details>
 <!-- }}} -->
 
-<!-- 🪟 gallery {{{ -->
+<!-- 🪟 Gallery {{{ -->
 <details open>
 <summary><h2>Gallery</h2></summary>
 </details>
 <!-- }}} -->
 
-<!-- 🚢 ports {{{ -->
+<!-- 🚢 Ports {{{ -->
 <details open>
 <summary><h2>Ports</h2></summary>
 
@@ -719,8 +718,8 @@ a whole that is more than the sum of its parts.
 <!-- - [Telegram](https://github.com/catppuccin/telegram) -->
 <!-- - [Obsidian](https://github.com/catppuccin/obsidian) -->
 <!-- - [YouTube Music](https://github.com/catppuccin/youtubemusic) -->
-- [Inkscape]( et)
 
+- [Inkscape](et)
 
 </details>
 
@@ -743,13 +742,13 @@ a whole that is more than the sum of its parts.
 </details>
 <!-- }}} -->
 
-<!-- 🤝 contributing {{{ -->
+<!-- 🤝 Contributing {{{ -->
 <details open>
 <summary><h2>Contributing</h2></summary>
 </details>
 <!-- }}} -->
 
-<!-- 🙇 gratitude {{{ -->
+<!-- 🙇 Gratitude {{{ -->
 <details open>
 <summary><h2>Gratitude</h2></summary>
 

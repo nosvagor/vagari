@@ -58,6 +58,7 @@
         src="https://img.shields.io/github/license/nosvagor/vagari?color=9d71f0&logo=gnu&labelColor=24283b&logoColor=9d71f0&style=for-the-badge"
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
+</a>
 </p>
 <!-- }}} -->
 <!-- ============================================================================ -->
@@ -65,22 +66,8 @@
 <!-- 🏓 Contents {{{ -->
 <details open>
 <summary><h2>Contents</h2></summary>
-<!---->
-<!-- - [Palette](#palette) -->
-<!-- - [General Philosophy](#general-philosophy) -->
-<!--   - [Manifest Meaning](#manifest-meaning) -->
-<!--   - [Colors as the Symbols, Design as the Grammar](#colors-as-the-symbols-design-as-the-grammar) -->
-<!--   - [Chaos is not _chaotic_](#chaos-is-not-chaotic) -->
-<!--   - [Is Fashion Invented or Discovered?](#is-fashion-invented-or-discovered) -->
-<!-- - [Design Principles](#design-principles) -->
-<!--   - [Sex](#sex), [Saga](#saga), [Complexity](#complexity), [Collaboration](#collaboration) -->
-<!-- - [Gallery](#gallery) -->
-<!-- - [Ports](#ports) -->
-<!-- - [Contribution](#contribution) -->
-<!-- - [Gratitude](#gratitude) -->
-<!--   - [Resources](#resources-), [Books](#books-) -->
-
 </details>
+
 <!-- }}} -->
 
 <!-- 🎨 Palette {{{ -->
@@ -97,39 +84,249 @@
 
 <details open >
     <summary><h4> ☯️  Bounds</h4></summary>
+    <blockquote>
+    The constraints, or bounds, to any system are probably the most imporant
+    place to start:
+    </blockquote>
     <p>
-        The constraints, or bounds, to any system are probably the most imporant
-        place to start. The most imporant color is the background, since all other
-        colors are based on the contrast ratio to this color.
+        First, the <b>background</b>, as the contrast ratio to this color is one of
+        the most important determining factors when generating others
+        colors. The background represents the upper bound for the darkest
+        colors.
     </p>
     <table align="center">
+    <tr>
+        <th>Background</th>
+        <th>Values</th>
+    </tr>
         <tr align="center">
-            <td><img src="https://place-hold.it/100/222536/b6bbd8&text=bg&bold&fontsize=14"></td>
-            <td><code>#222536</code><br><code>hsl(231, 23%, 17%)</code></td>
+            <td><img src="https://place-hold.it/128/222536/aeb9f8&text=bg&bold&fontsize=14"></td>
+            <td>
+                <code>#222536</code><br>
+                <code>rgb(34, 37, 54)</code><br>
+                <code>hsl(231, 23%, 17%)</code><br>
+                <code>Contrast: 1.00</code><br>
+            </td>
         </tr>
     </table>
+    <br>
+    <blockquote>
+        Next, venturing into the void (maintaining blue tones, <i>decreasing</i>
+        brightness):
+    </blockquote>
     <p>
-        Next, venturing into the void (maintaining blue tones, descreaseing
-        brightness); these alternative background colors are primarily used to
-        <b>create depth</b> for background elements:
+        These <b>dark</b> colors are meant to provide a means to create depth
+        for background elements.
     </p>
     <table align="center">
+    <tr>
+        <th>Dark-0</th>
+        <th>Dark-1</th>
+        <th>Dark-2</th>
+        <th>Dark-3</th>
+        <th>Dark-4</th>
+        <th>Dark-5</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/1F2335/aeb9f8&text=drk-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0e101b/aeb9f8&text=drk-5&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+    </tr>
+    </table>
+    <br>
+    <blockquote>
+        We still need a neutral lower bound, but it will not be set by the background:
+    </blockquote>
+    <p>
+        These <b>black</b> colors are used to set the minimum bound of the color scheme,
+        but also meant to communicate ideas of (or similar to): <i>sophistaiton, rebellion,</i> and <i>mystery</i>.
+    </p>
+    <table align="center">
+    <tr>
+        <th>Black-0</th>
+        <th>Black-1</th>
+        <th>Black-2</th>
+        <th>Black-3</th>
+        <th>Black-4</th>
+        <th>Black-5</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/1a1a24/b6bbd8&text=blk-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/09090b/b6bbd8&text=blk-5&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+    </tr>
+    </table>
+    <br>
+    <blockquote>
+        Now, let's start defining the upper bounds:
+    </blockquote>
+    <p>
+        Like the background, the <b>foreground</b> represents the lower bound for the
+        brightest colors. <i>vagari</i> continue to lean into the use of cool
+        tones&mdash;resulting in a blue foreground&mdash;leaving white to
+        convey meaning as well.
+    </p>
+    <table align="center">
+    <tr>
+        <th>Foreground</th>
+        <th>Values</th>
+    </tr>
         <tr align="center">
-          <td><img src="https://place-hold.it/64/181a2a/b6bbd8&text=bg1&bold&fontsize=14"></td>
-          <td><img src="https://place-hold.it/64/181a2a/b6bbd8&text=bg1&bold&fontsize=14"></td>
-          <td><img src="https://place-hold.it/64/0e101b/b6bbd8&text=bg2&bold&fontsize=14"></td>
-          <td><img src="https://place-hold.it/64/0e101b/b6bbd8&text=bg2&bold&fontsize=14"></td>
-          <td><img src="https://place-hold.it/64/0e101b/b6bbd8&text=bg2&bold&fontsize=14"></td>
-          <td><img src="https://place-hold.it/64/08080d/b6bbd8&text=bg3&bold&fontsize=14"></td>
+            <td><img src="https://place-hold.it/128/aeb9f8/2225368&text=fg&bold&fontsize=14"></td>
+            <td>
+                <code>#aeb9f8</code><br>
+                <code>rgb(174, 185, 248)</code><br>
+                <code>hsl(231, 84%, 83%)</code><br>
+                <code>Contrast: 8.00</code>
+            </td>
         </tr>
-        <tr>
-        <td><code>#</code><br><code>hsl()</code></td>
-        <td><code>#</code><br><code>hsl()</code></td>
-        <td><code>#</code><br><code>hsl()</code></td>
-        <td><code>#</code><br><code>hsl()</code></td>
-        <td><code>#</code><br><code>hsl()</code></td>
-        <td><code>#</code><br><code>hsl()</code></td>
-        </tr>
+    </table>
+     </table>
+    <br>
+    <blockquote>
+        Cointinunig in the inverse direction (maintaining blue tones, <i>increaseing</i>
+        brightness):
+    </blockquote>
+    <p>
+        These <b>bright</b> colors are meant to provide a means to highlight foreground elements.
+    </p>
+    <table align="center">
+    <tr>
+        <th>Bright-0</th>
+        <th>Bright-1</th>
+        <th>Bright-2</th>
+        <th>Bright-3</th>
+        <th>Bright-4</th>
+        <th>Bright-5</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/aab5f9/222536&text=brt-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/181a2a/222536&text=brt-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0e101b/222536&text=brt-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0e101b/222536&text=brt-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0e101b/222536&text=brt-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/d8dcff/222536&text=brt-5&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#aab5f9</code><br>
+            <code>rgb(170, 181, 249)</code><br>
+            <code>hsl(232, 98%, 83%)</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>#d8dcff</code><br>
+            <code>rgb(216, 220, 255)</code><br>
+            <code>hsl(234, 100%, 92%)</code><br>
+            <code>CR: 11.25</code>
+        </td>
+    </tr>
     </table>
 </details>
 
@@ -163,7 +360,7 @@
 ### Manifest Meaning
 
 > i.e., wherever possible, inject genre, inspiration, or any relationship of
-signficiance.
+> signficiance.
 
 <a href="https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ">
 <img
@@ -223,7 +420,7 @@ following represents a way to mine meaning from media, or rather, the
 ### Chaos is not _chaotic_
 
 > i.e., [Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
-pattern of the universe that arises in non-linear systems.
+> pattern of the universe that arises in non-linear systems.
 
 Creativity is not a some special, dualistic force ("_the muse_,") that only
 humans possess. **Creativity _is_ Chaos**&mdash;it's an emergent property that originates from the of the
@@ -237,8 +434,8 @@ minds), coupled with, but not limited to:
 ### Is Fashion Invented or Discovered?
 
 > i.e., [Most Advanced, Yet Acceptable](https://youtu.be/mgyGptmH7EE); evolution acts
-on [mutations during replication](https://youtu.be/UhSStR-FpQc) of existing
-entities.
+> on [mutations during replication](https://youtu.be/UhSStR-FpQc) of existing
+> entities.
 
 [Style](https://www.youtube.com/watch?v=NEvMHRgPdyk) is analogous to the
 concept of [fitness](https://youtu.be/UhSStR-FpQc) in evolution applied, when
@@ -271,7 +468,7 @@ ultimately style (the result of the process of fashion) is created as a means to
 ### Sex
 
 > i.e., the ["Swedish number for six"](https://youtu.be/Iwpi1Lm6dFo?t=777), or the
-maximum number of objects in focus at a given time.
+> maximum number of objects in focus at a given time.
 
 Jokes aside, the sex principle is more than just a joke&mdash;it's about
 dealing with **[cognitive overhead](https://youtu.be/fCn8zs912OE?t=412)**. As a whole, design must be _simple and
@@ -333,9 +530,9 @@ _meaning_ via the injection of _new ideas_, provided by _new users_.
 ### Complexity
 
 > i.e., a dance involving [computational
-irreducibly](https://youtu.be/mfW7pvlrzyM),
-[information](https://youtu.be/v68zYyaEmEA?t=485), and
-[chaos](https://github.com/nosvagor/vagari#chaos-is-not-chaotic).
+> irreducibly](https://youtu.be/mfW7pvlrzyM),
+> [information](https://youtu.be/v68zYyaEmEA?t=485), and
+> [chaos](https://github.com/nosvagor/vagari#chaos-is-not-chaotic).
 
 Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
 of this, the embrace of chaos is at the core of the design philosophy. _vagari_
@@ -362,8 +559,8 @@ maths.
 ### Collaboration
 
 > id est, _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_**
-<br>
-&emsp;&emsp;&emsp;&emsp; i.e., _we do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**.
+> <br>
+> &emsp;&emsp;&emsp;&emsp; i.e., _we do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**.
 
 The above phrase is the best simple representation of the core philosophy of
 _vagari_.

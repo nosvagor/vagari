@@ -125,23 +125,15 @@
         <th>Dark-2</th>
         <th>Dark-3</th>
         <th>Dark-4</th>
-        <th>Dark-5</th>
     </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/84/1F2335/aeb9f8&text=drk-0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-1&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-4&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0e101b/aeb9f8&text=drk-5&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0e101b/aeb9f8&text=drk-4&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
-        <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
-        </td>
         <td>
             <code>#</code><br>
             <code>rgb()</code><br>
@@ -189,15 +181,13 @@
         <th>Black-2</th>
         <th>Black-3</th>
         <th>Black-4</th>
-        <th>Black-5</th>
     </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/84/1a1a24/b6bbd8&text=blk-0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-1&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-4&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/09090b/b6bbd8&text=blk-5&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/09090b/b6bbd8&text=blk-4&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
@@ -230,13 +220,7 @@
             <code>hsl()</code><br>
             <code>CR:</code>
         </td>
-        <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
-        </td>
-    </tr>
+         </tr>
     </table>
     <br>
     <blockquote>
@@ -279,28 +263,20 @@
         <th>Bright-2</th>
         <th>Bright-3</th>
         <th>Bright-4</th>
-        <th>Bright-5</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/aab5f9/222536&text=brt-0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/181a2a/222536&text=brt-1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0e101b/222536&text=brt-2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0e101b/222536&text=brt-3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0e101b/222536&text=brt-4&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/d8dcff/222536&text=brt-5&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/b7c0fa/222536&text=brt-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/c0c8fc/222536&text=brt-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/c9d0fd/222536&text=brt-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/d2d8fe/222536&text=brt-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/d8dcff/222536&text=brt-4&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
-            <code>#aab5f9</code><br>
-            <code>rgb(170, 181, 249)</code><br>
-            <code>hsl(232, 98%, 83%)</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#b7c0fa</code><br>
+            <code></code><br>
+            <code></code><br>
+            <code>CR: 8.00</code>
         </td>
         <td>
             <code>#</code><br>

@@ -85,8 +85,8 @@
 <details open >
     <summary><h4> ☯️  Bounds</h4></summary>
     <blockquote>
-    The constraints, or bounds, to any system are probably the most imporant
-    place to start:
+        The constraints, or bounds, to any system are probably the most imporant
+        place to start:
     </blockquote>
     <p>
         First, the <b>background</b>, as the contrast ratio to this color is one of
@@ -111,12 +111,11 @@
     </table>
     <br>
     <blockquote>
-        Next, venturing into the void (maintaining blue tones, <i>decreasing</i>
+        Next, venturing into the void (maintaining cool tones, <i>decreasing</i>
         brightness):
     </blockquote>
     <p>
-        These <b>dark</b> colors are meant to provide a means to create depth
-        for background elements.
+        These <b>dark</b> colors provide a means to create depth for background elements.
     </p>
     <table align="center">
     <tr>
@@ -124,55 +123,47 @@
         <th>Dark-1</th>
         <th>Dark-2</th>
         <th>Dark-3</th>
-        <th>Dark-4</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/1F2335/aeb9f8&text=drk-0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/181a2a/aeb9f8&text=drk-3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0e101b/aeb9f8&text=drk-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/1e2133/2225368&text=drk-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/181a2c/2225368&text=drk-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/131626/2225368&text=drk-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0d0f1b/2225368&text=drk-3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#1e2133</code><br>
+            <code>rgb(30, 33, 51)</code><br>
+            <code>hsl(231, 26%, 16%)</code><br>
+            <code>CR: 1.05</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#181a2c</code><br>
+            <code>rgb(24, 26, 44)</code><br>
+            <code>hsl(231, 29%, 13%)</code><br>
+            <code>CR:1.12</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#131626</code><br>
+            <code>rgb(19, 22, 38)</code><br>
+            <code>hsl(231, 33%, 11%)</code><br>
+            <code>CR:1.18</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#0d0f1b</code><br>
+            <code>rgb(13, 15, 27)</code><br>
+            <code>hsl(231, 35%, 8%)</code><br>
+            <code>CR: 1.25</code>
         </td>
     </tr>
     </table>
     <br>
     <blockquote>
-        We still need a neutral lower bound, but it will not be set by the background:
+        We still need a relatively neutral lower bound; the dark colors won't replace black:
     </blockquote>
     <p>
-        These <b>black</b> colors are used to set the minimum bound of the color scheme,
-        but also meant to communicate ideas of (or similar to): <i>sophistaiton, rebellion,</i> and <i>mystery</i>.
+        These <b>black</b> colors are meant to communicate ideas of (or similar
+        to): <i>sophistaiton, rebellion,</i> and <i>mystery</i>.
     </p>
     <table align="center">
     <tr>
@@ -180,47 +171,39 @@
         <th>Black-1</th>
         <th>Black-2</th>
         <th>Black-3</th>
-        <th>Black-4</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/1a1a24/b6bbd8&text=blk-0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/101014/b6bbd8&text=blk-3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/09090b/b6bbd8&text=blk-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/1d1d21/c6c9c2&text=blk-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/19191d/c5c9c2&text=blk-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/101014/c5c9c2&text=blk-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0b0b0f/c5c9c2&text=blk-3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#1d1d21</code><br>
+            <code>rgb(29, 29, 33)</code><br>
+            <code>hsl(240, 6%, 12%)</code><br>
+            <code>CR: 1.10</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#19191d</code><br>
+            <code>rgb(25, 25, 29)</code><br>
+            <code>hsl(240, 7%, 11%)</code><br>
+            <code>CR: 1.15</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#101014</code><br>
+            <code>rgb(16, 16, 20)</code><br>
+            <code>hsl(240, 11%, 7%)</code><br>
+            <code>CR: 1.25</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#0b0b0f</code><br>
+            <code>rgb(11, 11, 15)</code><br>
+            <code>hsl(240, 15%, 5%)</code><br>
+            <code>CR: 1.30</code>
         </td>
-        <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
-        </td>
-         </tr>
+    </tr>
     </table>
     <br>
     <blockquote>
@@ -228,8 +211,8 @@
     </blockquote>
     <p>
         Like the background, the <b>foreground</b> represents the lower bound for the
-        brightest colors. <i>vagari</i> continue to lean into the use of cool
-        tones&mdash;resulting in a blue foreground&mdash;leaving white to
+        brightest colors. <i>vagari</i> continues to lean into the use of cool
+        tones&mdash;resulting in a blue-ish foreground&mdash;leaving white to
         convey meaning as well.
     </p>
     <table align="center">
@@ -250,11 +233,11 @@
      </table>
     <br>
     <blockquote>
-        Cointinunig in the inverse direction (maintaining blue tones, <i>increaseing</i>
+        Cointinunig in the inverse direction (maintaining cool tones, <i>increaseing</i>
         brightness):
     </blockquote>
     <p>
-        These <b>bright</b> colors are meant to provide a means to highlight foreground elements.
+        These <b>bright</b> colors provide a means to highlight foreground elements.
     </p>
     <table align="center">
     <tr>
@@ -262,22 +245,62 @@
         <th>Bright-1</th>
         <th>Bright-2</th>
         <th>Bright-3</th>
-        <th>Bright-4</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/b7c0fa/222536&text=brt-0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/c0c8fc/222536&text=brt-1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/c9d0fd/222536&text=brt-2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/d2d8fe/222536&text=brt-3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/d8dcff/222536&text=brt-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/b6bff7/aeb9f8&text=brt-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/bec6f8/aeb9f8&text=brt-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/cad1fb/aeb9f8&text=brt-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/d1d8ff/aeb9f8&text=brt-3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
-            <code>#b7c0fa</code><br>
-            <code></code><br>
-            <code></code><br>
-            <code>CR: 8.00</code>
+            <code>#b6bff7</code><br>
+            <code>rgb(182, 191, 247)</code><br>
+            <code>hsl(232, 80%, 84%)</code><br>
+            <code>CR: 8.50</code>
         </td>
+        <td>
+            <code>#bec6f8</code><br>
+            <code>rgb(190, 198, 248)</code><br>
+            <code>hsl(231, 81%, 86%)</code><br>
+            <code>CR: 9.11</code>
+        </td>
+        <td>
+            <code>#cad1fb</code><br>
+            <code>rgb(202, 209, 251)</code><br>
+            <code>hsl(231, 86%, 89%)</code><br>
+            <code>CR: 10.12</code>
+        </td>
+        <td>
+            <code>#d1d8ff</code><br>
+            <code>rgb(209, 216, 255)</code><br>
+            <code>hsl(231 100%, 91%)</code><br>
+            <code>CR: 11.21</code>
+        </td>
+    </tr>
+    </table>
+    <br>
+    <blockquote>
+        Finally, the neutral upper bound:
+    </blockquote>
+    <p>
+        These <b>white</b> colors are meant to communicate ideas of (or similar
+        to): <i>order, peace,</i> and <i>simplicity</i>.
+    </p>
+    <table align="center">
+    <tr>
+        <th>White-0</th>
+        <th>White-1</th>
+        <th>White-2</th>
+        <th>White-3</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/8c92ba/222536&text=wht-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/a7abce/222536&text=wht-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/b6bbd8/222536&text=wht-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/c5c9e2/222536&text=wht-3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
         <td>
             <code>#</code><br>
             <code>rgb()</code><br>
@@ -297,10 +320,10 @@
             <code>CR:</code>
         </td>
         <td>
-            <code>#d8dcff</code><br>
-            <code>rgb(216, 220, 255)</code><br>
-            <code>hsl(234, 100%, 92%)</code><br>
-            <code>CR: 11.25</code>
+            <code>#</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:</code>
         </td>
     </tr>
     </table>

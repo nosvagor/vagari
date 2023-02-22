@@ -82,7 +82,7 @@
 <!--     > -->
 <!-- </p> -->
 
-<details open >
+<details closed>
     <summary><h4> ☯️  Bounds</h4></summary>
     <blockquote>
         The constraints, or bounds, to any system are probably the most imporant

@@ -426,6 +426,386 @@
     </tr>
     </table>
 <!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
 </details>
 
 <!-- }}} -->
@@ -434,6 +814,310 @@
 
 <details closed >
 <summary><h4> 📡 Communicative</h4></summary>
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
 </details>
 
 <!-- }}} -->
@@ -442,6 +1126,251 @@
 
 <details closed >
 <summary><h4> ⚗️  Muted</h4></summary>
+<!-- xxx {{{ -->
+    <br>
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        <b>xxx</b>
+    </p>
+    <table align="center">
+    <tr>
+        <th>xxx-0</th>
+        <th>xxx-1</th>
+        <th>xxx-2</th>
+        <th>xxx-3</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/111111/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/222222/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/333333/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/444444/222536&text=yyy-3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#111111</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.05</code>
+        </td>
+        <td>
+            <code>#222222</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.12</code>
+        </td>
+        <td>
+            <code>#333333</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.18</code>
+        </td>
+        <td>
+            <code>#444444</code><br>
+            <code>rgb(</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.26</code>
+        </td>
+    </tr>
+    </table>
+ <!-- }}} -->
+<!-- xxx {{{ -->
+    <br>
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        <b>xxx</b>
+    </p>
+    <table align="center">
+    <tr>
+        <th>xxx-0</th>
+        <th>xxx-1</th>
+        <th>xxx-2</th>
+        <th>xxx-3</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/111111/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/222222/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/333333/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/444444/222536&text=yyy-3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#111111</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.05</code>
+        </td>
+        <td>
+            <code>#222222</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.12</code>
+        </td>
+        <td>
+            <code>#333333</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.18</code>
+        </td>
+        <td>
+            <code>#444444</code><br>
+            <code>rgb(</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.26</code>
+        </td>
+    </tr>
+    </table>
+ <!-- }}} -->
+<!-- xxx {{{ -->
+    <br>
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        <b>xxx</b>
+    </p>
+    <table align="center">
+    <tr>
+        <th>xxx-0</th>
+        <th>xxx-1</th>
+        <th>xxx-2</th>
+        <th>xxx-3</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/111111/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/222222/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/333333/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/444444/222536&text=yyy-3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#111111</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.05</code>
+        </td>
+        <td>
+            <code>#222222</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.12</code>
+        </td>
+        <td>
+            <code>#333333</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.18</code>
+        </td>
+        <td>
+            <code>#444444</code><br>
+            <code>rgb(</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.26</code>
+        </td>
+    </tr>
+    </table>
+ <!-- }}} -->
+<!-- xxx {{{ -->
+    <br>
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        <b>xxx</b>
+    </p>
+    <table align="center">
+    <tr>
+        <th>xxx-0</th>
+        <th>xxx-1</th>
+        <th>xxx-2</th>
+        <th>xxx-3</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/111111/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/222222/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/333333/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/444444/222536&text=yyy-3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#111111</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.05</code>
+        </td>
+        <td>
+            <code>#222222</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.12</code>
+        </td>
+        <td>
+            <code>#333333</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.18</code>
+        </td>
+        <td>
+            <code>#444444</code><br>
+            <code>rgb(</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.26</code>
+        </td>
+    </tr>
+    </table>
+ <!-- }}} -->
+<!-- xxx {{{ -->
+    <br>
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        <b>xxx</b>
+    </p>
+    <table align="center">
+    <tr>
+        <th>xxx-0</th>
+        <th>xxx-1</th>
+        <th>xxx-2</th>
+        <th>xxx-3</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://place-hold.it/84/111111/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/222222/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/333333/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/444444/222536&text=yyy-3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#111111</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.05</code>
+        </td>
+        <td>
+            <code>#222222</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.12</code>
+        </td>
+        <td>
+            <code>#333333</code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+            <code>CR:1.18</code>
+        </td>
+        <td>
+            <code>#444444</code><br>
+            <code>rgb(</code><br>
+            <code>hsl()</code><br>
+            <code>CR: 1.26</code>
+        </td>
+    </tr>
+    </table>
+ <!-- }}} -->
 </details>
 
 <!-- }}} -->
@@ -450,6 +1379,386 @@
 
 <details closed >
 <summary><h4> 👽 Grey</h4></summary>
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
+<!-- xxx {{{ -->
+    <blockquote>
+        >>>
+    </blockquote>
+    <p>
+        These <b>xxx</b> colors are meant to communicate:
+    </p>
+    <table align="center">
+    <tr>
+        <td><img src="https://place-hold.it/64/00000/222536&text=yyy-0&bold&fontsize=14"></td>
+        <td>
+            <code>#000000</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/11111/222536&text=yyy-1&bold&fontsize=14"></td>
+        <td>
+            <code>#111111</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
+        <td>
+            <code>#222222</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td>
+            <code>#333333</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
+        <td>
+            <code>#444444</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
+        <td>
+            <code>#555555</code><br>
+            <code>CR:</code>
+        </td>
+        <td>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
 </details>
 
 <!-- }}} -->

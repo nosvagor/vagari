@@ -115,7 +115,8 @@
         brightness):
     </blockquote>
     <p>
-        These <b>dark</b> colors provide a means to create depth for background elements.
+        These <b>dark</b> colors provide a means to create depth for background
+        elements.
     </p>
     <table align="center">
     <tr>
@@ -153,13 +154,14 @@
             <code>#0d0f1b</code><br>
             <code>rgb(13, 15, 27)</code><br>
             <code>hsl(231, 35%, 8%)</code><br>
-            <code>CR: 1.25</code>
+            <code>CR: 1.26</code>
         </td>
     </tr>
     </table>
     <br>
     <blockquote>
-        We still need a relatively neutral lower bound; the dark colors won't replace black:
+        We still need a relatively neutral lower bound; the dark colors won't
+        replace black:
     </blockquote>
     <p>
         These <b>black</b> colors are meant to communicate ideas of (or similar
@@ -173,23 +175,23 @@
         <th>Black-3</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/1d1d21/c6c9c2&text=blk-0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/19191d/c5c9c2&text=blk-1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/101014/c5c9c2&text=blk-2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0b0b0f/c5c9c2&text=blk-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/1d1d21/c9c9e2&text=blk-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/16161a/d3d3ed&text=blk-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/101014/ddddf6&text=blk-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/0b0b0f/e9e9fb&text=blk-3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
             <code>#1d1d21</code><br>
             <code>rgb(29, 29, 33)</code><br>
             <code>hsl(240, 6%, 12%)</code><br>
-            <code>CR: 1.10</code>
+            <code>CR: 1.11</code>
         </td>
         <td>
-            <code>#19191d</code><br>
-            <code>rgb(25, 25, 29)</code><br>
-            <code>hsl(240, 7%, 11%)</code><br>
-            <code>CR: 1.15</code>
+            <code>#16161a</code><br>
+            <code>rgb(22, 22, 26)</code><br>
+            <code>hsl(240, 8%, 9%)</code><br>
+            <code>CR: 1.19</code>
         </td>
         <td>
             <code>#101014</code><br>
@@ -233,7 +235,7 @@
      </table>
     <br>
     <blockquote>
-        Cointinunig in the inverse direction (maintaining cool tones, <i>increaseing</i>
+        Continuing in the inverse direction (maintaining cool tones, <i>increaseing</i>
         brightness):
     </blockquote>
     <p>
@@ -247,17 +249,17 @@
         <th>Bright-3</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/b6bff7/aeb9f8&text=brt-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/b6c0f7/aeb9f8&text=brt-0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/bec6f8/aeb9f8&text=brt-1&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/cad1fb/aeb9f8&text=brt-2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/84/d1d8ff/aeb9f8&text=brt-3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
-            <code>#b6bff7</code><br>
-            <code>rgb(182, 191, 247)</code><br>
-            <code>hsl(232, 80%, 84%)</code><br>
-            <code>CR: 8.50</code>
+            <code>#b6c0f7</code><br>
+            <code>rgb(182, 192, 247)</code><br>
+            <code>hsl(231, 80%, 84%)</code><br>
+            <code>CR: 8.56</code>
         </td>
         <td>
             <code>#bec6f8</code><br>
@@ -274,7 +276,7 @@
         <td>
             <code>#d1d8ff</code><br>
             <code>rgb(209, 216, 255)</code><br>
-            <code>hsl(231 100%, 91%)</code><br>
+            <code>hsl(231, 100%, 91%)</code><br>
             <code>CR: 11.21</code>
         </td>
     </tr>
@@ -295,35 +297,35 @@
         <th>White-3</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/8c92ba/222536&text=wht-0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/a7abce/222536&text=wht-1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/b6bbd8/222536&text=wht-2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/c5c9e2/222536&text=wht-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/c9c9e2/1d1d21&text=wht-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/d3d3ed/16161a&text=wht-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/ddddf6/101014&text=wht-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/e9e9fb/0b0b0f&text=wht-3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#c9c9e2</code><br>
+            <code>rgb(201, 201, 226)</code><br>
+            <code>hsl(240, 30%, 84%)</code><br>
+            <code>CR: 9.33</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#d3d3ed</code><br>
+            <code>rgb(211, 211, 237)</code><br>
+            <code>hsl(240, 42%, 88%)</code><br>
+            <code>CR: 10.41</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#ddddf6</code><br>
+            <code>rgb(221, 221, 246)</code><br>
+            <code>hsl(240, 58%, 92%)</code><br>
+            <code>CR: 11.36</code>
         </td>
         <td>
-            <code>#</code><br>
-            <code>rgb()</code><br>
-            <code>hsl()</code><br>
-            <code>CR:</code>
+            <code>#e9e9fb</code><br>
+            <code>rgb(233, 233, 251)</code><br>
+            <code>hsl(240, 69%, 95%)</code><br>
+            <code>CR: 12.63</code>
         </td>
     </tr>
     </table>

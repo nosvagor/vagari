@@ -63,24 +63,17 @@
 <!-- }}} -->
 <!-- ============================================================================ -->
 
-<!-- 🏓 Contents {{{ -->
-<details open>
-<summary><h2>Contents</h2></summary>
-</details>
-
-<!-- }}} -->
-
 <!-- 🎨 Palette {{{ -->
 <details open>
 <summary><h2>Palette</h2></summary>
 
-<!-- <p align="center"> -->
-<!--     <img -->
-<!--         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v3.svg?raw=true" -->
-<!--         title="vagari color pallet" -->
-<!--         width="100%" -->
-<!--     > -->
-<!-- </p> -->
+<p align="center">
+    <img
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v4.svg?raw=true"
+        title="vagari color pallet"
+        width="100%"
+    >
+</p>
 
 <!-- ☯️  Bounds {{{ -->
 
@@ -92,8 +85,8 @@
         place to start:
     </blockquote>
     <p>
-        First, the <b>background</b>, as the contrast ratio to this color is one of
-        the most important determining factors when generating others
+        First, the <b>background</b>, as the contrast ratio to this color is
+        one of the most important determining factors when generating others
         colors. The background represents the upper bound for the darkest
         colors.
     </p>
@@ -348,7 +341,7 @@
 
 <!-- 🚥 Signaling {{{ -->
 
-<details open >
+<details closed>
 <summary><h4> 🚥 Signaling</h4></summary>
 <!-- xxx {{{ -->
     <blockquote>
@@ -1767,7 +1760,7 @@
 <!-- }}} -->
 
 <!-- 🧠 Philosophy {{{ -->
-<details open>
+<details closed>
 <summary><h2>General Philosophy</h2></summary>
 
 ### Manifest Meaning
@@ -1875,7 +1868,7 @@ ultimately style (the result of the process of fashion) is created as a means to
 <!-- }}} -->
 
 <!-- 🤴 Principles {{{ -->
-<details open>
+<details closed>
 <summary><h2>Design Principles</h2></summary>
 
 ### Sex
@@ -1950,7 +1943,7 @@ _meaning_ via the injection of _new ideas_, provided by _new users_.
 Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
 of this, the embrace of chaos is at the core of the design philosophy. _vagari_
 is not looking for _the answer_&mdash;_vagari_ is looking for **an answer**;
-always open to a new answer, or a new way of approaching problems.
+always closed to a new answer, or a new way of approaching problems.
 
 The starting point of many decisions usually draw upon inspiration from the
 apparent universality of various mathematical concepts or patterns (e.g.,
@@ -2005,15 +1998,15 @@ a whole that is more than the sum of its parts.
 <!-- }}} -->
 
 <!-- 🪟 Gallery {{{ -->
-<details open>
+<details closed>
 <summary><h2>Gallery</h2></summary>
 </details>
 <!-- }}} -->
 
 <!-- 🚢 Ports {{{ -->
-<details open>
+<details closed>
 <summary><h2>Ports</h2></summary>
-<!-- <details open><summary>🔧 System</summary> -->
+<!-- <details closed><summary>🔧 System</summary> -->
 <!---->
 <!-- - [bat](https://github.com/catppuccin/bat) -->
 <!-- - [btop](https://github.com/catppuccin/btop) -->
@@ -2026,7 +2019,7 @@ a whole that is more than the sum of its parts.
 <!-- - [hyprland](https://github.com/catppuccin/hyprland) -->
 <!---->
 <!-- </details> -->
-<!-- <details open><summary>🪐 Apps</summary> -->
+<!-- <details closed><summary>🪐 Apps</summary> -->
 <!---->
 <!-- - [neovim](https://github.com/catppuccin/nvim) -->
 <!-- - [kitty](https://github.com/catppuccin/kitty) -->
@@ -2042,7 +2035,7 @@ a whole that is more than the sum of its parts.
 <!---->
 <!-- </details> -->
 <!---->
-<!-- <details open><summary>✨ Web</summary> -->
+<!-- <details closed><summary>✨ Web</summary> -->
 <!---->
 <!-- - [Firefox](https://github.com/catppuccin/firefox) -->
 <!-- - [Dark Reader](https://github.com/catppuccin/dark-reader) -->
@@ -2060,13 +2053,13 @@ a whole that is more than the sum of its parts.
 <!-- }}} -->
 
 <!-- 🤝 Contributing {{{ -->
-<details open>
+<details closed>
 <summary><h2>Contributing</h2></summary>
 </details>
 <!-- }}} -->
 
 <!-- 🌈 Inspiration {{{ -->
-<details open>
+<details closed>
 <summary><h2>Inspiration</h2></summary>
 
 <p align="center">
@@ -2108,7 +2101,7 @@ a whole that is more than the sum of its parts.
 <!-- }}} -->
 
 <!-- 🙇 Gratitude {{{ -->
-<details open>
+<details closed>
 <summary><h2>Gratitude</h2></summary>
 
 > The links below are included (in no particular order) because they are:
@@ -2124,7 +2117,7 @@ a whole that is more than the sum of its parts.
 
 - [Paletton](https://paletton.com/) (simple color pallet generator)
 - [Encycolorpedia](https://encycolorpedia.com/) (color facts 'n stuff)
-- [ChatGPT3](https://chat.openai.com/chat) (for the times they are a-changin')
+- [ChatGPT3](https://chat.closedai.com/chat) (for the times they are a-changin')
 - [Dream Studio](https://beta.dreamstudio.ai/dream) (stable diffusion art generator)
 - [Contrast Ratio Between Colors](https://contrast-ratio.com/) (and relative luminance)
 - [Five Factors that Guide attention in Visual Search](https://doi.org/10.1038/s41562-017-0058) (review article)

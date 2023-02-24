@@ -67,13 +67,13 @@
 <details open>
 <summary><h2>Palette</h2></summary>
 
-<!-- <p align="center"> -->
-<!--     <img -->
-<!--         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v4.svg?raw=true" -->
-<!--         title="vagari color pallet" -->
-<!--         width="100%" -->
-<!--     > -->
-<!-- </p> -->
+<p align="center">
+    <img
+        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v4.svg?raw=true"
+        title="vagari color pallet"
+        width="100%"
+    >
+</p>
 
 <!-- ☯️  Bounds {{{ -->
 
@@ -341,7 +341,7 @@
 
 <!-- 🚥 Signaling {{{ -->
 
-<details open>
+<details closed>
 <summary><h4> 🚥 Signaling</h4></summary>
 <!-- xxx {{{ -->
     <blockquote>
@@ -358,34 +358,34 @@
         <th>Orange-3</th>
     </tr>
     <tr align="center">
-        <td><img src="https://place-hold.it/84/00000/222536&text=yyy-0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/11111/222536&text=yyy-1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222222/222536&text=yyy-2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/333333/222536&text=yyy-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/00000/222536&text=orn-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/11111/222536&text=orn-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/222222/222536&text=orn-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/84/333333/222536&text=orn-3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
-            <code>#1e2133</code><br>
-            <code>rgb(30, 33, 51)</code><br>
-            <code>hsl(231, 26%, 16%)</code><br>
+            <code><code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
             <code>CR: 1.05</code>
         </td>
         <td>
-            <code>#181a2c</code><br>
-            <code>rgb(24, 26, 44)</code><br>
-            <code>hsl(231, 29%, 13%)</code><br>
+            <code></code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
             <code>CR:1.12</code>
         </td>
         <td>
-            <code>#131626</code><br>
-            <code>rgb(19, 22, 38)</code><br>
-            <code>hsl(231, 33%, 11%)</code><br>
+            <code></code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
             <code>CR:1.18</code>
         </td>
         <td>
-            <code>#0d0f1b</code><br>
-            <code>rgb(13, 15, 27)</code><br>
-            <code>hsl(231, 35%, 8%)</code><br>
+            <code></code><br>
+            <code>rgb()</code><br>
+            <code>hsl()</code><br>
             <code>CR: 1.26</code>
         </td>
     </tr>

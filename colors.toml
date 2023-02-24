@@ -36,164 +36,158 @@ wht-3 = "#e9e9fb" # HSL: 240 69 95 CR: 12.63
 
 # }}} ⮭
 
-# 🚥 Signaling{{{
+# 🚥 Signaling {{
 
 [red]
-red-0 = "#ff99b1" # HSL: 346 100 080 CR: 1.61 RL: 0.472
-red-1 = "#ed5f6f" # HSL: 353 080 065 CR: 4.66 RL: 0.273
-red-2 = "#ed5f6f" # HSL: 353 080 065 CR: 4.66 RL: 0.273
-red-3 = "#ed5f6f" # HSL: 353 080 065 CR: 4.66 RL: 0.273
-red-4 = "#ed5f6f" # HSL: 353 080 065 CR: 4.66 RL: 0.273
-red-5 = "#d0253a" # HSL: 353 070 048 CR: 1.61 RL: 0.150
+red-0 = "#f34658" # HSL: 354 88 61 CR: 4.20
+red-2 = "#ef5d6e" # HSL: 353 82 65 CR: 4.66
+red-1 = "#f06b7d" # HSL: 342 82 68 CR: 5.12
+red-3 = "#f07a88" # HSL: 353 80 71 CR: 5.66
+red-4 = "#f68e99" # HSL: 354 88 76 CR: 6.67
 
 [orange]
-orn-0 = "#ff9e7a" # HSL: 024 100 082 CR: 1.61 RL: 0.652
-orn-1 = "#ec9055" # HSL: 023 080 063 CR: 6.26 RL: 0.384
-orn-2 = "#ec9055" # HSL: 023 080 063 CR: 6.26 RL: 0.384
-orn-3 = "#ec9055" # HSL: 023 080 063 CR: 6.26 RL: 0.384
-orn-4 = "#ec9055" # HSL: 023 080 063 CR: 6.26 RL: 0.384
-orn-5 = "#d55c1e" # HSL: 020 075 048 CR: 1.61 RL: 0.219
+orn-0 = "#e56b2c" # HSL: 20 78 54 CR: 4.66
+orn-1 = "#ea834b" # HSL: 21 79 61 CR: 5.66
+orn-2 = "#eb905d" # HSL: 22 78 64 CR: 6.26
+orn-3 = "#f2a170" # HSL: 23 83 70 CR: 7.29
+orn-4 = "#f8b486" # HSL: 24 89 75 CR: 8.56
 
 [yellow]
-yel-0 = "#fff19e" # HSL: 051 100 081 CR: 1.45 RL: 0.866
-yel-1 = "#ecc45d" # HSL: 043 079 065 CR: 9.10 RL: 0.581
-yel-2 = "#ecc45d" # HSL: 043 079 065 CR: 9.10 RL: 0.581
-yel-3 = "#ecc45d" # HSL: 043 079 065 CR: 9.10 RL: 0.581
-yel-4 = "#ecc45d" # HSL: 043 079 065 CR: 9.10 RL: 0.581
-yel-5 = "#d79c04" # HSL: 043 096 043 CR: 1.45 RL: 0.383
+yel-0 = "#f3a338" # HSL: 34 89 59 CR: 7.29
+yel-1 = "#f5b855" # HSL: 37 89 65 CR: 8.56
+yel-2 = "#f5c069" # HSL: 37 87 69 CR: 9.11
+yel-3 = "#f4ce88" # HSL: 39 83 75 CR: 10.12
+yel-4 = "#f5d599" # HSL: 39 82 78 CR: 10.72
 
 [ivy]
-ivy-0 = "#9eeaab" # HSL: 130 064 077 CR: 1.61 RL: 0.691
-ivy-1 = "#65be75" # HSL: 131 041 057 CR: 6.62 RL: 0.409
-ivy-2 = "#65be75" # HSL: 131 041 057 CR: 6.62 RL: 0.409
-ivy-3 = "#65be75" # HSL: 131 041 057 CR: 6.62 RL: 0.409
-ivy-4 = "#65be75" # HSL: 131 041 057 CR: 6.62 RL: 0.409
-ivy-5 = "#40964e" # HSL: 130 040 042 CR: 1.61 RL: 0.234
+ivy-0 = "#2d9a47" # HSL: 134 55 39 CR: 4.20
+ivy-1 = "#48a95b" # HSL: 132 40 47 CR: 5.12
+ivy-2 = "#5aba6d" # HSL: 132 41 54 CR: 6.26
+ivy-3 = "#5fc976" # HSL: 133 50 58 CR: 7.29
+ivy-4 = "#76d78b" # HSL: 133 55 65 CR: 8.56
 
 [cyan]
-cyn-0 = "#a8fff9" # HSL: 176 100 083 CR: 1.45 RL: 0.866
-cyn-1 = "#4adecd" # HSL: 173 069 058 CR: 9.10 RL: 0.581
-cyn-2 = "#4adecd" # HSL: 173 069 058 CR: 9.10 RL: 0.581
-cyn-3 = "#4adecd" # HSL: 173 069 058 CR: 9.10 RL: 0.581
-cyn-4 = "#4adecd" # HSL: 173 069 058 CR: 9.10 RL: 0.581
-cyn-5 = "#02bba5" # HSL: 173 098 037 CR: 1.45 RL: 0.382
+cyn-0 = "#a8fff9" # HSL: CR:
+cyn-1 = "#4adecd" # HSL: CR:
+cyn-2 = "#4adecd" # HSL: CR:
+cyn-3 = "#4adecd" # HSL: CR:
+cyn-4 = "#02bba5" # HSL: CR:
 
 [pink]
-pnk-0 = "#ff94d4" # HSL: 324 100 079 CR: 1.61 RL: 0.472
-pnk-1 = "#dc60bf" # HSL: 314 064 062 CR: 4.66 RL: 0.273
-pnk-2 = "#dc60bf" # HSL: 314 064 062 CR: 4.66 RL: 0.273
-pnk-3 = "#dc60bf" # HSL: 314 064 062 CR: 4.66 RL: 0.273
-pnk-4 = "#dc60bf" # HSL: 314 064 062 CR: 4.66 RL: 0.273
-pnk-5 = "#b7349f" # HSL: 311 056 046 CR: 1.61 RL: 0.150
+pnk-0 = "#ff94d4" # HSL: CR:
+pnk-1 = "#dc60bf" # HSL: CR:
+pnk-2 = "#dc60bf" # HSL: CR:
+pnk-3 = "#dc60bf" # HSL: CR:
+pnk-4 = "#b7349f" # HSL: CR:
 
 # }}} ⮭
 
 # 📡 Communicative{{{
 
 [green]
-grn-0 = "#b7e6a3" # HSL: 102 057 077 CR: 1.61 RL: 0.693
-grn-1 = "#86b96f" # HSL: 101 035 058 CR: 6.62 RL: 0.409
-grn-2 = "#86b96f" # HSL: 101 035 058 CR: 6.62 RL: 0.409
-grn-3 = "#86b96f" # HSL: 101 035 058 CR: 6.62 RL: 0.409
-grn-4 = "#86b96f" # HSL: 101 035 058 CR: 6.62 RL: 0.409
-grn-5 = "#5e9249" # HSL: 103 033 043 CR: 1.61 RL: 0.234
+grn-0 = "#b7e6a3" # HSL: CR:
+grn-1 = "#86b96f" # HSL: CR:
+grn-2 = "#86b96f" # HSL: CR:
+grn-3 = "#86b96f" # HSL: CR:
+grn-4 = "#86b96f" # HSL: CR:
+grn-5 = "#5e9249" # HSL: CR:
 
 [azure]
-azr-0 = "#9edbff" # HSL: 202 100 081 CR: 1.61 RL: 0.652
-azr-1 = "#59b5e5" # HSL: 203 073 062 CR: 6.26 RL: 0.384
-azr-2 = "#59b5e5" # HSL: 203 073 062 CR: 6.26 RL: 0.384
-azr-3 = "#59b5e5" # HSL: 203 073 062 CR: 6.26 RL: 0.384
-azr-4 = "#59b5e5" # HSL: 203 073 062 CR: 6.26 RL: 0.384
-azr-5 = "#2a87c7" # HSL: 204 065 047 CR: 1.61 RL: 0.219
+azr-0 = "#9edbff" # HSL: CR:
+azr-1 = "#59b5e5" # HSL: CR:
+azr-2 = "#59b5e5" # HSL: CR:
+azr-3 = "#59b5e5" # HSL: CR:
+azr-4 = "#59b5e5" # HSL: CR:
+azr-5 = "#2a87c7" # HSL: CR:
 
 [blue]
-blu-0 = "#a2b4fa" # HSL: 228 090 081 CR: 1.61 RL: 0.472
-blu-1 = "#6c88f4" # HSL: 228 086 069 CR: 4.66 RL: 0.273
-blu-2 = "#6c88f4" # HSL: 228 086 069 CR: 4.66 RL: 0.273
-blu-3 = "#6c88f4" # HSL: 228 086 069 CR: 4.66 RL: 0.273
-blu-4 = "#6c88f4" # HSL: 228 086 069 CR: 4.66 RL: 0.273
-blu-5 = "#3d60e6" # HSL: 228 077 057 CR: 1.61 RL: 0.150
+blu-0 = "#a2b4fa" # HSL: CR:
+blu-1 = "#6c88f4" # HSL: CR:
+blu-2 = "#6c88f4" # HSL: CR:
+blu-3 = "#6c88f4" # HSL: CR:
+blu-4 = "#6c88f4" # HSL: CR:
+blu-5 = "#3d60e6" # HSL: CR:
 
 [purple]
-prp-0 = "#c2aafc" # HSL: 258 093 083 CR: 1.61 RL: 0.472
-prp-1 = "#9d7af0" # HSL: 258 080 071 CR: 4.67 RL: 0.273
-prp-2 = "#9d7af0" # HSL: 258 080 071 CR: 4.67 RL: 0.273
-prp-3 = "#9d7af0" # HSL: 258 080 071 CR: 4.67 RL: 0.273
-prp-4 = "#9d7af0" # HSL: 258 080 071 CR: 4.67 RL: 0.273
-prp-5 = "#8f40e3" # HSL: 269 074 057 CR: 1.61 RL: 0.150
+prp-0 = "#c2aafc" # HSL: CR:
+prp-1 = "#9d7af0" # HSL: CR:
+prp-2 = "#9d7af0" # HSL: CR:
+prp-3 = "#9d7af0" # HSL: CR:
+prp-4 = "#9d7af0" # HSL: CR:
+prp-5 = "#8f40e3" # HSL: CR:
 
 # }}} ⮭
 
 # ⚗️  Muted{{{
 
 [histidine]
-his-0 = "#cf9590" # # HSL: 006 040 069 CR: 6.02 RL: 0.367
-his-1 = "#cf9590" # # HSL: 006 040 069 CR: 6.02 RL: 0.367
+his-0 = "#cf9590" # HSL: CR:
+his-1 = "#cf9590" # HSL: CR:
 
 [glutamic]
-glu-0 = "#8ba5cb" # HSL: 216 038 067 CR: 6.02 RL: 0.367
-glu-1 = "#8ba5cb" # HSL: 216 038 067 CR: 6.02 RL: 0.367
+glu-0 = "#8ba5cb" # HSL: CR:
+glu-1 = "#8ba5cb" # HSL: CR:
 
 [aparagine]
-asn-0 = "#c293cd" # HSL: 289 037 069 CR: 6.02 RL: 0.367
-asn-1 = "#c293cd" # HSL: 289 037 069 CR: 6.02 RL: 0.367
+asn-0 = "#c293cd" # HSL: CR:
+asn-1 = "#c293cd" # HSL: CR:
 
 [proline]
-pro-0 = "#c2cf90" # HSL: 072 040 069 CR: 9.11 RL: 0.581
-pro-1 = "#c2cf90" # HSL: 072 040 069 CR: 9.11 RL: 0.581
+pro-0 = "#c2cf90" # HSL: CR:
+pro-1 = "#c2cf90" # HSL: CR:
 
 [tyrosine]
-tyr-0 = "#9dd4c2" # HSL: 160 039 072 CR: 9.11 RL: 0.581
-tyr-1 = "#9dd4c2" # HSL: 160 039 072 CR: 9.11 RL: 0.581
+tyr-0 = "#9dd4c2" # HSL: CR:
+tyr-1 = "#9dd4c2" # HSL: CR:
 
 # }}} ⮭
 
 # 👽 greys{{{
 
 [rust]
-rst-0 = "#8f6557" # HSL: 015 024 045 CR: 3.01 RL: 0.158
-rst-1 = "#7e5a4e" # HSL: 015 024 040 CR: 2.50 RL: 0.123
-rst-2 = "#755448" # HSL: 016 024 037 CR: 2.25 RL: 0.106
-rst-3 = "#6c4d42" # HSL: 016 024 034 CR: 2.00 RL: 0.089
-rst-4 = "#62463c" # HSL: 016 024 031 CR: 1.78 RL: 0.073
-rst-5 = "#553c34" # HSL: 015 024 027 CR: 1.50 RL: 0.054
+rst-0 = "#8f6557" # HSL: CR:
+rst-1 = "#7e5a4e" # HSL: CR:
+rst-2 = "#755448" # HSL: CR:
+rst-3 = "#6c4d42" # HSL: CR:
+rst-4 = "#62463c" # HSL: CR:
+rst-5 = "#553c34" # HSL: CR:
 
 [slate]
-slt-0 = "#646ca0" # HSL: 232 024 051 CR: 3.03 RL: 0.160
-slt-1 = "#596091" # HSL: 232 024 046 CR: 2.53 RL: 0.125
-slt-2 = "#515885" # HSL: 232 024 042 CR: 2.23 RL: 0.104
-slt-3 = "#4c527b" # HSL: 232 024 039 CR: 2.02 RL: 0.090
-slt-4 = "#444a6f" # HSL: 232 024 035 CR: 1.77 RL: 0.073
-slt-5 = "#3c4162" # HSL: 232 024 031 CR: 1.53 RL: 0.056
+slt-0 = "#646ca0" # HSL: CR:
+slt-1 = "#596091" # HSL: CR:
+slt-2 = "#515885" # HSL: CR:
+slt-3 = "#4c527b" # HSL: CR:
+slt-4 = "#444a6f" # HSL: CR:
+slt-5 = "#3c4162" # HSL: CR:
 
 [plum]
-plm-0 = "#816681" # HSL: 300 012 045 CR: 3.00 RL: 0.158
-plm-1 = "#725a72" # HSL: 300 012 040 CR: 2.47 RL: 0.121
-plm-2 = "#6a536a" # HSL: 300 012 037 CR: 2.21 RL: 0.103
-plm-3 = "#614c61" # HSL: 300 012 034 CR: 1.96 RL: 0.086
-plm-4 = "#594659" # HSL: 300 012 031 CR: 1.76 RL: 0.072
-plm-5 = "#4d3d4d" # HSL: 300 012 027 CR: 1.51 RL: 0.055
+plm-0 = "#816681" # HSL: CR:
+plm-1 = "#725a72" # HSL: CR:
+plm-2 = "#6a536a" # HSL: CR:
+plm-3 = "#614c61" # HSL: CR:
+plm-4 = "#594659" # HSL: CR:
+plm-5 = "#4d3d4d" # HSL: CR:
 
 [olive]
-olv-0 = "#6a716a" # HSL: 120 003 043 CR: 3.02 RL: 0.159
-olv-1 = "#5e645e" # HSL: 120 003 038 CR: 2.50 RL: 0.123
-olv-2 = "#565c56" # HSL: 120 003 035 CR: 2.21 RL: 0.103
-olv-3 = "#4f544f" # HSL: 120 003 032 CR: 1.96 RL: 0.086
-olv-4 = "#484c48" # HSL: 120 003 029 CR: 1.73 RL: 0.070
-olv-5 = "#3e423e" # HSL: 120 003 025 CR: 1.48 RL: 0.053
+olv-0 = "#6a716a" # HSL: CR:
+olv-1 = "#5e645e" # HSL: CR:
+olv-2 = "#565c56" # HSL: CR:
+olv-3 = "#4f544f" # HSL: CR:
+olv-4 = "#484c48" # HSL: CR:
+olv-5 = "#3e423e" # HSL: CR:
 
 [grey]
-gry-0 = "#696d86" # HSL: 232 012 047 CR: 2.98 RL: 0.157
-gry-1 = "#5e6178" # HSL: 231 012 042 CR: 2.49 RL: 0.125
-gry-2 = "#585b6f" # HSL: 232 012 039 CR: 2.27 RL: 0.107
-gry-3 = "#515467" # HSL: 232 012 036 CR: 2.03 RL: 0.091
-gry-4 = "#484b5b" # HSL: 231 012 032 CR: 1.76 RL: 0.072
-gry-5 = "#3f4150" # HSL: 233 012 026 CR: 1.50 RL: 0.054
+gry-0 = "#696d86" # HSL: CR:
+gry-1 = "#5e6178" # HSL: CR:
+gry-2 = "#585b6f" # HSL: CR:
+gry-3 = "#515467" # HSL: CR:
+gry-4 = "#484b5b" # HSL: CR:
+gry-5 = "#3f4150" # HSL: CR:
 
 # }}} ⮭
 
 # =============================================================================
-# 💡 References{{{
+# 💡 References {{
 
 # unity:
 # 12::0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330

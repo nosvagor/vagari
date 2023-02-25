@@ -60,25 +60,25 @@ yel-3 = "#f4ce88" # HSL: 39 83 75 CR: 10.12
 yel-4 = "#f5d599" # HSL: 39 82 78 CR: 10.72
 
 [ivy]
-ivy-0 = "#2d9a47" # HSL: 134 55 39 CR: 4.20
+ivy-0 = "#2d9a47" # HSL: 134 55 39 CR: 4.10
 ivy-1 = "#48a95b" # HSL: 132 40 47 CR: 5.12
 ivy-2 = "#5aba6d" # HSL: 132 41 54 CR: 6.26
 ivy-3 = "#5fc976" # HSL: 133 50 58 CR: 7.29
 ivy-4 = "#76d78b" # HSL: 133 55 65 CR: 8.56
 
 [cyan]
-cyn-0 = "#a8fff9" # HSL: CR:
-cyn-1 = "#4adecd" # HSL: CR:
-cyn-2 = "#4adecd" # HSL: CR:
-cyn-3 = "#4adecd" # HSL: CR:
-cyn-4 = "#02bba5" # HSL: CR:
+cy2-0 = "#2bb198" # HSL: 169 61 43 CR: 5.66
+cy2-1 = "#30c9b0" # HSL: 170 62 49 CR: 7.29
+cy2-2 = "#38d2ba" # HSL: 171 63 52 CR: 8.00
+cy2-3 = "#50dec8" # HSL: 171 68 59 CR: 9.11
+cy2-4 = "#71eddd" # HSL: 172 77 69 CR: 10.72
 
 [pink]
-pnk-0 = "#ff94d4" # HSL: CR:
-pnk-1 = "#dc60bf" # HSL: CR:
-pnk-2 = "#dc60bf" # HSL: CR:
-pnk-3 = "#dc60bf" # HSL: CR:
-pnk-4 = "#b7349f" # HSL: CR:
+pnk-0 = "#d15da6" # HSL: 322 56 59 CR: 4.20
+pnk-1 = "#e26db6" # HSL: 323 67 66 CR: 5.12
+pnk-2 = "#ea76c0" # HSL: 322 73 69 CR: 5.66
+pnk-3 = "#ed88c8" # HSL: 322 75 73 CR: 6.46
+pnk-4 = "#ed9acd" # HSL: 323 70 77 CR: 7.29
 
 # }}} ⮭
 

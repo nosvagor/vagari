@@ -581,102 +581,62 @@
     <table align="center">
     <tr>
         <td>
-            <code>rgb(45, 154, 67)</code><br>
-            <code>hsl(133, 55, 39)</code><br>
-        </td>
-        <td>
             <code>#2d9a45</code><br>
-            <code>CR: 4.20</code>
+            <code>CR:4.20</code>
         </td>
         <td><img src="https://place-hold.it/64/222536/2d9a43/&text=emr-0&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/f34658/&text=rby-0&bold&fontsize=14"></td>
         <td>
             <code>#f34657</code><br>
-            <code>CR: 4.20</code>
-        </td>
-        <td>
-            <code>rgb(243, 70, 88)</code><br>
-            <code>hsl(354, 88, 61)</code><br>
+            <code>CR:4.20</code>
         </td>
     </tr>
     <tr>
         <td>
-            <code>rgb(72, 169, 91)</code><br>
-            <code>hsl(132, 40, 47)</code><br>
-        </td>
-        <td>
             <code>#48a95b</code><br>
-            <code>CR: 5.12</code>
+            <code>CR:5.12</code>
         </td>
         <td><img src="https://place-hold.it/64/222536/48a95b/&text=emr-1&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/ef5d6e/&text=rby-1&bold&fontsize=14"></td>
         <td>
             <code>#ef5d6e</code><br>
-            <code>CR: 4.66</code>
-        </td>
-        <td>
-            <code>rgb(239, 93, 110)</code><br>
-            <code>hsl(353, 82, 65)</code><br>
+            <code>CR:4.66</code>
         </td>
     </tr>
     <tr>
         <td>
-            <code>rgb(90, 186, 109)</code><br>
-            <code>hsl(132, 41, 54)</code><br>
-        </td>
-        <td>
             <code>#5aba6d</code><br>
-            <code>CR: 6.26</code>
+            <code>CR:6.26</code>
         </td>
         <td><img src="https://place-hold.it/64/222536/5aba6d/&text=emr-3&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/f06b7d/&text=rby-2&bold&fontsize=14"></td>
         <td>
             <code>#f06b7d</code><br>
-            <code>CR: 512</code>
-        </td>
-        <td>
-            <code>rgb(240, 107, 125)</code><br>
-            <code>hsl(352, 82, 68)</code><br>
+            <code>CR:512</code>
         </td>
     </tr>
     <tr>
         <td>
-            <code>rgb(95, 201, 118)</code><br>
-            <code>hsl(133, 50, 58)</code><br>
-        </td>
-        <td>
             <code>#5fc976</code><br>
-            <code>CR: 7.29</code>
+            <code>CR:7.29</code>
         </td>
         <td><img src="https://place-hold.it/64/222536/5fc976/&text=emr-3&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/f07a88/&text=rby-3&bold&fontsize=14"></td>
         <td>
             <code>#f07a88</code><br>
-            <code>CR: 5.66</code>
-        </td>
-        <td>
-            <code>rgb(240, 122, 136)</code><br>
-            <code>hsl(353, 80, 71)</code><br>
+            <code>CR:5.66</code>
         </td>
     </tr>
     <tr>
         <td>
-            <code>rgb(118, 215, 139)</code><br>
-            <code>hsl(133, 55, 65)</code><br>
-        </td>
-        <td>
             <code>#76d78b</code><br>
-            <code>CR: 8.56</code>
+            <code>CR:8.56</code>
         </td>
         <td><img src="https://place-hold.it/64/222536/76d78b/&text=emr-4&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/f68e99/&text=rby-4&bold&fontsize=14"></td>
         <td>
             <code>#f68e99</code><br>
-            <code>CR: 6.67</code>
-        </td>
-        <td>
-            <code>rgb(246, 142, 153)</code><br>
-            <code>hsl(354, 88, 76)</code><br>
+            <code>CR:6.67</code>
         </td>
     </tr>
     </table>

@@ -31,15 +31,15 @@
      showguides="false"
      guidehicolor="#ff9e64"
      guidehiopacity="0.49803922"
-     inkscape:zoom="2"
-     inkscape:cx="457.25"
-     inkscape:cy="439.25"
+     inkscape:zoom="16"
+     inkscape:cx="662.90625"
+     inkscape:cy="535.96875"
      inkscape:window-width="2309"
      inkscape:window-height="1646"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g455">
     <inkscape:grid
        type="xygrid"
        id="grid1198"
@@ -1801,7 +1801,7 @@
        inkscape:label="red">
       <path
          sodipodi:type="star"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f34658;fill-opacity:1;stroke:none;stroke-width:0.274378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#f34657;fill-opacity:1;stroke:none;stroke-width:0.274378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
          id="path3591-3-9-8"
          inkscape:flatsided="true"
          sodipodi:sides="6"
@@ -1923,7 +1923,7 @@
        inkscape:label="ivy">
       <path
          sodipodi:type="star"
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#2d9a43;fill-opacity:1;stroke:none;stroke-width:0.274378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#2d9a45;fill-opacity:1;stroke:none;stroke-width:0.274378;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
          id="path3591-3-9-1"
          inkscape:flatsided="true"
          sodipodi:sides="6"

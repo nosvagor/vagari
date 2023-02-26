@@ -38,33 +38,33 @@ wht-3 = "#e9e9fb" # HSL: 240 69 95 CR: 12.63
 
 # 🚥 Signaling {{
 
-[red]
-red-0 = "#f34658" # HSL: 354 88 61 CR: 4.20
-red-2 = "#ef5d6e" # HSL: 353 82 65 CR: 4.66
-red-1 = "#f06b7d" # HSL: 342 82 68 CR: 5.12
-red-3 = "#f07a88" # HSL: 353 80 71 CR: 5.66
-red-4 = "#f68e99" # HSL: 354 88 76 CR: 6.67
-
-[orange]
-orn-0 = "#e56b2c" # HSL: 20 78 54 CR: 4.66
-orn-1 = "#ea834b" # HSL: 21 79 61 CR: 5.66
-orn-2 = "#eb905d" # HSL: 22 78 64 CR: 6.26
-orn-3 = "#f2a170" # HSL: 23 83 70 CR: 7.29
-orn-4 = "#f8b486" # HSL: 24 89 75 CR: 8.56
-
-[yellow]
-yel-0 = "#f3a338" # HSL: 34 89 59 CR: 7.29
-yel-1 = "#f5b855" # HSL: 37 89 65 CR: 8.56
-yel-2 = "#f5c069" # HSL: 37 87 69 CR: 9.11
-yel-3 = "#f4ce88" # HSL: 39 83 75 CR: 10.12
-yel-4 = "#f5d599" # HSL: 39 82 78 CR: 10.72
-
-[ivy]
+[emerald]
 ivy-0 = "#2d9a43" # HSL: 133 55 39 CR: 4.20
 ivy-1 = "#48a95b" # HSL: 132 40 47 CR: 5.12
 ivy-2 = "#5aba6d" # HSL: 132 41 54 CR: 6.26
 ivy-3 = "#5fc976" # HSL: 133 50 58 CR: 7.29
 ivy-4 = "#76d78b" # HSL: 133 55 65 CR: 8.56
+
+[ruby]
+rby-0 = "#f34658" # HSL: 354 88 61 CR: 4.20
+rby-2 = "#ef5d6e" # HSL: 353 82 65 CR: 4.66
+rby-1 = "#f06b7d" # HSL: 352 82 68 CR: 5.12
+rby-3 = "#f07a88" # HSL: 353 80 71 CR: 5.66
+rby-4 = "#f68e99" # HSL: 354 88 76 CR: 6.67
+
+[sun]
+sun-0 = "#f3a338" # HSL: 34 89 59 CR: 7.29
+sun-1 = "#f5b855" # HSL: 37 89 65 CR: 8.56
+sun-2 = "#f5c069" # HSL: 37 87 69 CR: 9.11
+sun-3 = "#f4ce88" # HSL: 39 83 75 CR: 10.12
+sun-4 = "#f5d599" # HSL: 39 82 78 CR: 10.72
+
+[sky]
+sky-0 = "#369fd7" # HSL: 201 67 53 CR: 5.12
+sky-1 = "#54b0e2" # HSL: 201 71 61 CR: 6.26
+sky-2 = "#6bbdec" # HSL: 202 77 67 CR: 7.29
+sky-3 = "#7cc5ef" # HSL: 202 78 71 CR: 8.00
+sky-4 = "#90d1f5" # HSL: 201 83 76 CR: 9.11
 
 [cyan]
 cy2-0 = "#2bb198" # HSL: 169 61 43 CR: 5.66
@@ -84,19 +84,12 @@ pnk-4 = "#ed9acd" # HSL: 323 70 77 CR: 7.29
 
 # 📡 Communicative {{
 
-[green]
-grn-0 = "#5b9542" # HSL: 102 39 42 CR: 4.20
-grn-1 = "#73ad5a" # HSL: 102 34 52 CR: 5.66
-grn-2 = "#85ba6d" # HSL: 101 36 58 CR: 6.67
-grn-3 = "#95cb79" # HSL: 100 44 64 CR: 8.00
-grn-4 = "#9fd883" # HSL: 100 52 68 CR: 9.11
-
-[azure]
-azr-0 = "#369fd7" # HSL: 201 67 53 CR: 5.12
-azr-1 = "#54b0e2" # HSL: 201 71 61 CR: 6.26
-azr-2 = "#6bbdec" # HSL: 202 77 67 CR: 7.29
-azr-3 = "#7cc5ef" # HSL: 202 78 71 CR: 8.00
-azr-4 = "#90d1f5" # HSL: 201 83 76 CR: 9.11
+[orange]
+orn-0 = "#e56b2c" # HSL: 20 78 54 CR: 4.66
+orn-1 = "#ea834b" # HSL: 21 79 61 CR: 5.66
+orn-2 = "#eb905d" # HSL: 22 78 64 CR: 6.26
+orn-3 = "#f2a170" # HSL: 23 83 70 CR: 7.29
+orn-4 = "#f8b486" # HSL: 24 89 75 CR: 8.56
 
 [blue]
 blu-0 = "#4a6be3" # HSL: 227 72 59 CR: 3.24
@@ -104,6 +97,13 @@ blu-1 = "#6380ec" # HSL: 227 78 66 CR: 4.20
 blu-2 = "#7492ef" # HSL: 225 79 70 CR: 5.12
 blu-3 = "#8aa4f3" # HSL: 225 81 75 CR: 6.26
 blu-4 = "#9db2f4" # HSL: 226 80 79 CR: 7.29
+
+[green]
+grn-0 = "#5b9542" # HSL: 102 39 42 CR: 4.20
+grn-1 = "#73ad5a" # HSL: 102 34 52 CR: 5.66
+grn-2 = "#85ba6d" # HSL: 101 36 58 CR: 6.67
+grn-3 = "#95cb79" # HSL: 100 44 64 CR: 8.00
+grn-4 = "#9fd883" # HSL: 100 52 68 CR: 9.11
 
 [purple]
 prp-0 = "#7f61cd" # HSL: 257 52 59 CR: 3.24

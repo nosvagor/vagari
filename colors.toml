@@ -92,7 +92,7 @@ grn-3 = "#95cb79" # HSL: 100 44 64 CR: 8.00
 grn-4 = "#9fd883" # HSL: 100 52 68 CR: 9.11
 
 [azure]
-azr-0 = "#45a7df" # HSL: 202 71 57 CR: 5.66
+azr-0 = "#369fd7" # HSL: 201 67 53 CR: 5.12
 azr-1 = "#54b0e2" # HSL: 201 71 61 CR: 6.26
 azr-2 = "#6bbdec" # HSL: 202 77 67 CR: 7.29
 azr-3 = "#7cc5ef" # HSL: 202 78 71 CR: 8.00

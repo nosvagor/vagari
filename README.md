@@ -18,21 +18,21 @@
 <p align="center">
 <a href="https://github.com/nosvagor/vagari/issues">
     <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=ed5f6f&logo=fireship&labelColor=24283b&logoColor=ed5f6f&style=for-the-badge"
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=ed5f6f&logo=fireship&labelColor=222536&logoColor=ed5f6f&style=for-the-badge"
         title="this is not fine!!"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/discussions">
     <img
-        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=ec9055&logo=github&labelColor=24283b&logoColor=ec9055&style=for-the-badge"
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=f2a170&logo=github&labelColor=222536&logoColor=f2a170&style=for-the-badge"
         title="alright then, keep your secrets"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/contributors">
     <img
-        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=86b96f&logo=gitea&labelColor=24283b&logoColor=86b96f&style=for-the-badge"
+        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=5aba6d&logo=gitea&labelColor=222536&logoColor=5aba6d&style=for-the-badge"
         title="gotta do the cooking by the book"
     >
 </a>
@@ -40,7 +40,7 @@
 <br>
 <a href="https://www.reddit.com/r/unixporn/">
     <img
-        src="https://vbr.wocr.tk/badge?color=59b5e5&logoColor=59b5e5&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=24283b"
+        src="https://vbr.wocr.tk/badge?color=7cc5ef&logoColor=7cc5ef&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=222536"
         alt="visitor count 💀"
         title="hello there (I use arch, neovim, and rust, btw)"
     >
@@ -48,14 +48,14 @@
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/network/members">
     <img
-        src="https://img.shields.io/github/forks/nosvagor/vagari?color=6c88f4&logo=git&labelColor=24283b&logoColor=6c88f4&style=for-the-badge"
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=7492ef&logo=git&labelColor=222536&logoColor=7492ef&style=for-the-badge"
         title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts."
     >
 </a>
 &nbsp;
 <a href="https://youtu.be/gxAaO2rsdIs">
     <img
-        src="https://img.shields.io/github/license/nosvagor/vagari?color=9d71f0&logo=gnu&labelColor=24283b&logoColor=9d71f0&style=for-the-badge"
+        src="https://img.shields.io/github/license/nosvagor/vagari?color=a188df&logo=gnu&labelColor=222536&logoColor=a188df&style=for-the-badge"
         title="living long enough to reproduce; R_0 > 1 ? share it : change it"
     >
 </a>
@@ -91,9 +91,6 @@
         colors.
     </p>
     <table align="center">
-    <tr>
-        <th>Background</th>
-    </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/128/222536/aeb9f8&text=bg&bold&fontsize=14"></td>
     </tr>
@@ -764,385 +761,135 @@
 
 <!-- 👽 Grey {{{ -->
 
-<details closed >
+<details closed>
 <summary><h4> 👽 Grey</h4></summary>
-<!-- xxx {{{ -->
+<!-- grey {{{ -->
     <blockquote>
         >>>
     </blockquote>
     <p>
-        These <b>xxx</b> colors are meant to communicate:
+        <b>grey</b>
     </p>
     <table align="center">
-    <tr>
-        <td><img src="https://place-hold.it/64/000000/222536&text=yyy-0&bold&fontsize=14"></td>
-        <td>
-            <code>#000000</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/222536/373945&text=gry-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/3f414f&text=gry-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/4f5163&text=gry-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5f6278&text=gry-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/6d7089&text=gry-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/7f8199&text=gry-5&bold&fontsize=14"></td>
     </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/111111/222536&text=yyy-1&bold&fontsize=14"></td>
-        <td>
-            <code>#111111</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
-        <td>
-            <code>#222222</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
-        <td>
-            <code>#333333</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
-        <td>
-            <code>#444444</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
-        <td>
-            <code>#555555</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><code>#373945</code><br><code>CR:1.32</code></td>
+        <td><code>#3f414f</code><br><code>CR:1.50</code></td>
+        <td><code>#4f5163</code><br><code>CR:1.94</code></td>
+        <td><code>#5f6278</code><br><code>CR:2.52</code></td>
+        <td><code>#6d7089</code><br><code>CR:3.12</code></td>
+        <td><code>#7f8199</code><br><code>CR:3.97</code></td>
     </tr>
     </table>
 <!-- }}} -->
-<!-- xxx {{{ -->
+<!-- slate {{{ -->
     <blockquote>
         >>>
     </blockquote>
     <p>
-        These <b>xxx</b> colors are meant to communicate:
+        <b>slate</b>
     </p>
     <table align="center">
-    <tr>
-        <td><img src="https://place-hold.it/64/000000/222536&text=yyy-0&bold&fontsize=14"></td>
-        <td>
-            <code>#000000</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/222536/343852&text=slt-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/3c4162&text=slt-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/484e75&text=slt-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/585f8d&text=slt-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/686ea1&text=slt-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/7b7fb0&text=slt-5&bold&fontsize=14"></td>
     </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/111111/222536&text=yyy-1&bold&fontsize=14"></td>
-        <td>
-            <code>#111111</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
-        <td>
-            <code>#222222</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
-        <td>
-            <code>#333333</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
-        <td>
-            <code>#444444</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
-        <td>
-            <code>#555555</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><code>#343852</code><br><code>CR:1.32</code></td>
+        <td><code>#3c4162</code><br><code>CR:1.53</code></td>
+        <td><code>#484e75</code><br><code>CR:1.89</code></td>
+        <td><code>#585f8d</code><br><code>CR:2.47</code></td>
+        <td><code>#686ea1</code><br><code>CR:3.12</code></td>
+        <td><code>#7b7fb0</code><br><code>CR:3.97</code></td>
     </tr>
     </table>
 <!-- }}} -->
-<!-- xxx {{{ -->
+<!-- rust {{{ -->
     <blockquote>
         >>>
     </blockquote>
     <p>
-        These <b>xxx</b> colors are meant to communicate:
+        <b>rust</b>
     </p>
     <table align="center">
-    <tr>
-        <td><img src="https://place-hold.it/64/000000/222536&text=yyy-0&bold&fontsize=14"></td>
-        <td>
-            <code>#000000</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/222536/493531&text=rst-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/563e39&text=rst-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/694b44&text=rst-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/805a52&text=rst-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/92675d&text=rst-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/a3786d&text=rst-5&bold&fontsize=14"></td>
     </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/111111/222536&text=yyy-1&bold&fontsize=14"></td>
-        <td>
-            <code>#111111</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
-        <td>
-            <code>#222222</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
-        <td>
-            <code>#333333</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
-        <td>
-            <code>#444444</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
-        <td>
-            <code>#555555</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><code>#493531</code><br><code>CR:1.32</code></td>
+        <td><code>#563e39</code><br><code>CR:1.54</code></td>
+        <td><code>#694b44</code><br><code>CR:1.94</code></td>
+        <td><code>#805a52</code><br><code>CR:2.52</code></td>
+        <td><code>#92675d</code><br><code>CR:3.11</code></td>
+        <td><code>#a3786d</code><br><code>CR:3.97</code></td>
     </tr>
     </table>
 <!-- }}} -->
-<!-- xxx {{{ -->
+<!-- plum {{{ -->
     <blockquote>
         >>>
     </blockquote>
     <p>
-        These <b>xxx</b> colors are meant to communicate:
+        <b>plum</b>
     </p>
     <table align="center">
-    <tr>
-        <td><img src="https://place-hold.it/64/000000/222536&text=yyy-0&bold&fontsize=14"></td>
-        <td>
-            <code>#000000</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/222536/453445&text=plm-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/523c52&text=plm-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/634a64&text=plm-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/765a77&text=plm-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/876888&text=plm-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/977998&text=plm-5&bold&fontsize=14"></td>
     </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/111111/222536&text=yyy-1&bold&fontsize=14"></td>
-        <td>
-            <code>#111111</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
-        <td>
-            <code>#222222</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
-        <td>
-            <code>#333333</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
-        <td>
-            <code>#444444</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
-        <td>
-            <code>#555555</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><code>#453445</code><br><code>CR:1.32</code></td>
+        <td><code>#523c52</code><br><code>CR:1.53</code></td>
+        <td><code>#634a64</code><br><code>CR:1.96</code></td>
+        <td><code>#765a77</code><br><code>CR:2.52</code></td>
+        <td><code>#876888</code><br><code>CR:3.15</code></td>
+        <td><code>#977998</code><br><code>CR:3.97</code></td>
     </tr>
     </table>
 <!-- }}} -->
-<!-- xxx {{{ -->
+<!-- olive {{{ -->
     <blockquote>
         >>>
     </blockquote>
     <p>
-        These <b>xxx</b> colors are meant to communicate:
+        <b>olive</b>
     </p>
     <table align="center">
-    <tr>
-        <td><img src="https://place-hold.it/64/000000/222536&text=yyy-0&bold&fontsize=14"></td>
-        <td>
-            <code>#000000</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/222536/383a39&text=olv-0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/414342&text=olv-1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/505251&text=olv-2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5f6361&text=olv-3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/6e7270&text=olv-4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/818382&text=olv-5&bold&fontsize=14"></td>
     </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/111111/222536&text=yyy-1&bold&fontsize=14"></td>
-        <td>
-            <code>#111111</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/222222/222536&text=yyy-2&bold&fontsize=14"></td>
-        <td>
-            <code>#222222</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/333333/222536&text=yyy-3&bold&fontsize=14"></td>
-        <td>
-            <code>#333333</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/444444/222536&text=yyy-4&bold&fontsize=14"></td>
-        <td>
-            <code>#444444</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img src="https://place-hold.it/64/55555/222536&text=yyy-5&bold&fontsize=14"></td>
-        <td>
-            <code>#555555</code><br>
-            <code>CR:</code>
-        </td>
-        <td>
-            <code></code><br>
-            <code>hsl()</code><br>
-        </td>
+    <tr align="center">
+        <td><code>#383a39</code><br><code>CR:1.32</code></td>
+        <td><code>#414342</code><br><code>CR:1.51</code></td>
+        <td><code>#505251</code><br><code>CR:1.92</code></td>
+        <td><code>#5f6361</code><br><code>CR:2.48</code></td>
+        <td><code>#6e7270</code><br><code>CR:3.10</code></td>
+        <td><code>#818382</code><br><code>CR:3.97</code></td>
     </tr>
     </table>
 <!-- }}} -->
@@ -1479,14 +1226,14 @@ a whole that is more than the sum of its parts.
     &emsp;&emsp;
     <a href="https://github.com/nosvagor/vagari/stargazers">
         <img
-            src="https://img.shields.io/github/stars/nosvagor/vagari?color=ecc45d&logo=apachespark&labelColor=24283b&logoColor=ecc45d&style=for-the-badge"
+            src="https://img.shields.io/github/stars/nosvagor/vagari?color=ecc45d&logo=apachespark&labelColor=222536&logoColor=ecc45d&style=for-the-badge"
             title="what is love, baby don't hurt me"
         >
     </a>
     &nbsp;
     <a href="cullyn.eth/">
         <img
-            src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=24283b&logoColor=dc60bf&style=for-the-badge"
+            src="https://img.shields.io/github/sponsors/nosvagor?color=dc60bf&logo=githubsponsors&labelColor=222536&logoColor=dc60bf&style=for-the-badge"
             title="github sponsors not set up, pref ETH to cullyn.eth for now"
         >
     </a>

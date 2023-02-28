@@ -148,47 +148,47 @@ tyr-3 = "#72b08e" # HSL: 147 28 57 CR: 6.00
 
 # }}}
 
-# 👽 greys {{{
-
-[rust]
-rst-0 = "#8f6557" # HSL: CR:
-rst-1 = "#7e5a4e" # HSL: CR:
-rst-2 = "#755448" # HSL: CR:
-rst-3 = "#6c4d42" # HSL: CR:
-rst-4 = "#62463c" # HSL: CR:
-rst-5 = "#553c34" # HSL: CR:
-
-[slate]
-slt-0 = "#646ca0" # HSL: CR:
-slt-1 = "#596091" # HSL: CR:
-slt-2 = "#515885" # HSL: CR:
-slt-3 = "#4c527b" # HSL: CR:
-slt-4 = "#444a6f" # HSL: CR:
-slt-5 = "#3c4162" # HSL: CR:
-
-[plum]
-plm-0 = "#816681" # HSL: CR:
-plm-1 = "#725a72" # HSL: CR:
-plm-2 = "#6a536a" # HSL: CR:
-plm-3 = "#614c61" # HSL: CR:
-plm-4 = "#594659" # HSL: CR:
-plm-5 = "#4d3d4d" # HSL: CR:
-
-[olive]
-olv-0 = "#6a716a" # HSL: CR:
-olv-1 = "#5e645e" # HSL: CR:
-olv-2 = "#565c56" # HSL: CR:
-olv-3 = "#4f544f" # HSL: CR:
-olv-4 = "#484c48" # HSL: CR:
-olv-5 = "#3e423e" # HSL: CR:
+# 👽 greys {{
 
 [grey]
-gry-0 = "#696d86" # HSL: CR:
-gry-1 = "#5e6178" # HSL: CR:
-gry-2 = "#585b6f" # HSL: CR:
-gry-3 = "#515467" # HSL: CR:
-gry-4 = "#484b5b" # HSL: CR:
-gry-5 = "#3f4150" # HSL: CR:
+gry-0 = "#373945" # HSL: 231 11 24 CR: 1.32
+gry-1 = "#3f414f" # HSL: 233 11 28 CR: 1.50
+gry-2 = "#4f5163" # HSL: 234 11 35 CR: 1.94
+gry-3 = "#5f6278" # HSL: 233 12 42 CR: 2.52
+gry-4 = "#6d7089" # HSL: 235 11 49 CR: 3.12
+gry-5 = "#7f8199" # HSL: 235 11 55 CR: 3.97
+
+[slate]
+slt-0 = "#343852" # HSL: 232 22 26 CR: 1.32
+slt-1 = "#3c4162" # HSL: 232 24 31 CR: 1.53
+slt-2 = "#484e75" # HSL: 232 24 37 CR: 1.89
+slt-3 = "#585f8d" # HSL: 232 23 45 CR: 2.47
+slt-4 = "#686ea1" # HSL: 234 23 52 CR: 3.12
+slt-5 = "#7b7fb0" # HSL: 235 25 59 CR: 3.97
+
+[rust]
+rst-0 = "#493531" # HSL: 10 20 24 CR: 1.32
+rst-1 = "#563e39" # HSL: 10 20 28 CR: 1.54
+rst-2 = "#694b44" # HSL: 11 21 34 CR: 1.94
+rst-3 = "#805a52" # HSL: 10 22 41 CR: 2.52
+rst-4 = "#92675d" # HSL: 11 22 47 CR: 3.11
+rst-5 = "#a3786d" # HSL: 12 23 53 CR: 3.97
+
+[plum]
+plm-0 = "#453445" # HSL: 300 14 24 CR: 1.32
+plm-1 = "#523c52" # HSL: 300 14 28 CR: 1.53
+plm-2 = "#634a64" # HSL: 298 15 34 CR: 1.96
+plm-3 = "#765a77" # HSL: 298 14 41 CR: 2.52
+plm-4 = "#876888" # HSL: 298 13 47 CR: 3.15
+plm-5 = "#977998" # HSL: 298 13 54 CR: 3.97
+
+[olive]
+olv-0 = "#383a39" # HSL: 150 2 22 CR: 1.32
+olv-1 = "#414342" # HSL: 150 2 26 CR: 1.51
+olv-2 = "#505251" # HSL: 150 1 32 CR: 1.92
+olv-3 = "#5f6361" # HSL: 150 2 38 CR: 2.48
+olv-4 = "#6e7270" # HSL: 150 1 45 CR: 3.10
+olv-5 = "#818382" # HSL: 150 1 51 CR: 3.97
 
 # }}}
 

@@ -1017,7 +1017,7 @@ ultimately style (the result of the process of fashion) is created as a means to
 > i.e., the ["Swedish number for six"](https://youtu.be/Iwpi1Lm6dFo?t=777), or the
 > maximum number of objects in focus at a given time.
 
-Jokes aside, the sex principle is more than just a joke&mdash;it's about
+Funny, but the sex principle is more than just a joke&mdash;it's primarily about
 dealing with **[cognitive overhead](https://youtu.be/fCn8zs912OE?t=412)**. As a whole, design must be _simple and
 sexy_, not _minimal and mundane_. This principle is core to _vagari_ and
 represents the adherence to the [selfish memes/genes](https://youtu.be/2mTVtToioLg) theory of replicators with unbounded evolution, i.e.:
@@ -1054,8 +1054,8 @@ Essentially, if you could not tell already, story (_meaning_) is a huge factor
 in the philosophy of _vagari_. Anyone can make a [color
 scheme](https://www.slant.co/topics/358/~best-color-themes-for-text-editors),
 and many others will be better for certain people in certain contexts. In the
-end, _vagari_ is not trying to be the _best_, or _most popular_, color scheme
-([functionality/appeal is are just a useful qualitieis](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
+end, _vagari_ is not trying to be the _best_, or the _most popular_, color scheme
+([functionality/appeal is are merely useful qualitieis](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
 
 Instead, at it's core, _vagari_ is trying to be the most _meaningful_ color
 scheme. _vagari_ assumes that most other color schemes do not allow the _art of
@@ -1084,7 +1084,7 @@ _meaning_ via the injection of _new ideas_, provided by _new users_.
 Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
 of this, the embrace of chaos is at the core of the design philosophy. _vagari_
 is not looking for _the answer_&mdash;_vagari_ is looking for **an answer**;
-always closed to a new answer, or a new way of approaching problems.
+always open to a new answer, or a new way of approaching problems.
 
 The starting point of many decisions usually draw upon inspiration from the
 apparent universality of various mathematical concepts or patterns (e.g.,

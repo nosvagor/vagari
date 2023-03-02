@@ -1212,14 +1212,15 @@ a whole that is more than the sum of its parts.
         title="nothing is original"
         width=30%
     >
-🥉 <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>
+🥉 <a href="https://github.com/navarasu/onedark.nvim">Onedark</a>
 </p>
 
 <p align="right">
 <em>worthy mentions</em>:
+    <a href="https://github.com/ellisonleao/gruvbox.nvim">Gruvbox</a>,
+    <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>,
     <a href="https://www.nordtheme.com/">Nord</a>,
-    <a href="https://ethanschoonover.com/solarized/">Solarized</a>,
-    <a href="https://github.com/morhetz/gruvbox">Gruvbox</a>
+    <a href="https://ethanschoonover.com/solarized/">Solarized</a>
 </p>
 
 <p align="center">

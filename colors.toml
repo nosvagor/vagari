@@ -39,11 +39,11 @@ wht_3 = "#e9e9fb" # HSL: 240 69 95 CR: 12.63
 # 🚥 Signaling {{{
 
 [emerald]
-ivy_0 = "#2d9a43" # HSL: 133 55 39 CR: 4.20
-ivy_1 = "#48a95b" # HSL: 132 40 47 CR: 5.12
-ivy_2 = "#5aba6d" # HSL: 132 41 54 CR: 6.26
-ivy_3 = "#5fc976" # HSL: 133 50 58 CR: 7.29
-ivy_4 = "#76d78b" # HSL: 133 55 65 CR: 8.56
+emr_0 = "#2d9a43" # HSL: 133 55 39 CR: 4.20
+emr_1 = "#48a95b" # HSL: 132 40 47 CR: 5.12
+emr_2 = "#5aba6d" # HSL: 132 41 54 CR: 6.26
+emr_3 = "#5fc976" # HSL: 133 50 58 CR: 7.29
+emr_4 = "#76d78b" # HSL: 133 55 65 CR: 8.56
 
 [ruby]
 rby_0 = "#f34658" # HSL: 354 88 61 CR: 4.20

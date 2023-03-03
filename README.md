@@ -76,7 +76,6 @@
 </p>
 
 <!-- ☯️  Bounds {{{ -->
-
 <details closed>
 <summary><h4> ☯️  Bounds</h4></summary>
     <!-- background {{{ -->
@@ -276,15 +275,43 @@
 <!-- }}} -->
 
 <!-- 📡 Communicative {{{ -->
-
-<details closed>
+<details open>
 <summary><h4> 📡 Communicative</h4></summary>
 <!-- blue & orange {{{ -->
+    <hr>
     <blockquote>
-        >>>
+    <p>
+        The following communicative colors represent the bulk of the colors you
+        ought to looking at, since <em>vagari</em> aims to primarily feature
+        a duo-tone appearance.
+    </p>
+    <p>
+        Each pair of colors represent a dimension for a particular meaning to
+        exist within. Sometimes applications may co-opt the colors in order to
+        maintain balance for that particular scope. However, the base case for
+        each pair will be listed below, attempting to establish a standard.
+    </p>
+    </blockquote>
+    <hr>
+    <br>
+    <blockquote>
+        <i>vagari's</i> primary color is blue, manifesting in both the
+        background and foreground a cool tone. Naturally, this means
+        <b>blue</b> will be used to highlight frequent elements that would
+        otherwise overwhelm the palette.
     </blockquote>
     <p>
-        <b>blue & orange</b> duo represent:
+        <b>blue</b> is meant to communicate ideas of (or similar to):
+        <i>serenity, distance, </i> and <i>vastness</i>.
+    </p>
+    <blockquote>
+        Typically yellow would be the anti-blue, but <i>vagari</i> will use
+        <b>orange</b> to be represent attention and direct general focus, as
+        yellow is has better use a strong signaling color.
+    </blockquote>
+    <p>
+        <b>orange</b> is meant to communicate ideas of (or similar to):
+        <i>energy, novelty,</i> and <i>signficance</i>.
     </p>
     <table align="center">
     <tr>
@@ -350,11 +377,31 @@
     </table>
 <!-- }}} -->
 <!-- green & purple {{{ -->
+    <br>
     <blockquote>
-        >>>
+    <p>
+       Green and purple act as the primary alternative duo-tone pair. If any
+       colors are to be co-opted, then this is the pair to use. However, there
+       is still a preferred base case (derived from programming color schemes).
+    </p>
+    <p>
+        Anecdotally, it appears many color schemes seem agree on one thing:
+        strings are <b>green</b>. Since strings are so common, then it makes
+        sense to keep this standard.
+    </p>
     </blockquote>
     <p>
-        <b>green & purple</b> duo represent:
+        <b>green</b> is meant to communicate ideas of (or similar to):
+        <i>creation, growth, </i> and <i>intuition</i>.
+    </p>
+    <blockquote>
+        Less common, but still frequent enough to avoid overlap with a strong
+        signaling color, is the use of <b>purple</b>. <i>vagari</i> uses purple
+        to represent keywords, conditionals, or common statements.
+    </blockquote>
+    <p>
+        <b>purple</b> is meant to communicate ideas of (or similar to):
+        <i>cultivation, control, </i> and <i>logic</i>.
     </p>
     <table align="center">
     <tr>

@@ -36,6 +36,38 @@ wht_3 = "#e9e9fb" # HSL: 240 69 95 CR: 12.63
 
 # }}}
 
+# 📡 Communicative {{{
+
+[blue]
+blu_0 = "#4a6be3" # HSL: 227 72 59 CR: 3.24
+blu_1 = "#6380ec" # HSL: 227 78 66 CR: 4.20
+blu_2 = "#7492ef" # HSL: 225 79 70 CR: 5.12
+blu_3 = "#8aa4f3" # HSL: 225 81 75 CR: 6.26
+blu_4 = "#9db2f4" # HSL: 226 80 79 CR: 7.29
+
+[orange]
+orn_0 = "#e56b2c" # HSL: 20 78 54 CR: 4.66
+orn_1 = "#ea834b" # HSL: 21 79 61 CR: 5.66
+orn_2 = "#eb905d" # HSL: 22 78 64 CR: 6.26
+orn_3 = "#f2a170" # HSL: 23 83 70 CR: 7.29
+orn_4 = "#f8b486" # HSL: 24 89 75 CR: 8.56
+
+[green]
+grn_0 = "#5b9542" # HSL: 102 39 42 CR: 4.20
+grn_1 = "#73ad5a" # HSL: 102 34 52 CR: 5.66
+grn_2 = "#85ba6d" # HSL: 101 36 58 CR: 6.67
+grn_3 = "#95cb79" # HSL: 100 44 64 CR: 8.00
+grn_4 = "#9fd883" # HSL: 100 52 68 CR: 9.11
+
+[purple]
+prp_0 = "#7f61cd" # HSL: 257 52 59 CR: 3.24
+prp_1 = "#9376d8" # HSL: 258 56 65 CR: 4.20
+prp_2 = "#a188df" # HSL: 257 58 70 CR: 5.12
+prp_3 = "#b29ae8" # HSL: 258 63 76 CR: 6.26
+prp_4 = "#bdaaeb" # HSL: 258 62 79 CR: 7.29
+
+# }}}
+
 # 🚥 Signaling {{{
 
 [emerald]
@@ -79,38 +111,6 @@ pnk_1 = "#e36cb8" # HSL: 322 68 66 CR: 5.12
 pnk_2 = "#ea76c0" # HSL: 322 73 69 CR: 5.66
 pnk_3 = "#e887c3" # HSL: 323 68 72 CR: 6.26
 pnk_4 = "#ed9acd" # HSL: 323 70 77 CR: 7.29
-
-# }}}
-
-# 📡 Communicative {{{
-
-[orange]
-orn_0 = "#e56b2c" # HSL: 20 78 54 CR: 4.66
-orn_1 = "#ea834b" # HSL: 21 79 61 CR: 5.66
-orn_2 = "#eb905d" # HSL: 22 78 64 CR: 6.26
-orn_3 = "#f2a170" # HSL: 23 83 70 CR: 7.29
-orn_4 = "#f8b486" # HSL: 24 89 75 CR: 8.56
-
-[blue]
-blu_0 = "#4a6be3" # HSL: 227 72 59 CR: 3.24
-blu_1 = "#6380ec" # HSL: 227 78 66 CR: 4.20
-blu_2 = "#7492ef" # HSL: 225 79 70 CR: 5.12
-blu_3 = "#8aa4f3" # HSL: 225 81 75 CR: 6.26
-blu_4 = "#9db2f4" # HSL: 226 80 79 CR: 7.29
-
-[green]
-grn_0 = "#5b9542" # HSL: 102 39 42 CR: 4.20
-grn_1 = "#73ad5a" # HSL: 102 34 52 CR: 5.66
-grn_2 = "#85ba6d" # HSL: 101 36 58 CR: 6.67
-grn_3 = "#95cb79" # HSL: 100 44 64 CR: 8.00
-grn_4 = "#9fd883" # HSL: 100 52 68 CR: 9.11
-
-[purple]
-prp_0 = "#7f61cd" # HSL: 257 52 59 CR: 3.24
-prp_1 = "#9376d8" # HSL: 258 56 65 CR: 4.20
-prp_2 = "#a188df" # HSL: 257 58 70 CR: 5.12
-prp_3 = "#b29ae8" # HSL: 258 63 76 CR: 6.26
-prp_4 = "#bdaaeb" # HSL: 258 62 79 CR: 7.29
 
 # }}}
 

@@ -70,7 +70,7 @@
 <p align="center">
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v4.svg?raw=true"
-        title="vagari color pallet"
+        title="vagari color palette"
         width="100%"
     >
 </p>
@@ -80,14 +80,34 @@
 <summary><h4> ☯️  Bounds</h4></summary>
     <!-- background {{{ -->
     <blockquote>
-        The constraints, or bounds, to any system are probably the most imporant
-        place to start:
+    <hr>
+    <p>
+        The constraints, or bounds, to any system are probably the most
+        important place to start. Notably, <i>vagari</i> has no light or dark
+        mode, or any variations. There is just one schema, and it's been
+        carefully chosen.
+    </p>
+    <p>
+        The particulars of the bounds or aspects theme may change
+        overtime&mdash;variations on <i>vagari</i> are encouraged, and might
+        influence adaptations, but ultimately... the goal is to create
+        a standard for anyone to build upon.
+    </p>
+    <hr>
     </blockquote>
+    <br>
+    <blockquote>
     <p>
         First, the <b>background</b>, as the contrast ratio to this color is
         one of the most important determining factors when generating others
-        colors. The background represents the upper bound for the darkest
-        colors.
+        colors. A somber and cool tone was chosen, allowing black and white to
+        each play distinct roles, rather than being relegated to the background
+        or foreground.
+    </p>
+    </blockquote>
+    <p align="center">
+        <b>background</b> &rarr;
+        <i>adaptability, wonder,</i> and <i>curiosity</i>.
     </p>
     <table align="center">
     <tr align="center">
@@ -104,19 +124,18 @@
     <!-- dark {{{ -->
     <br>
     <blockquote>
-        Next, venturing into the void (maintaining cool tones, <i>decreasing</i>
-        brightness):
+        These <b>dark</b> hues are utilized to give depth to
+        the background elements; they are simply meant to be extension of the
+        background color. Usage ought to be subtle.
     </blockquote>
     <p>
-        These <b>dark</b> colors provide a means to create depth for background
-        elements.
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/1e2133/222536&text=drk_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/181a2c/222536&text=drk_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/131626/222536&text=drk_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0d0f1b/222536&text=drk_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/1e2133/b6c0f7&text=drk_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/181a2c/bec6f8&text=drk_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/131626/cad1fb&text=drk_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/0d0f1b/d1d8ff&text=drk_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
@@ -138,53 +157,19 @@
     </tr>
     </table>
     <!-- }}} -->
-    <!-- black {{{ -->
-    <br>
-    <blockquote>
-        We still need a relatively neutral lower bound; the dark colors won't
-        replace black:
-    </blockquote>
-    <p>
-        These <b>black</b> colors are meant to communicate ideas of (or similar
-        to): <i>sophistaiton, rebellion,</i> and <i>mystery</i>.
-    </p>
-    <table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/84/1d1d21/c9c9e2&text=blk_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/16161a/d3d3ed&text=blk_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/101014/ddddf6&text=blk_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/0b0b0f/e9e9fb&text=blk_3&bold&fontsize=14"></td>
-    </tr>
-    <tr align="center">
-        <td>
-            <code>#1d1d21</code><br>
-            <code>CR:1.11</code>
-        </td>
-        <td>
-            <code>#16161a</code><br>
-            <code>CR:1.19</code>
-        </td>
-        <td>
-            <code>#101014</code><br>
-            <code>CR:1.25</code>
-        </td>
-        <td>
-            <code>#0b0b0f</code><br>
-            <code>CR:1.30</code>
-        </td>
-    </tr>
-    </table>
-    <!-- }}} -->
     <!-- foreground {{{ -->
     <br>
     <blockquote>
-        Now, let's start defining the upper bounds:
-    </blockquote>
     <p>
-        Like the background, the <b>foreground</b> represents the lower bound for the
-        brightest colors. <i>vagari</i> continues to lean into the use of cool
-        tones&mdash;resulting in a blue-ish foreground&mdash;leaving white to
-        convey meaning as well.
+        Next, the <b>foreground</b>. <i>vagari</i> continues to lean into the
+        use of cool tones, and the foreground is more blue that one might
+        traditionlly expect. Again, this is done so that white is encouraged to
+        carry more meaning.
+    </p>
+    </blockquote>
+    <p align="center">
+        <b>foreground</b> &rarr;
+        <i>familiarity, focus,</i> and <i>humility</i>.
     </p>
     <table align="center">
         <tr align="center">
@@ -201,18 +186,18 @@
     <!-- bright {{{ -->
     <br>
     <blockquote>
-        Continuing in the inverse direction (maintaining cool tones, <i>increaseing</i>
-        brightness):
+        Like the darker colrs, these <b>bright</b> colors are meant to provide
+        a means to highlight foreground elements, acting as a subtle extension
+        of the foreground color.
     </blockquote>
     <p>
-        These <b>bright</b> colors provide a means to highlight foreground elements.
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/b6c0f7/aeb9f8&text=brt_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/bec6f8/aeb9f8&text=brt_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/cad1fb/aeb9f8&text=brt_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/d1d8ff/aeb9f8&text=brt_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/b6c0f7/1e2133&text=brt_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/bec6f8/181a2c&text=brt_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/cad1fb/131626&text=brt_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/d1d8ff/0d0f1b&text=brt_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
@@ -234,21 +219,64 @@
     </tr>
     </table>
     <!-- }}} -->
-    <!-- white {{{ -->
+    <!-- black {{{ -->
     <br>
     <blockquote>
-        Finally, the neutral upper bound:
+        Now that the general bounds are set, we can now assign proper roles for
+        the more neutral extremes. <b>black</b> won't be used much in code
+        (<i>vagari's</i> first use-case), however, it can to be used momentarily
+        stand in as the background, creating a strong statement. Further use
+        cases are undetermined, as of now.
     </blockquote>
-    <p>
-        These <b>white</b> colors are meant to communicate ideas of (or similar
-        to): <i>order, peace,</i> and <i>simplicity</i>.
+    <p align="center">
+        <b>black</b> &rarr;
+        <i>sophisticatation, rebellion, </i> and <i>mystery</i>.
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/c9c9e2/1d1d21&text=wht_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/d3d3ed/16161a&text=wht_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/ddddf6/101014&text=wht_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/e9e9fb/0b0b0f&text=wht_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/1d1d21/c9c9e2&text=blk_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/16161a/d3d3ed&text=blk_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/101014/ddddf6&text=blk_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/0b0b0f/e9e9fb&text=blk_3&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <code>#1d1d21</code><br>
+            <code>CR:1.11</code>
+        </td>
+        <td>
+            <code>#16161a</code><br>
+            <code>CR:1.19</code>
+        </td>
+        <td>
+            <code>#101014</code><br>
+            <code>CR:1.25</code>
+        </td>
+        <td>
+            <code>#0b0b0f</code><br>
+            <code>CR:1.30</code>
+        </td>
+    </tr>
+    </table>
+    <!-- }}} -->
+    <!-- white {{{ -->
+    <br>
+    <blockquote>
+        Likewise, <b>white</b> now has a rather undecided role. As of now, it is
+        predicted to be used communcaite clarity and importance of common
+        foreground elements, and as better constrasting color for black, when it is
+        used.
+    </blockquote>
+    <p align="center">
+        <b>white</b> &rarr;
+        <i>organization, harmony, </i> and <i>simplicity</i>.
+    </p>
+    <table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/c9c9e2/1d1d21&text=wht_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/d3d3ed/16161a&text=wht_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/ddddf6/101014&text=wht_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/e9e9fb/0b0b0f&text=wht_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td>
@@ -275,13 +303,13 @@
 <!-- }}} -->
 
 <!-- 📡 Communicative {{{ -->
-<details open>
+<details closed>
 <summary><h4> 📡 Communicative</h4></summary>
 <!-- blue & orange {{{ -->
     <hr>
     <blockquote>
     <p>
-        The following communicative colors represent the bulk of the colors you
+        The following communicative colors represent the <b>majority</b> of the colors you
         ought to looking at, since <em>vagari</em> aims to primarily feature
         a duo-tone appearance.
     </p>
@@ -300,8 +328,8 @@
         <b>blue</b> will be used to highlight frequent elements that would
         otherwise overwhelm the palette.
     </blockquote>
-    <p>
-        <b>blue</b> is meant to communicate ideas of (or similar to):
+    <p align="center">
+        <b>blue</b> &rarr;
         <i>serenity, distance, </i> and <i>vastness</i>.
     </p>
     <blockquote>
@@ -309,8 +337,8 @@
         <b>orange</b> to be represent attention and direct general focus, as
         yellow is has better use a strong signaling color.
     </blockquote>
-    <p>
-        <b>orange</b> is meant to communicate ideas of (or similar to):
+    <p align="center">
+        <b>orange</b> &rarr;
         <i>energy, novelty,</i> and <i>signficance</i>.
     </p>
     <table align="center">
@@ -390,8 +418,8 @@
         sense to keep this standard.
     </p>
     </blockquote>
-    <p>
-        <b>green</b> is meant to communicate ideas of (or similar to):
+    <p align="center">
+        <b>green</b> &rarr;
         <i>creation, growth, </i> and <i>intuition</i>.
     </p>
     <blockquote>
@@ -399,8 +427,8 @@
         signaling color, is the use of <b>purple</b>. <i>vagari</i> uses purple
         to represent keywords, conditionals, or common statements.
     </blockquote>
-    <p>
-        <b>purple</b> is meant to communicate ideas of (or similar to):
+    <p align="center">
+        <b>purple</b> &rarr;
         <i>cultivation, control, </i> and <i>logic</i>.
     </p>
     <table align="center">
@@ -472,14 +500,47 @@
 
 <!-- 🚥 Signaling {{{ -->
 
-<details closed>
+<details open>
 <summary><h4> 🚥 Signaling</h4></summary>
 <!-- emerald & ruby {{{ -->
+    <hr>
     <blockquote>
-        >>>
-    </blockquote>
     <p>
-        <b>emerald & ruby</b> duo represent:
+        The following signaling colors represent a <b>minority</b> of the
+        colors you ought to looking at. Generally, each pair has a narrow
+        domain; they represent distinct poles, where a neutral ground usually
+        does not exist.
+    </p>
+    <p>
+        Again, there are exceptions, and some colors may be co-opted for
+        particular applications, but doing so is strongly discouraged. The
+        strength of these signaling colors relies on their infrequent and narrow
+        usage.
+    </p>
+    </blockquote>
+    <hr>
+    <br>
+    <blockquote>
+        <p>
+            When possible, <i>vagari</i> will attempt to retain common pairings.
+            The best example is for stop/go and failure/success, i.e.,
+            red/green. Both red and green are overused (semantically), so <i>vagari</i> uses
+            the names emerald and ruby to help draw a memorable distinction.
+        </p>
+        <p>
+            <b>emerald</b> is a vivid green, signaling success/pass/go.
+        </p>
+    </blockquote>
+    <p align="center">
+        <b>emerald</b> &rarr;
+        <i>opportunity, confidence, </i> and <i>prosperity</i>.
+    </p>
+    <blockquote>
+        <b>ruby</b> is a vivid red, signaling failure/error/stop.
+    </blockquote>
+    <p align="center">
+        <b>ruby</b> &rarr;
+        <i>regulation, tension, </i> and <i>power</i>.
     </p>
     <table align="center">
     <tr>
@@ -544,82 +605,30 @@
     </tr>
     </table>
 <!-- <!-- }}} -->
-<!-- sun & sky {{{ -->
-    <blockquote>
-        >>>
-    </blockquote>
-    <p>
-        <b>sun & sky</b> duo represent:
-    </p>
-    <table align="center">
-    <tr>
-        <td>
-            <code>#f3a338</code><br>
-            <code>CR:7.29</code>
-        </td>
-        <td><img src="https://place-hold.it/64/222536/f3a338/&text=sun_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/369fd7/&text=sky_0&bold&fontsize=14"></td>
-        <td>
-            <code>#369fd7</code><br>
-            <code>CR:5.12</code>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <code>#f5b855</code><br>
-            <code>CR:8.56</code>
-        </td>
-        <td><img src="https://place-hold.it/64/222536/f5b855/&text=sun_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/54b0e2/&text=sky_1&bold&fontsize=14"></td>
-        <td>
-            <code>#54b0e2</code><br>
-            <code>CR:6.26</code>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <code>#f5c069</code><br>
-            <code>CR:9.11</code>
-        </td>
-        <td><img src="https://place-hold.it/64/222536/f5c069/&text=sun_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/6bbdec/&text=sky_2&bold&fontsize=14"></td>
-        <td>
-            <code>#6bbdec</code><br>
-            <code>CR:7.29</code>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <code>#f4ce88</code><br>
-            <code>CR:10.12</code>
-        </td>
-        <td><img src="https://place-hold.it/64/222536/f4ce88/&text=sun_3&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/7cc5ef/&text=sky_3&bold&fontsize=14"></td>
-        <td>
-            <code>#7cc5ef</code><br>
-            <code>CR:8.00</code>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <code>#f5d599</code><br>
-            <code>CR:10.72</code>
-        </td>
-        <td><img src="https://place-hold.it/64/222536/f5d599/&text=sun_4&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/90d1f5/&text=sky_4&bold&fontsize=14"></td>
-        <td>
-            <code>#90d1f5</code><br>
-            <code>CR:9.11</code>
-        </td>
-    </tr>
-    </table>
-<!-- }}} -->
 <!-- cyan & pink {{{ -->
+    <br>
     <blockquote>
-        >>>
+        <p>
+            Nearby (in hue) is cyan and pink. Unlike red and green, the
+            pink/green(cyan) combo is probably the least universal pair, in
+            terms of sematnic meaning. <i>vagari</i> capatlizes on this
+            ambiguity to assign them to the most fundamental discrete pairings:
+            <code>true|false</code>.
+        </p>
+        <p>
+            <b>cyan</b> is close to green, so it is assigned to true/yes
+        </p>
     </blockquote>
-    <p>
-        <b>cyan & pink</b> duo represent:
+    <p align="center">
+        <b>cyan</b> &rarr;
+        <i>discipline, wisdom,</i> and <i>honesty</i>.
+    </p>
+    <blockquote>
+        <b>pink</b> is close to red, so it is assigned to false/no
+    </blockquote>
+    <p align="center">
+        <b>pink</b> &rarr;
+        <i>innovation, courage,</i> and <i>resilience</i>.
     </p>
     <table align="center">
     <tr>
@@ -684,6 +693,97 @@
     </tr>
     </table>
 <!-- }}} -->
+<!-- sun & sky {{{ -->
+    <br>
+    <blockquote>
+        <p>
+            Finally, the last pair of major signaling colors. If one is to
+            co-opt a color pair, then this is the pair to change. Honestly,
+            it's very close to being a communicative colors, but yellow has
+            intuitive and common literal assignment to "warning." and
+            light-blue is too useful to pass up.
+        </p>
+        <p>
+            <b>sun</b> (yellow) signals that information is new; this can be
+            a warning, a tip, or a time-sensitive message.
+        </p>
+    </blockquote>
+    <p align="center">
+        <b>sun</b> &rarr;
+        <i>discovery, creativity,</i> and <i>optimism</i>.
+    </p>
+    <blockquote>
+        <b>sky</b> (azure, blue) signals that information is old, or relevant
+        but not vital; it can be used frequently, with out too much
+        distraction, since it's not too far from the foreground.
+    </blockquote>
+    <p align="center">
+        <b>sky</b> &rarr;
+        <i>conformity, productivity,</i> and <i>pragmatism</i>.
+    </p>
+    <table align="center">
+    <tr>
+        <td>
+            <code>#f3a338</code><br>
+            <code>CR:7.29</code>
+        </td>
+        <td><img src="https://place-hold.it/64/222536/f3a338/&text=sun_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/369fd7/&text=sky_0&bold&fontsize=14"></td>
+        <td>
+            <code>#369fd7</code><br>
+            <code>CR:5.12</code>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <code>#f5b855</code><br>
+            <code>CR:8.56</code>
+        </td>
+        <td><img src="https://place-hold.it/64/222536/f5b855/&text=sun_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/54b0e2/&text=sky_1&bold&fontsize=14"></td>
+        <td>
+            <code>#54b0e2</code><br>
+            <code>CR:6.26</code>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <code>#f5c069</code><br>
+            <code>CR:9.11</code>
+        </td>
+        <td><img src="https://place-hold.it/64/222536/f5c069/&text=sun_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/6bbdec/&text=sky_2&bold&fontsize=14"></td>
+        <td>
+            <code>#6bbdec</code><br>
+            <code>CR:7.29</code>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <code>#f4ce88</code><br>
+            <code>CR:10.12</code>
+        </td>
+        <td><img src="https://place-hold.it/64/222536/f4ce88/&text=sun_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/7cc5ef/&text=sky_3&bold&fontsize=14"></td>
+        <td>
+            <code>#7cc5ef</code><br>
+            <code>CR:8.00</code>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <code>#f5d599</code><br>
+            <code>CR:10.72</code>
+        </td>
+        <td><img src="https://place-hold.it/64/222536/f5d599/&text=sun_4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/90d1f5/&text=sky_4&bold&fontsize=14"></td>
+        <td>
+            <code>#90d1f5</code><br>
+            <code>CR:9.11</code>
+        </td>
+    </tr>
+    </table>
+<!-- }}} -->
 </details>
 
 <!-- }}} -->
@@ -701,10 +801,10 @@
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/222536/824141&text=his_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/b15e5b&text=his_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/c67a79&text=his_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/d09490&text=his_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/824141&text=his_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/b15e5b&text=his_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/c67a79&text=his_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/d09490&text=his_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#824141</code><br><code>CR:2.00</code></td>
@@ -723,10 +823,10 @@
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/222536/3b557c&text=asp_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/5b77a4&text=asp_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/7690b9&text=asp_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/90a4c7&text=asp_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/3b557c&text=asp_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5b77a4&text=asp_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/7690b9&text=asp_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/90a4c7&text=asp_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#3b557c</code><br><code>CR:2.00</code></td>
@@ -745,10 +845,10 @@
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/222536/6f447a&text=asn_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/9961a7&text=asn_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/af7dba&text=asn_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/c193cd&text=asn_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/6f447a&text=asn_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/9961a7&text=asn_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/af7dba&text=asn_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/c193cd&text=asn_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#6f447a</code><br><code>CR:2.00</code></td>
@@ -767,10 +867,10 @@
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/222536/505831&text=pro_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/717b45&text=pro_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/8a945b&text=pro_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/9ea876&text=pro_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/505831&text=pro_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/717b45&text=pro_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/8a945b&text=pro_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/9ea876&text=pro_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#505831</code><br><code>CR:2.00</code></td>
@@ -789,10 +889,10 @@
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/84/222536/375c47&text=tyr_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/4b8163&text=tyr_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/5a9c78&text=tyr_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/84/222536/72b08e&text=tyr_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/375c47&text=tyr_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/4b8163&text=tyr_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5a9c78&text=tyr_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/72b08e&text=tyr_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#375c47</code><br><code>CR:2.00</code></td>

@@ -230,7 +230,7 @@
     </blockquote>
     <p align="center">
         <b>black</b> &rarr;
-        <i>sophisticatation, rebellion, </i> and <i>mystery</i>.
+        <i>sophistication, rebellion, </i> and <i>mystery</i>.
     </p>
     <table align="center">
     <tr align="center">
@@ -339,7 +339,7 @@
     </blockquote>
     <p align="center">
         <b>orange</b> &rarr;
-        <i>energy, novelty,</i> and <i>signficance</i>.
+        <i>energy, novelty,</i> and <i>significance</i>.
     </p>
     <table align="center">
     <tr>
@@ -500,7 +500,7 @@
 
 <!-- 🚥 Signaling {{{ -->
 
-<details open>
+<details closed>
 <summary><h4> 🚥 Signaling</h4></summary>
 <!-- emerald & ruby {{{ -->
     <hr>
@@ -611,9 +611,9 @@
         <p>
             Nearby (in hue) is cyan and pink. Unlike red and green, the
             pink/green(cyan) combo is probably the least universal pair, in
-            terms of sematnic meaning. <i>vagari</i> capatlizes on this
+            terms of semantic meaning. <i>vagari</i> capitalizes on this
             ambiguity to assign them to the most fundamental discrete pairings:
-            <code>true|false</code>.
+            true|false.
         </p>
         <p>
             <b>cyan</b> is close to green, so it is assigned to true/yes
@@ -793,11 +793,84 @@
 <details closed>
 <summary><h4> ⚗️  Muted</h4></summary>
 <!-- histidine {{{ -->
+    <hr>
     <blockquote>
-        >>>
+    <p>
+       Next up are the muted colors; they are meant to be co-opted for more
+       technical use cases. Their exact meanings have a lesser
+       importance, instead, the goal is to maintain a consistent relation
+       between colors.
+    </p>
+    <p>
+       Furthermore, these colors do not have any meaningful emotional mappings,
+       unlike the other colors listed above. To avoid unintended cultural
+       weighting, <i>vagari</i> use amino acids names instead of traditional
+       colors. This may be confusing at first, but there is a interesting
+       rationale behind it:
+    </p>
+    <ol>
+        <li>
+            The red/blue pair is probably the most overused color pairing their
+            is, and inconsistent between disciplines, such as in
+            positive/negative case. The main goal here is to correct for that.
+        </li>
+        <br>
+        <li>
+            Red (ruby) already has a very distinct meaning, which ought not to
+            be diluted. Plus, blue is already the main color in <i>vagari's</i>
+            palette. Thus, something has to be done about these two at least.
+        </li>
+        <br>
+        <li>
+            Green is tragically underrepresented (poor bulbasaur). There aren't
+            even commonly agreed names for the various greens; most greens just
+            get labeled "green." Seriously, look at blue and purple, then are
+            emerald and green in <i>vagari's</i> palette. They are the same
+            distance (roughly) in hue, but the blue and purple as easy to
+            assign. Which green is the real green? Green needs some attention too.
+        </li>
+        <br>
+        <li>
+            Geometrically speaking, <i>vagari</i> (and our eyes) play in the RGB
+            color-space. Hue is determined by it's position in the 360° unit
+            circle. The three perceptually darkest colors (Red,Green,Blue) and
+            three lightest (Cyan,Magenta,Yellow) are displayed on a hexagon (<a
+            href="https://youtu.be/thOifuHs6eY">the bestagon</a>) to aid in
+            perceptual orientation. Notably, after mapping the main colors,
+            then obvious gaps appear.
+        </li>
+        <br>
+        <li>
+            Interestingly, adding the <a href="https://en.wikipedia.org/wiki/Root_of_unity">5th roots of unity</a>
+            perfectly fit the gaps (<i>hello magenta, and... army green?</i>).
+            Plus, using said roots gave new distinct representations for red,
+            blue and green. Perfect.
+        </li>
+        <br>
+        <li>
+            Then, the question is raised: what to name these colors?
+            <i>vagari</i> took inspiration from <a href="https://youtu.be/TYPFenJQciw">The Most Complex Language in the World</a>
+            (life; amino acids). Amino acids are categorized into 5 groups,
+            with 3 of the groupings determined by charge. Perfect.
+        </li>
+        <br>
+        <li>
+            Furthermore, the adoption of the three letter code naming
+            convention in code was embraced in order to define colors in
+            a consistent way within code (<a href="https://en.wikipedia.org/wiki/Rule_of_three_(writing)">rules of three</a>).
+            Perfect.
+        </li>
+    </ol>
+    </blockquote>
+    <hr>
+    <br>
+    <blockquote>
+        <b>histidine</b> was chosen to represent red, because it is one of the
+        positively charged amino acids, and it's single letter code is
+        <b>H</b>, the same for a proton (hydrogen; positive charge).
     </blockquote>
     <p>
-        <b>histidine</b>
+        <b>histidine</b> &rarr; <i>positive, proton, high, hot, right, forward, increase, give, acid</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -815,18 +888,20 @@
     </table>
 <!-- }}} -->
 <!-- glutamic {{{ -->
+    <br>
     <blockquote>
-        >>>
+        The rationale behind the use of <b>glutamic acid</b> (there's only two
+        negatively charged side chains), it's merely because <i>glu</i> is similar to <i>blu</i>.
     </blockquote>
     <p>
-        <b>glutamic (acid)</b>
+        <b>glutamic</b> &rarr; <i>negative, electron, low, cold, left, backward, decrease, take, base</i>
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/64/222536/3b557c&text=asp_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/5b77a4&text=asp_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/7690b9&text=asp_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/222536/90a4c7&text=asp_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/3b557c&text=glu_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5b77a4&text=glu_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/7690b9&text=glu_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/90a4c7&text=glu_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#3b557c</code><br><code>CR:2.00</code></td>
@@ -837,11 +912,15 @@
     </table>
 <!-- }}} -->
 <!-- asparagine {{{ -->
+    <br>
     <blockquote>
-        >>>
+        <b>asparagine</b> naturally filled the role as neutral, as it's single
+        letter code is <b>N</b>. Also, asparagine was mapped to magenta, as it's primarily
+        the combination of red and
+        blue.
     </blockquote>
     <p>
-        <b>asparagine</b>
+        <b>asparagine</b> &rarr; neutral, external, outside, indifferent, observer
     </p>
     <table align="center">
     <tr align="center">
@@ -859,11 +938,15 @@
     </table>
 <!-- }}} -->
 <!-- proline {{{ -->
+    <br>
     <blockquote>
-        >>>
+        The yellowish-green color is not well defined, but does pair well with
+        magenta, as it fits the same gap geometrical gap that magenta
+        does. Thus, <b>proline</b> was assigned this color, fitting the special
+        use case.
     </blockquote>
     <p>
-        <b>proline</b>
+        <b>proline</b> &rarr; internal, inside, special, participant
     </p>
     <table align="center">
     <tr align="center">
@@ -881,11 +964,17 @@
     </table>
 <!-- }}} -->
 <!-- tyrosine {{{ -->
+    <br>
     <blockquote>
-        >>>
+        Finally, <b>tyrosine</b> was chosen from be one of the many hydrophobic
+        side chains, because it's also one of the many greens. It's use is rather
+        undefined, manly serving to be a third for cases where a trichotomy is
+        more fitting. To help establish a more solid foundation, then it might
+        be useful to know that tyrosine a precursor to epinephrine and
+        dopamine, and one of the few few aromatic chains.
     </blockquote>
     <p>
-        <b>tyrosine</b>
+        <b>tyrosine</b> &rarr; link, combine, move, action, cycle
     </p>
     <table align="center">
     <tr align="center">

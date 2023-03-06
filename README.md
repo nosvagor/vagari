@@ -869,8 +869,9 @@
         positively charged amino acids, and it's single letter code is
         <b>H</b>, the same for a proton (hydrogen; positive charge).
     </blockquote>
-    <p>
-        <b>histidine</b> &rarr; <i>positive, proton, high, hot, right, forward, increase, give, acid</i>
+    <p align="center">
+        <b>histidine</b> &rarr;
+        <i>positive, proton, high, hot, right, forward, increase, give, acid</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -893,8 +894,9 @@
         The rationale behind the use of <b>glutamic acid</b> (there's only two
         negatively charged side chains), it's merely because <i>glu</i> is similar to <i>blu</i>.
     </blockquote>
-    <p>
-        <b>glutamic</b> &rarr; <i>negative, electron, low, cold, left, backward, decrease, take, base</i>
+    <p align="center">
+        <b>glutamic</b> &rarr;
+        <i>negative, electron, low, cold, left, backward, decrease, take, base</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -919,8 +921,9 @@
         the combination of red and
         blue.
     </blockquote>
-    <p>
-        <b>asparagine</b> &rarr; neutral, external, outside, indifferent, observer
+    <p align="center">
+        <b>asparagine</b> &rarr;
+        <i>neutral, external, outside, indifferent, observer, former</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -945,8 +948,9 @@
         does. Thus, <b>proline</b> was assigned this color, fitting the special
         use case.
     </blockquote>
-    <p>
-        <b>proline</b> &rarr; internal, inside, special, participant
+    <p align="center">
+        <b>proline</b> &rarr;
+        <i>internal, inside, special, participant, latter</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -973,8 +977,9 @@
         be useful to know that tyrosine a precursor to epinephrine and
         dopamine, and one of the few few aromatic chains.
     </blockquote>
-    <p>
-        <b>tyrosine</b> &rarr; link, combine, move, action, cycle
+    <p align="center">
+        <b>tyrosine</b> &rarr;
+        <i>link, combine, move, action, cycle, group</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1001,10 +1006,33 @@
 <summary><h4> 👽 Grey</h4></summary>
 <!-- grey {{{ -->
     <blockquote>
-        >>>
-    </blockquote>
+    <hr>
     <p>
-        <b>grey</b>
+        Lastly, the unsung hero of color: <b>grey</b> (🙊 gray).
+    </p>
+    <p>
+        Ironically, <i>vagari</i> has little to say about grey; there is much
+        to be developed here. Grey is incredibly hard to get right, and proper
+        usage can make or break a design. <i>vagari</i> remains open to
+        change. Fow now, an attempt at a flexible standard is introduced.
+    </p>
+    <p>
+        An emotional valence for each grey will be suggested. However, note that
+        this may be overeaching. Really, these greys are meant to help guide
+        attention, via use of contrast instead of color.
+    </p>
+    <hr>
+    </blockquote>
+    <br>
+    <blockquote>
+        First up, the traditional <b>grey</b>, relative to the background at
+        least. This grey is designed to be used in conjunction with black and
+        white, wherein a nuetral, yet opinionated, message is being
+        communicated.
+    </blockquote>
+    <p align="center">
+        <b>grey</b> &rarr;
+        <i>status-quo, passivity, default</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1026,11 +1054,14 @@
     </table>
 <!-- }}} -->
 <!-- slate {{{ -->
+    <br>
     <blockquote>
-        >>>
+        Next is the most frequently used grey&mdash;<b>slate</b>; it is used to
+        maintain the the cool tones present in <i>vagari</i>.
     </blockquote>
-    <p>
-        <b>slate</b>
+    <p align="center">
+        <b>slate</b> &rarr;
+        <i>flexiblity, receptivity, forgiveness</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1052,11 +1083,14 @@
     </table>
 <!-- }}} -->
 <!-- rust {{{ -->
+    <br>
     <blockquote>
-        >>>
+        Likewise, <b>rust</b> is meant to be used in conjunction with orange,
+        the primary color used to direct attention.
     </blockquote>
-    <p>
-        <b>rust</b>
+    <p align="center">
+        <b>rust</b> &rarr;
+        <i>ease, hospitatlity, stability</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1078,11 +1112,15 @@
     </table>
 <!-- }}} -->
 <!-- plum {{{ -->
+    <br>
     <blockquote>
-        >>>
+        Originally, there were only going to be three greys to start. However,
+        it wasn't much of a stretch to create a megenta-grey, i.e.,
+        <b>plum</b>; it is designed to be used in conjunction with asparagine.
     </blockquote>
-    <p>
-        <b>plum</b>
+    <p align="center">
+        <b>plum</b> &rarr;
+        <i>relaxation, grace, amicablity</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1104,11 +1142,25 @@
     </table>
 <!-- }}} -->
 <!-- olive {{{ -->
+    <br>
     <blockquote>
-        >>>
-    </blockquote>
     <p>
-        <b>olive</b>
+        Finally, the most uncertain grey, <b>olive</b>. Interestingly, having
+        greys with zero (or near zero) saturation leads to a green looking grey
+        with the default background color. Avoiding the green tint means
+        adding more blue, resulting in the actual grey above.
+    </p>
+    <p>
+        Instead, <i>vagari</i> leans into the green, creating olive, so that
+        there is a means to use more variable contrast in cases when green
+        dominates the scene. Also, in cases where the background is changed,
+        perhaps to black. In such cases, then this green actually can look more
+        like a more nuetral grey.
+    </p>
+    </blockquote>
+    <p align="center">
+        <b>olive</b> &rarr;
+        <i>uncertainty, exploration, obscurity</i>
     </p>
     <table align="center">
     <tr align="center">

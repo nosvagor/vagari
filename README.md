@@ -65,7 +65,7 @@
 
 <!-- 🎨 Palette {{{ -->
 <details open>
-<summary><h2>Palette</h2></summary>
+<summary><h2>🎨 Palette</h2></summary>
 
 <p align="center">
     <img
@@ -1194,7 +1194,7 @@
 
 <!-- 🧠 Philosophy {{{ -->
 <details closed>
-<summary><h2>General Philosophy</h2></summary>
+<summary><h2>🧠 Philosophy</h2></summary>
 
 ### Manifest Meaning
 
@@ -1302,7 +1302,7 @@ ultimately style (the result of the process of fashion) is created as a means to
 
 <!-- 🤴 Principles {{{ -->
 <details closed>
-<summary><h2>Design Principles</h2></summary>
+<summary><h2>👑 Principles</h2></summary>
 
 ### Sex
 
@@ -1432,13 +1432,13 @@ a whole that is more than the sum of its parts.
 
 <!-- 🪟 Gallery {{{ -->
 <details closed>
-<summary><h2>Gallery</h2></summary>
+<summary><h2>🪟 Gallery</h2></summary>
 </details>
 <!-- }}} -->
 
 <!-- 🚢 Ports {{{ -->
 <details closed>
-<summary><h2>Ports</h2></summary>
+<summary><h2>🚢 Ports</h2></summary>
 <!-- <details closed><summary>🔧 System</summary> -->
 <!---->
 <!-- - [bat](https://github.com/catppuccin/bat) -->
@@ -1487,13 +1487,13 @@ a whole that is more than the sum of its parts.
 
 <!-- 🤝 Contributing {{{ -->
 <details closed>
-<summary><h2>Contributing</h2></summary>
+<summary><h2>🤝 Contributing</h2></summary>
 </details>
 <!-- }}} -->
 
 <!-- 🌈 Inspiration {{{ -->
 <details closed>
-<summary><h2>Inspiration</h2></summary>
+<summary><h2>🌈 Inspiration</h2></summary>
 
 <p align="center">
 &emsp;&emsp;<a href="https://github.com/catppuccin/catppuccin"><strong>🥇 Catppuccin 🥇</strong></a>
@@ -1504,12 +1504,12 @@ a whole that is more than the sum of its parts.
         title="nothing is original"
         width=30%
     >
-🥉 <a href="https://github.com/navarasu/onedark.nvim">Onedark</a>
+🥉 <a href="https://github.com/ellisonleao/gruvbox.nvim">Gruvbox</a>
 </p>
-
+#
 <p align="right">
 <em>worthy mentions</em>:
-    <a href="https://github.com/ellisonleao/gruvbox.nvim">Gruvbox</a>,
+    <a href="https://github.com/navarasu/onedark.nvim">Onedark</a>,
     <a href="https://cocopon.github.io/iceberg.vim/">Iceberg</a>,
     <a href="https://www.nordtheme.com/">Nord</a>,
     <a href="https://ethanschoonover.com/solarized/">Solarized</a>

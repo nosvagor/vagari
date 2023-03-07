@@ -273,8 +273,8 @@
     </p>
     <table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/64/c9c9e2/1d1d21&text=wht_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/d3d3ed/16161a&text=wht_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/c9c9e2/1d1d21&text=wht_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/d3d3ed/16161a&text=wht_1&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/ddddf6/101014&text=wht_2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/e9e9fb/0b0b0f&text=wht_3&bold&fontsize=14"></td>
     </tr>
@@ -330,7 +330,7 @@
     </blockquote>
     <p align="center">
         <b>blue</b> &rarr;
-        <i>serenity, distance, </i> and <i>vastness</i>.
+        <i>serenity, freedom, </i> and <i>infinity</i>.
     </p>
     <blockquote>
         Typically yellow would be the anti-blue, but <i>vagari</i> will use
@@ -339,7 +339,7 @@
     </blockquote>
     <p align="center">
         <b>orange</b> &rarr;
-        <i>energy, novelty,</i> and <i>significance</i>.
+        <i>ambition, novelty,</i> and <i>significance</i>.
     </p>
     <table align="center">
     <tr>
@@ -719,7 +719,7 @@
     </blockquote>
     <p align="center">
         <b>sky</b> &rarr;
-        <i>conformity, productivity,</i> and <i>pragmatism</i>.
+        <i>balance, productivity,</i> and <i>pragmatism</i>.
     </p>
     <table align="center">
     <tr>
@@ -1014,11 +1014,11 @@
         Ironically, <i>vagari</i> has little to say about grey; there is much
         to be developed here. Grey is incredibly hard to get right, and proper
         usage can make or break a design. <i>vagari</i> remains open to
-        change. Fow now, an attempt at a flexible standard is introduced.
+        change. For now, an attempt at a flexible standard is introduced.
     </p>
     <p>
         An emotional valence for each grey will be suggested. However, note that
-        this may be overeaching. Really, these greys are meant to help guide
+        this may be overreaching. Really, these greys are meant to help guide
         attention, via use of contrast instead of color.
     </p>
     <hr>
@@ -1027,12 +1027,12 @@
     <blockquote>
         First up, the traditional <b>grey</b>, relative to the background at
         least. This grey is designed to be used in conjunction with black and
-        white, wherein a nuetral, yet opinionated, message is being
+        white, wherein a neutral, yet opinionated, message is being
         communicated.
     </blockquote>
     <p align="center">
         <b>grey</b> &rarr;
-        <i>status-quo, passivity, default</i>
+        <i>normality, passivity, </i>and<i> indecision.</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1061,7 +1061,7 @@
     </blockquote>
     <p align="center">
         <b>slate</b> &rarr;
-        <i>flexiblity, receptivity, forgiveness</i>
+        <i>flexiblity, receptivity, </i>and<i> forgiveness.</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1090,7 +1090,7 @@
     </blockquote>
     <p align="center">
         <b>rust</b> &rarr;
-        <i>ease, hospitatlity, stability</i>
+        <i>ease, hospitality, </i>and<i> stability.</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1115,12 +1115,12 @@
     <br>
     <blockquote>
         Originally, there were only going to be three greys to start. However,
-        it wasn't much of a stretch to create a megenta-grey, i.e.,
+        it wasn't much of a stretch to create a magenta-grey, i.e.,
         <b>plum</b>; it is designed to be used in conjunction with asparagine.
     </blockquote>
     <p align="center">
         <b>plum</b> &rarr;
-        <i>relaxation, grace, amicablity</i>
+        <i>relaxation, grace, </i>and<i> amicability.</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1155,12 +1155,12 @@
         there is a means to use more variable contrast in cases when green
         dominates the scene. Also, in cases where the background is changed,
         perhaps to black. In such cases, then this green actually can look more
-        like a more nuetral grey.
+        like a more neutral grey.
     </p>
     </blockquote>
     <p align="center">
         <b>olive</b> &rarr;
-        <i>uncertainty, exploration, obscurity</i>
+        <i>uncertainty, exploration, </i>and<i> obscurity.</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1414,7 +1414,7 @@ of the project, actually. **To conjecture**:
 > flag** of some order. Design frameworks ought to move past representing brands,
 > and move towards being a means to virtue signal the **digital community**
 > (nation) you are a part of. Overtime, frameworks should to evolve like
-> languages, and be less universal (diversity++).
+> languages, and be less universal.
 
 **Ideally,** shared participation in this fiction will hopefully manifest a reality
 among the participants. The philosophy of _vagari_ is built upon the idea that

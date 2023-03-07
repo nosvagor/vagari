@@ -75,6 +75,8 @@
     >
 </p>
 
+<hr>
+
 <!-- ☯️  Bounds {{{ -->
 <details closed>
 <summary><h4> ☯️  Bounds</h4></summary>
@@ -163,7 +165,7 @@
     <p>
         Next, the <b>foreground</b>. <i>vagari</i> continues to lean into the
         use of cool tones, and the foreground is more blue that one might
-        traditionlly expect. Again, this is done so that white is encouraged to
+        traditionally expect. Again, this is done so that white is encouraged to
         carry more meaning.
     </p>
     </blockquote>
@@ -186,7 +188,7 @@
     <!-- bright {{{ -->
     <br>
     <blockquote>
-        Like the darker colrs, these <b>bright</b> colors are meant to provide
+        Like the darker colors, these <b>bright</b> colors are meant to provide
         a means to highlight foreground elements, acting as a subtle extension
         of the foreground color.
     </blockquote>
@@ -263,8 +265,8 @@
     <br>
     <blockquote>
         Likewise, <b>white</b> now has a rather undecided role. As of now, it is
-        predicted to be used communcaite clarity and importance of common
-        foreground elements, and as better constrasting color for black, when it is
+        predicted to be used communicate clarity and importance of common
+        foreground elements, and as better contrasting color for black, when it is
         used.
     </blockquote>
     <p align="center">
@@ -1057,11 +1059,11 @@
     <br>
     <blockquote>
         Next is the most frequently used grey&mdash;<b>slate</b>; it is used to
-        maintain the the cool tones present in <i>vagari</i>.
+        maintain the cool tones present in <i>vagari</i>.
     </blockquote>
     <p align="center">
         <b>slate</b> &rarr;
-        <i>flexiblity, receptivity, </i>and<i> forgiveness.</i>
+        <i>flexibility, receptivity, </i>and<i> forgiveness.</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1090,7 +1092,7 @@
     </blockquote>
     <p align="center">
         <b>rust</b> &rarr;
-        <i>ease, hospitality, </i>and<i> stability.</i>
+        <i>cooperation, hospitality, </i>and<i> stability.</i>
     </p>
     <table align="center">
     <tr align="center">
@@ -1185,6 +1187,8 @@
 
 <!-- }}} -->
 
+<hr>
+
 </details>
 <!-- }}} -->
 
@@ -1195,7 +1199,7 @@
 ### Manifest Meaning
 
 > i.e., wherever possible, inject genre, inspiration, or any relationship of
-> signficiance.
+> significance.
 
 <a href="https://youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ">
 <img
@@ -1259,7 +1263,7 @@ following represents a way to mine meaning from media, or rather, the
 
 Creativity is not a some special, dualistic force ("_the muse_,") that only
 humans possess. **Creativity _is_ Chaos**&mdash;it's an emergent property that originates from the of the
-embrace of&mdash;and the eventual obsevraiton of&mdash;sensitive starting conditions in dynamical systems (e.g., human
+embrace of&mdash;and the eventual observation of&mdash;sensitive starting conditions in dynamical systems (e.g., human
 minds), coupled with, but not limited to:
 
 - **[curiosity](https://youtu.be/_XWRF1UArO4)** in the _unknown_, and an deep desire _to **understand**_.
@@ -1343,7 +1347,7 @@ in the philosophy of _vagari_. Anyone can make a [color
 scheme](https://www.slant.co/topics/358/~best-color-themes-for-text-editors),
 and many others will be better for certain people in certain contexts. In the
 end, _vagari_ is not trying to be the _best_, or the _most popular_, color scheme
-([functionality/appeal is are merely useful qualitieis](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
+([functionality/appeal is are merely useful qualities](https://github.com/nosvagor/vagari#is-fashion-invented-or-discovered)).
 
 Instead, at it's core, _vagari_ is trying to be the most _meaningful_ color
 scheme. _vagari_ assumes that most other color schemes do not allow the _art of

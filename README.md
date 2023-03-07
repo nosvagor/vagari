@@ -614,8 +614,7 @@
             Nearby (in hue) is cyan and pink. Unlike red and green, the
             pink/green(cyan) combo is probably the least universal pair, in
             terms of semantic meaning. <i>vagari</i> capitalizes on this
-            ambiguity to assign them to the most fundamental discrete pairings:
-            true|false.
+            ambiguity to assign them to the most fundamental discrete pairings: boolean.
         </p>
         <p>
             <b>cyan</b> is close to green, so it is assigned to true/yes
@@ -1221,7 +1220,9 @@ meaning of _meaning_; it provided the energy needed to publish _vagari_.
 <br>An awakening to the importance of linguistics, story, non-zero-sum games,
 and ultimately, the craft of combining _good_ ideas.
 
-### Colors as the Symbols, Design as the Grammar
+<br>
+
+### Evolutionary Oriented
 
 > i.e., acknowledge that color (and design itself) is a system of communication with an evolutionary history.
 
@@ -1232,43 +1233,48 @@ for this general philosophical (or rather, biological) concept. Hence, the
 following represents a way to mine meaning from media, or rather, the
 <strong>exploration of culture</strong> via the some of the most dominant mediums:
 </summary>
-
-- [What is Cinema Language?](https://youtu.be/1-6-8HN5yv8) (importance of ...)
-- [Hitchcock and the Language of Cinema](https://youtu.be/W_JPD8B_0Lc) (Silence)
-- [How Studio Ghibli Makes Animation Feel Alive](https://youtu.be/jM6PPxN1xas) (Sound)
-- [Akira Kurosawa &ndash; Composing Movement](https://youtu.be/doaQC-S8de8) (Motion)
-- [The Soul of Good Character Design](https://youtu.be/SM3IQFgP-d8) (Desire)
-- [Frank Ocean &ndash; Musical Identity](https://youtu.be/6ohakZ5wYu8) (Depth)
-- [Every Face Tells A Story](https://youtu.be/FK1trQBa_2g) (Emotion)
-- [GoT &ndash; How to Evoke Emotion](https://youtu.be/jgZXDeGjf84) (Structure)
-- [How Sicario Fools its Audience](https://youtu.be/_kOfDh5zF4c) (Expectations)
-- [Tenet &ndash; A Misunderstood Masterpiece](https://youtu.be/0OoLokmqo0A) (Subjectivity)
-- [Edgar Wright &ndash; How to Do Visual Comedy](https://youtu.be/3FOzD4Sfgag) (Creativity)
-- [This Top Gun Scene Is Like A Perfect Pop Song](https://youtu.be/MN-1jdFSDs8) (Universality)
-- [Why Mass Effect Should Be the Next Game of Thrones](https://youtu.be/-elPKyfpJrM) (Adapatation)
-- [You Can Make a Netflix Style Doco About Literally Anything](https://youtu.be/9BUrNe3Vhtk) (Theme)
-- [Childish Gambino &ndash; Storytelling Through Hip-Hop](https://youtu.be/OgQ3Hpj-CBU) (Cohesion)
-- [The Secret Ingredients of Great Hospitality](https://youtu.be/bwcyXcOpWVs) (Belonging)
-- [The Role in Filmmaking No One Talks About](https://youtu.be/MhFO4LJdwx0) (Detail)
-- [Satoshi Kon &ndash; Editing Space & Time](https://youtu.be/oz49vQwSoTE) (Transitions)
-- [What Matters is What You Do](https://youtu.be/EL7e05pClKM) (Humility)
-- [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14) (Motivation)
-
+<ul>
+<br>
+<li> <a href="https://youtu.be/1-6-8HN5yv8">What is Cinema Language? (importance of ...)</a> </li>
+<li> <a href="https://youtu.be/W_JPD8B_0Lc">Hitchcock and the Language of Cinema (Silence)</a> </li>
+<li> <a href="https://youtu.be/jM6PPxN1xas">How Studio Ghibli Makes Animation Feel Alive (Sound)</a> </li>
+<li> <a href="https://youtu.be/doaQC-S8de8">Akira Kurosawa &ndash; Composing Movement (Motion)</a> </li>
+<li> <a href="https://youtu.be/SM3IQFgP-d8">The Soul of Good Character Design (Desire)</a> </li>
+<li> <a href="https://youtu.be/6ohakZ5wYu8">Frank Ocean &ndash; Musical Identity (Depth)</a> </li>
+<li> <a href="https://youtu.be/FK1trQBa_2g">Every Face Tells A Story (Emotion)</a> </li>
+<li> <a href="https://youtu.be/jgZXDeGjf84">GoT &ndash; How to Evoke Emotion (Structure)</a> </li>
+<li> <a href="https://youtu.be/_kOfDh5zF4c">How Sicario Fools its Audience (Expectations)</a> </li>
+<li> <a href="https://youtu.be/0OoLokmqo0A">Tenet &ndash; A Misunderstood Masterpiece (Subjectivity)</a> </li>
+<li> <a href="https://youtu.be/3FOzD4Sfgag">Edgar Wright &ndash; How to Do Visual Comedy (Creativity)</a> </li>
+<li> <a href="https://youtu.be/MN-1jdFSDs8">This Top Gun Scene Is Like A Perfect Pop Song (Universality)</a> </li>
+<li> <a href="https://youtu.be/-elPKyfpJrM">Why Mass Effect Should Be the Next Game of Thrones (Adapatation)</a> </li>
+<li> <a href="https://youtu.be/9BUrNe3Vhtk">You Can Make a Netflix Style Doco About Literally Anything (Theme)</a> </li>
+<li> <a href="https://youtu.be/OgQ3Hpj-CBU">Childish Gambino &ndash; Storytelling Through Hip-Hop (Cohesion)</a> </li>
+<li> <a href="https://youtu.be/bwcyXcOpWVs">The Secret Ingredients of Great Hospitality (Belonging)</a> </li>
+<li> <a href="https://youtu.be/MhFO4LJdwx0">The Role in Filmmaking No One Talks About (Detail)</a> </li>
+<li> <a href="https://youtu.be/oz49vQwSoTE">Satoshi Kon &ndash; Editing Space & Time (Transitions)</a> </li>
+<li> <a href="https://youtu.be/EL7e05pClKM">What Matters is What You Do (Humility)</a> </li>
+<li> <a href="https://www.youtube.com/watch?v=MBRqu0YOH14">Optimistic Nihilism (Motivation)</a> </li>
+</ul>
 </details>
 
-### Chaos is not _chaotic_
+<br>
 
-> i.e., [Chaos is a mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
+### Chaos is not _disorder_
+
+> i.e., [chaos is mathematical concept](https://youtu.be/fDek6cYijxI); an intrinsic
 > pattern of the universe that arises in non-linear systems.
 
 Creativity is not a some special, dualistic force ("_the muse_,") that only
-humans possess. **Creativity _is_ Chaos**&mdash;it's an emergent property that originates from the of the
+humans possess. **Creativity _is_ Chaos**;it's an emergent property that originates from the of the
 embrace of&mdash;and the eventual observation of&mdash;sensitive starting conditions in dynamical systems (e.g., human
 minds), coupled with, but not limited to:
 
 - **[curiosity](https://youtu.be/_XWRF1UArO4)** in the _unknown_, and an deep desire _to **understand**_.
 - **[courage](https://youtu.be/dKz095P7LdU)** to challenge the _status quo_, and everlasting itch _to **explore**_.
 - **[humility](https://youtu.be/Tfrrubw7pcE)** in allowing the _process_ to unfold, and willingness _to **fail**_.
+
+<br>
 
 ### Is Fashion Invented or Discovered?
 
@@ -1297,6 +1303,7 @@ discovered. I.e., the most fashionable style of the time is found via somewhat
 random exploration. However, in a sense fashion also invented, because
 ultimately style (the result of the process of fashion) is created as a means to out-replicate competing styles.
 
+<br>
 </details>
 <!-- }}} -->
 
@@ -1506,7 +1513,6 @@ a whole that is more than the sum of its parts.
     >
 🥉 <a href="https://github.com/ellisonleao/gruvbox.nvim">Gruvbox</a>
 </p>
-#
 <p align="right">
 <em>worthy mentions</em>:
     <a href="https://github.com/navarasu/onedark.nvim">Onedark</a>,

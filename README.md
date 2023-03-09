@@ -1083,6 +1083,36 @@
     </tr>
     </table>
 <!-- }}} -->
+<!-- glacier {{{ -->
+    <br>
+    <blockquote>
+        A darker and cooler grey was needed to bridge the gap to the
+        background, so <b>glacier</b> was created; it rivals the frequency of
+        use of slate, and raises the question: are the other greys also lacking?
+    </blockquote>
+    <p align="center">
+        <b>glacier</b> &rarr;
+        <i>connection, kinship, </i>and <i>unity</i>
+    </p>
+    <table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/64/222536/252841&text=glc_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/282b48&text=glc_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/30345a&text=glc_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/3f4578&text=glc_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/4e5492&text=glc_4&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5a61aa&text=glc_5&bold&fontsize=14"></td>
+    </tr>
+    <tr align="center">
+        <td><code>#252841</code><br><code>CR:1.05</code></td>
+        <td><code>#282b48</code><br><code>CR:1.10</code></td>
+        <td><code>#30345a</code><br><code>CR:1.27</code></td>
+        <td><code>#3f4578</code><br><code>CR:1.68</code></td>
+        <td><code>#4e5492</code><br><code>CR:2.16</code></td>
+        <td><code>#5a61aa</code><br><code>CR:2.68</code></td>
+    </tr>
+    </table>
+<!-- }}} -->
 <!-- rust {{{ -->
     <br>
     <blockquote>

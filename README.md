@@ -63,38 +63,6 @@
 <!-- }}}
 <!-- ============================================================================ -->
 
-<!-- 💡 Motivation {{{ -->
-<details open>
-<summary><h2>&nbsp;The Why</h2></summary>
-<blockquote>
-    What is <i>vagari?</i> &hellip; a color scheme? &hellip; <b>Why choose <i>vagari?</i></b>
-</blockquote>
-<p>
-    <i>vagari</i> is:
-</p>
-<ol>
-    <li>an <b>opinionated & functional</b> color scheme, whereby colors (and color relations) act as a language.</li>
-    <li>a means to signal respect for (and participant in) a community with a particular set of <b>principles & values</b>.</li>
-    <li>meant to be grow to be a <b>collaborative & evolutionary-driven</b> design framework.</li>
-</ol>
-<p>
-    Essentially, <i>vagari</i> is attempting the play an infinite game, i.e.,
-    by playing <i>with <b>the</b></i> rules of design, rather than
-    <i>with<b>in</b></i> the rules (a finite game).
-</p>
-<p>
-    Specifically, <i>vagari</i> is attempting to play an <b>infinite
-    non-zero-sum game</b>, one that that aims to elevate our ability to
-    communicate, cooperate, grow, and ultimately&mdash;understand.
-</p>
-<blockquote>
-    <i><b>vagari's motto</b>: "we do not know and will not know, yet we try
-    regardless."</i>
-</blockquote>
-</details>
-<br>
-<!-- }}} -->
-
 <!-- 🎨 Palette {{{ -->
 <details open>
 <summary><h2>🎨 Palette</h2></summary>

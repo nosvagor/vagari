@@ -40,7 +40,7 @@
 <br>
 <a href="https://www.reddit.com/r/unixporn/">
     <img
-        src="https://vbr.wocr.tk/badge?color=7cc5ef&logoColor=7cc5ef&page_id=nosvagor/vagari&logo=linux&style=for-the-badge&lcolor=222536"
+        src="https://vbr.wocr.tk/badge?color=7cc5ef&logoColor=7cc5ef&page_id=vagari&logo=linux&style=for-the-badge&lcolor=222536"
         alt="visitor count is 💀"
         title="hello there (I use arch, neovim, and rust, btw)"
     >

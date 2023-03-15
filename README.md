@@ -574,7 +574,7 @@
             <code>#5aba6d</code><br>
             <code>CR:6.26</code>
         </td>
-        <td><img src="https://place-hold.it/64/222536/5aba6d/&text=emr_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5aba6d/&text=emr_2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/f07a88/&text=rby_2&bold&fontsize=14"></td>
         <td>
             <code>#f07a88</code><br>

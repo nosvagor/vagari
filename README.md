@@ -16,47 +16,31 @@
 </a>
 
 <p align="center">
-<a href="https://github.com/nosvagor/vagari/issues">
-    <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=ed5f6f&logo=fireship&labelColor=222536&logoColor=ed5f6f&style=for-the-badge"
-        title="this is not fine!!"
-    >
-</a>
-&nbsp;
 <a href="https://github.com/nosvagor/vagari/discussions">
     <img
-        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=f2a170&logo=github&labelColor=222536&logoColor=f2a170&style=for-the-badge"
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=7492ef&logo=github&labelColor=222536&logoColor=4a6be3&style=for-the-badge"
         title="alright then, keep your secrets"
-    >
-</a>
-&nbsp;
-<a href="https://github.com/nosvagor/vagari/contributors">
-    <img
-        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=5aba6d&logo=gitea&labelColor=222536&logoColor=5aba6d&style=for-the-badge"
-        title="gotta do the cooking by the book"
-    >
-</a>
-&nbsp;
-<br>
-<a href="https://www.reddit.com/r/unixporn/">
-    <img
-        src="https://vbr.wocr.tk/badge?color=7cc5ef&logoColor=7cc5ef&page_id=vagari&logo=linux&style=for-the-badge&lcolor=222536"
-        alt="visitor count is 💀"
-        title="hello there (I use arch, neovim, and rust, btw)"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/network/members">
     <img
-        src="https://img.shields.io/github/forks/nosvagor/vagari?color=7492ef&logo=git&labelColor=222536&logoColor=7492ef&style=for-the-badge"
-        title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts."
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=a188df&logo=git&labelColor=222536&logoColor=7f61cd&style=for-the-badge"
+        title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas..."
     >
 </a>
 &nbsp;
-<a href="https://youtu.be/gxAaO2rsdIs">
+<a href="https://github.com/nosvagor/vagari/contributors">
     <img
-        src="https://img.shields.io/github/license/nosvagor/vagari?color=a188df&logo=gnu&labelColor=222536&logoColor=a188df&style=for-the-badge"
-        title="living long enough to reproduce; R_0 > 1 ? share it : change it"
+        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=85ba6d&logo=gitea&labelColor=222536&logoColor=48a95b&style=for-the-badge"
+        title="gotta do the cooking by the book"
+    >
+</a>
+&nbsp;
+<a href="https://github.com/nosvagor/vagari/issues">
+    <img
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f8b486&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge"
+        title="this is not fine!!"
     >
 </a>
 </p>

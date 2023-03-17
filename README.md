@@ -47,7 +47,6 @@
 <!-- }}}
 <!-- ============================================================================ -->
 
-<!-- 🎨 Palette {{{ -->
 <details open>
 <summary><h2>🎨 Palette</h2></summary>
 
@@ -1203,7 +1202,6 @@
 <hr>
 
 </details>
-<!-- }}} -->
 
 <!-- 🧠 Philosophy {{{ -->
 <details closed>
@@ -1451,15 +1449,12 @@ a whole that is more than the sum of its parts.
 </details>
 <!-- }}} -->
 
-<!-- 🪟 Gallery {{{ -->
-<details open>
-<summary><h2>🪟 Gallery</h2></summary>
-</details>
-<!-- }}} -->
+<!-- =============================================================================== -->
 
 <!-- 🚢 Ports {{{ -->
-<details open>
-<summary><h1>🚢 Ports</h1></summary>
+<br>
+
+# 🚢 Ports
 
 ##### 🔧 System
 
@@ -1496,65 +1491,50 @@ a whole that is more than the sum of its parts.
 <!-- }}} -->
 
 <!-- 🤝 Contributing {{{ -->
-<details closed>
-<summary><h2>🤝 Contributing</h2></summary>
 <br>
-<blockquote>
-    First and foremost, thank you for considering contributing to this open source
-    color scheme project! Your input and contributions are invaluable to us, and
-    we're excited to collaborate with you. This section outlines the steps you can
-    take to get involved and contribute to the project.
-</blockquote>
 
-<h4>
-    Creating GitHub Discussions
-</h4>
-<p>
-    If you have questions, ideas, or just want to share your thoughts on the
-    project, feel free to create a GitHub Discussion. This is an excellent
-    place for community members to engage in conversations, share knowledge,
-    and help each other. Before creating a new discussion, please browse
-    through existing discussions to avoid duplicates.
-</p>
+## 🤝 Contributing
 
-<h4>
-    Reporting Issues
-</h4>
-<p>
-    If you come across any bugs or problems while using the color scheme, please
-    report them by opening a GitHub Issue. Make sure to provide as much information
-    as possible, including steps to reproduce the issue, the expected outcome, and
-    any relevant screenshots or error messages. This will help our team better
-    understand and resolve the problem.
-</p>
+> First and foremost, thank you for considering contributing to this open
+> source proeject! Your input and contributions are invaluable to
+> us, and we're excited to collaborate with you. This section outlines the
+> steps you can take to get involved and contribute to the project.
 
-<h4>
-    Feature Requests
-</h4>
-<p>
-    We're always looking for ways to improve the project, so if you have
-    a feature request or a suggestion, feel free to open an issue with the
-    appropriate label. Please provide a clear description of your idea, any
-    relevant use cases, and how the feature would benefit the project as
-    a whole.
-</p>
+<br>
 
-<h4>
-    Port Requests
-</h4>
-<p>
-    If you're interested in porting the color scheme to another platform or
-    editor, we'd love your help! Please open an issue with the "Port Request" label
-    and provide details about the target platform or editor.
-</p>
+#### Discussions Encouraged
 
-<h4>
-    Submitting Pull Requests
-</h4>
-<p>
-    To contribute code, bug fixes, or enhancements to the project, please follow
-    these steps:
-</p>
+Questions and critiques are welcome!
+Feel free to create a [new&nbsp;discussion&nbsp;post](https://github.com/nosvagor/vagari.nvim/discussions/new/choose);
+this is an excellent place for community members to engage in conversations, share
+knowledge, and help each other.
+
+#### Reporting Issues
+
+If you come across any bugs (or rather, inconsistencies) or problems while using the color scheme, please
+report them by opening a [a new issue](https://github.com/nosvagor/vagari.nvim/issues/new).
+Make sure to provide as much information as possible, including steps to
+reproduce the issue, the expected outcome, and any relevant screenshots or
+error messages.
+
+#### Feature Requests
+
+We're always looking for ways to improve the project, so if you have a feature
+request or a suggestion, feel free to open an issue with the appropriate
+label. Please provide a clear description of your idea, any relevant use cases,
+and how the feature would benefit the project as a whole.
+
+#### Port Requests
+
+If you're interested in porting the color scheme to another platform or editor,
+we'd love your help! Please open an issue with the "Port Request" label and
+provide details about the target platform or editor.
+
+#### Submitting Pull Requests
+
+To contribute code, bug fixes, or enhancements to the project, please follow
+these steps:
+
 <ol>
     <li>Fork the repository.</li>
     <li>Create a new branch with a descriptive name (e.g., fix-issue-123, add-feature-xyz).</li>
@@ -1565,16 +1545,12 @@ a whole that is more than the sum of its parts.
     <li>Create a pull request to merge your branch into the main repository.</li>
 </ol>
 
-<p>
-    When submitting a pull request, please provide a detailed description of the
-    changes, any relevant issues or discussions, and screenshots or demos if
-    applicable.
-</p>
 <br>
+
 <blockquote>
     Again, thank you for your interest in contributing to this open source color
     scheme project. We're looking forward to collaborating with you and creating an
     amazing tool together!
 </blockquote>
-</details>
+
 <!-- }}} -->

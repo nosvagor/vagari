@@ -574,7 +574,7 @@
             <code>#5aba6d</code><br>
             <code>CR:6.26</code>
         </td>
-        <td><img src="https://place-hold.it/64/222536/5aba6d/&text=emr_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5aba6d/&text=emrqq_2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/f07a88/&text=rby_2&bold&fontsize=14"></td>
         <td>
             <code>#f07a88</code><br>
@@ -1468,62 +1468,129 @@ a whole that is more than the sum of its parts.
 <!-- }}} -->
 
 <!-- 🪟 Gallery {{{ -->
-<details closed>
+<details open>
 <summary><h2>🪟 Gallery</h2></summary>
 </details>
 <!-- }}} -->
 
 <!-- 🚢 Ports {{{ -->
-<details closed>
-<summary><h2>🚢 Ports</h2></summary>
-<!-- <details closed><summary>🔧 System</summary> -->
-<!---->
-<!-- - [bat](https://github.com/catppuccin/bat) -->
-<!-- - [btop](https://github.com/catppuccin/btop) -->
-<!-- - [CAVA](https://github.com/catppuccin/cava) -->
-<!-- - [cursors](https://github.com/catppuccin/cursors) -->
-<!-- - [dunst](https://github.com/catppuccin/dunst) -->
-<!-- - [fzf](https://github.com/catppuccin/fzf) -->
-<!-- - [GTK](https://github.com/catppuccin/gtk) -->
+<details open>
+<summary><h1>🚢 Ports</h1></summary>
+
+##### 🔧 System
+
+- [hyprland]()
+<!-- - [cursors]() -->
+<!-- - [dunst]() -->
+<!-- - [GTK]() -->
 <!-- - [eww]() -->
-<!-- - [hyprland](https://github.com/catppuccin/hyprland) -->
-<!---->
-<!-- </details> -->
-<!-- <details closed><summary>🪐 Apps</summary> -->
-<!---->
-<!-- - [neovim](https://github.com/catppuccin/nvim) -->
-<!-- - [kitty](https://github.com/catppuccin/kitty) -->
-<!-- - [zsh-syntax-highlighting](https://github.com/catppuccin/zsh-syntax-highlighting) -->
-<!-- - [lazygit](https://github.com/catppuccin/lazygit) -->
-<!-- - [zathura](https://github.com/catppuccin/zathura) -->
-<!-- - [Discord](https://github.com/catppuccin/discord) -->
-<!-- - [Telegram](https://github.com/catppuccin/telegram) -->
-<!-- - [Obsidian](https://github.com/catppuccin/obsidian) -->
-<!-- - [YouTube Music](https://github.com/catppuccin/youtubemusic) -->
-<!---->
-<!-- - [Inkscape](et) -->
-<!---->
-<!-- </details> -->
-<!---->
-<!-- <details closed><summary>✨ Web</summary> -->
-<!---->
-<!-- - [Firefox](https://github.com/catppuccin/firefox) -->
-<!-- - [Dark Reader](https://github.com/catppuccin/dark-reader) -->
-<!-- - [Vimium](https://github.com/catppuccin/vimium) -->
-<!-- - [GitHub](https://github.com/catppuccin/github) -->
-<!-- - [YouTube](https://github.com/catppuccin/youtube) -->
+
+##### 🪐 Apps
+
+- [<b>neovim</b>](https://github.com/nosvagor/vagari.nvim)
+- [kitty]()
+- [starship]()
+<!-- - [fzf]() -->
+<!-- - [bat]()  -->
+<!-- - [btop]() -->
+<!-- - [zsh-syntax-highlighting]() -->
+<!-- - [lazygit]() -->
+<!-- - [zathura]() -->
+<!-- - [Inkscape]() -->
+
+##### ✨ Web
+
+- [Firefox]()
+<!-- - [Dark Reader]() -->
+<!-- - [Vimium]() -->
+<!-- - [GitHub]() -->
+<!-- - [YouTube]() -->
 <!-- - [Twitter]() -->
-<!-- - [Monkeytype](https://github.com/catppuccin/monkeytype) -->
-<!---->
-<!-- > _Note_: many of the above ports were originally modified versions of -->
-<!-- > [catppuccin's ports](https://github.com/catppuccin/catppuccin#-ports-and-more)&mdash;many -->
-<!-- > thanks 🙇 -->
-<!---->
+<!-- - [Monkeytype]() -->
+
 </details>
 <!-- }}} -->
 
 <!-- 🤝 Contributing {{{ -->
 <details closed>
 <summary><h2>🤝 Contributing</h2></summary>
+<br>
+<blockquote>
+    First and foremost, thank you for considering contributing to this open source
+    color scheme project! Your input and contributions are invaluable to us, and
+    we're excited to collaborate with you. This section outlines the steps you can
+    take to get involved and contribute to the project.
+</blockquote>
+
+<h4>
+    Creating GitHub Discussions
+</h4>
+<p>
+    If you have questions, ideas, or just want to share your thoughts on the
+    project, feel free to create a GitHub Discussion. This is an excellent
+    place for community members to engage in conversations, share knowledge,
+    and help each other. Before creating a new discussion, please browse
+    through existing discussions to avoid duplicates.
+</p>
+
+<h4>
+    Reporting Issues
+</h4>
+<p>
+    If you come across any bugs or problems while using the color scheme, please
+    report them by opening a GitHub Issue. Make sure to provide as much information
+    as possible, including steps to reproduce the issue, the expected outcome, and
+    any relevant screenshots or error messages. This will help our team better
+    understand and resolve the problem.
+</p>
+
+<h4>
+    Feature Requests
+</h4>
+<p>
+    We're always looking for ways to improve the project, so if you have
+    a feature request or a suggestion, feel free to open an issue with the
+    appropriate label. Please provide a clear description of your idea, any
+    relevant use cases, and how the feature would benefit the project as
+    a whole.
+</p>
+
+<h4>
+    Port Requests
+</h4>
+<p>
+    If you're interested in porting the color scheme to another platform or
+    editor, we'd love your help! Please open an issue with the "Port Request" label
+    and provide details about the target platform or editor.
+</p>
+
+<h4>
+    Submitting Pull Requests
+</h4>
+<p>
+    To contribute code, bug fixes, or enhancements to the project, please follow
+    these steps:
+</p>
+<ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch with a descriptive name (e.g., fix-issue-123, add-feature-xyz).</li>
+    <li>Make your changes in the new branch.</li>
+    <li>Test your changes to ensure they work as expected and don't introduce new issues.</li>
+    <li>Commit your changes with a clear and concise commit message.</li>
+    <li>Push your changes to your fork.</li>
+    <li>Create a pull request to merge your branch into the main repository.</li>
+</ol>
+
+<p>
+    When submitting a pull request, please provide a detailed description of the
+    changes, any relevant issues or discussions, and screenshots or demos if
+    applicable.
+</p>
+<br>
+<blockquote>
+    Again, thank you for your interest in contributing to this open source color
+    scheme project. We're looking forward to collaborating with you and creating an
+    amazing tool together!
+</blockquote>
 </details>
 <!-- }}} -->

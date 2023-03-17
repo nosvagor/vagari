@@ -1496,20 +1496,19 @@ a whole that is more than the sum of its parts.
 ## 🤝 Contributing
 
 > First and foremost, thank you for considering contributing to this open
-> source proeject! Your input and contributions are invaluable to
+> source project! Your input and contributions are invaluable to
 > us, and we're excited to collaborate with you. This section outlines the
-> steps you can take to get involved and contribute to the project.
+> steps you can take to get involved and contribute to the project. Any
+> contribution is welcome, no matter the size!
 
-<br>
-
-#### Discussions Encouraged
+### Discussions Encouraged
 
 Questions and critiques are welcome!
 Feel free to create a [new&nbsp;discussion&nbsp;post](https://github.com/nosvagor/vagari.nvim/discussions/new/choose);
 this is an excellent place for community members to engage in conversations, share
 knowledge, and help each other.
 
-#### Reporting Issues
+### Reporting Issues
 
 If you come across any bugs (or rather, inconsistencies) or problems while using the color scheme, please
 report them by opening a [a new issue](https://github.com/nosvagor/vagari.nvim/issues/new).
@@ -1517,20 +1516,20 @@ Make sure to provide as much information as possible, including steps to
 reproduce the issue, the expected outcome, and any relevant screenshots or
 error messages.
 
-#### Feature Requests
+### Feature Requests
 
 We're always looking for ways to improve the project, so if you have a feature
 request or a suggestion, feel free to open an issue with the appropriate
 label. Please provide a clear description of your idea, any relevant use cases,
 and how the feature would benefit the project as a whole.
 
-#### Port Requests
+### Port Requests
 
 If you're interested in porting the color scheme to another platform or editor,
 we'd love your help! Please open an issue with the "Port Request" label and
 provide details about the target platform or editor.
 
-#### Submitting Pull Requests
+### Submitting Pull Requests
 
 To contribute code, bug fixes, or enhancements to the project, please follow
 these steps:
@@ -1545,12 +1544,40 @@ these steps:
     <li>Create a pull request to merge your branch into the main repository.</li>
 </ol>
 
-<br>
+### Funding 💰
 
-<blockquote>
-    Again, thank you for your interest in contributing to this open source color
-    scheme project. We're looking forward to collaborating with you and creating an
-    amazing tool together!
-</blockquote>
+At this time, _vagari_ is merely personal project started by myself
+[(cullyn)](https://github.com/nosvagor). My goal is to practice turning a hobby
+into a project that others might enjoy developing a project from scratch, and
+practice managing an open source project.
+
+If you think I can do something better, the please let me know&mdash;personal
+growth main currency I am interested in.
+
+Of course, time is money... so if you don't have much to contribute in a practical sense, but still
+want help, then donations are welcome _(for now, send dai/usdc/eth to **cullyn.eth**)_.
+
+- **80%** of any donation will go towards a community fund that will use
+  a democratic quadratic-voting approach to place bounties on issues and ports
+  requests, or retroactively fund past contributions that disproportionally
+  help to growth of the project.
+- **20%** of any donation will be returned to those who previously donated;
+  donors can elect cycle these payouts back into the community
+  fund. Distribution of said portion will have quadratic-style weighting,
+  based primarily on a community reputation score.
+
+> **Note** the above idea is a work in progress. As of now, this is not an active problem to be solved.
+
+The initial goal is to make something attractive (e.g., a color scheme) for people identify with and show off.
+
+The end goal is to create a community of of contributes that continuously help
+improve the project, and the people working on the project, in whatever domain
+that may be. Eventually, a community focused on truth finding (science) is the
+goal, with a means to fund research in directions that may not have immediate
+returns.
+
+> There is certainly a low probability of large-scale success. However, there
+> is a high probability that participation will be meaningful personal growth,
+> despite any relative metric that indicates failure.
 
 <!-- }}} -->

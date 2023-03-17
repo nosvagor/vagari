@@ -1577,7 +1577,17 @@ goal, with a means to fund research in directions that may not have immediate
 returns.
 
 > There is certainly a low probability of large-scale success. However, there
-> is a high probability that participation will be meaningful personal growth,
+> is a high probability that participation will be a meaningful source for personal growth,
 > despite any relative metric that indicates failure.
+
+<br>
+<p align="center">
+    <a href="https://github.com/nosvagor/vagari.nvim/stargazers">
+        <img
+            src="https://img.shields.io/github/stars/nosvagor/vagari?color=f5c069&logo=apachespark&labelColor=222536&logoColor=f5b855&style=for-the-badge"
+            title="what is love, baby don't hurt me"
+        >
+    </a>
+</p>
 
 <!-- }}} -->

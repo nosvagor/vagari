@@ -1524,48 +1524,26 @@
 
 # 🚢 Ports
 
-##### 🔧 System
+#### 🔧 System
 
-<ul>
-    <li><details><summary>hyprland</summary></details>
-    <code display="block" white-space="pre-wrap">
-        general {
-            border_size=3
-            gaps_in=13
-            gaps_out=0
-            no_cursor_warps=false
-            col.active_border=rgba(f2a170ee)
-            col.inactive_border=rgb(7492ef)
-            cursor_inactive_timeout=3
-            layout=master
-            resize_on_border=true
-        }
-    </code>
-    </li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-<!-- - [cursors]() -->
-<!-- - [dunst]() -->
-<!-- - [GTK]() -->
-<!-- - [eww]() -->
+- [hyprland](https://github.com/nosvagor/dotfiles/blob/main/config/hypr/hyprland.conf) &rarr; see `general {...}` & `decoration {...}` blocks
+- [dunst](https://github.com/nosvagor/dotfiles/blob/main/config/dunst/dunstrc) &rarr; see bottom of file _(underdeveloped, but it's a start)_
+- [eww]()
 
-##### 🪐 Apps
+#### 🪐 Apps
 
 - [<b>neovim</b>](https://github.com/nosvagor/vagari.nvim)
-- [kitty]()
+- [kitty](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/kitty.conf) &rarr; see `🎨 Color Scheme: {{{...}}}` section and [tab_bar.py](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/tab_bar.py) _(fragile; definitely needs fixing)_
 - [starship]()
-<!-- - [fzf]() -->
+- [lazygit]()
+- [fzf]()
 <!-- - [bat]()  -->
 <!-- - [btop]() -->
 <!-- - [zsh-syntax-highlighting]() -->
-<!-- - [lazygit]() -->
 <!-- - [zathura]() -->
 <!-- - [Inkscape]() -->
 
-##### ✨ Web
+#### ✨ Web
 
 - [Firefox]()
 <!-- - [Dark Reader]() -->

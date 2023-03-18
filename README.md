@@ -63,10 +63,10 @@
 <table align="center">
     <tr align="center">
         <td><img src="https://place-hold.it/64/222536/aeb9f8&text=bg&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/1e2133/aeb9f8&text=drk_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/181a2c/aeb9f8&text=drk_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/131626/aeb9f8&text=drk_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/0d0f1b/aeb9f8&text=drk_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/1e2133/222536&text=drk_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/181a2c/222536&text=drk_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/131626/222536&text=drk_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/0d0f1b/222536&text=drk_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#222536</code></td>
@@ -77,10 +77,10 @@
     </tr>
     <tr align="center">
         <td><img src="https://place-hold.it/64/aeb9f8/222536&text=fg&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/b6c0f7/222536&text=brt_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/bec6f8/222536&text=brt_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/cad1fb/222536&text=brt_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/d1d8ff/222536&text=brt_3&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/aeb9f8/b6c0f7&text=brt_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/aeb9f8/bec6f8&text=brt_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/aeb9f8/cad1fb&text=brt_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/aeb9f8/d1d8ff&text=brt_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
         <td><code>#aeb9f8</code></td>
@@ -1523,20 +1523,29 @@
 <br>
 
 # 🚢 Ports
+> At this time, _vagari_ is merely an attempt to standardize my own colors and
+> configuration. Thus, most of the ports below will be links to my personal
+> configuration files.
+>
+> If others begin like the color scheme (maybe 100 stars? or funding...), then I will begin to make a more robust porting system. Ideally,
+> a system for updating and changing colors across configuration files is
+> needed, as I would like to minting the ability to be flexible with the colors
+> while maintaining consistency.
 
 #### 🔧 System
 
-- [hyprland](https://github.com/nosvagor/dotfiles/blob/main/config/hypr/hyprland.conf) &rarr; see `general {...}` & `decoration {...}` blocks
+- [hyprland](https://github.com/nosvagor/dotfiles/blob/main/config/hypr/hyprland.conf) &rarr; see `general {...}` _(for borders)_ and `decoration {...}` _(for shadows)_
 - [dunst](https://github.com/nosvagor/dotfiles/blob/main/config/dunst/dunstrc) &rarr; see bottom of file _(underdeveloped, but it's a start)_
 - [eww]()
+- [glava](https://github.com/nosvagor/dotfiles/tree/main/config/glava) &rarr; `#define COLOR (#6b88f4 * ((d / 180) + 0.69))` relevant color _(blu_2)_ for radial. bars is similar.
 
 #### 🪐 Apps
 
 - [<b>neovim</b>](https://github.com/nosvagor/vagari.nvim)
 - [kitty](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/kitty.conf) &rarr; see `🎨 Color Scheme: {{{...}}}` section and [tab_bar.py](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/tab_bar.py) _(fragile; definitely needs fixing)_
 - [starship]()
-- [lazygit]()
-- [fzf]()
+<!-- - [lazygit]() -->
+<!-- - [fzf]() -->
 <!-- - [bat]()  -->
 <!-- - [btop]() -->
 <!-- - [zsh-syntax-highlighting]() -->
@@ -1845,7 +1854,6 @@ these steps:
     <li>Make your changes in the new branch.</li>
     <li>Test your changes to ensure they work as expected and don't introduce new issues.</li>
     <li>Commit your changes with a clear and concise commit message.</li>
-    <li>Push your changes to your fork.</li>
     <li>Create a pull request to merge your branch into the main repository.</li>
 </ol>
 

@@ -1538,12 +1538,12 @@
 - [dunst](https://github.com/nosvagor/dotfiles/blob/main/config/dunst/dunstrc) &rarr; see bottom of file _(underdeveloped, but it's a start)_
 - [eww]()
 - [glava](https://github.com/nosvagor/dotfiles/tree/main/config/glava) &rarr; `#define COLOR (#6b88f4 * ((d / 180) + 0.69))` relevant color _(blu_2)_ for radial. bars is similar.
+- [starship](https://github.com/nosvagor/dotfiles/blob/main/config/starship.toml) &rarr; see `setup {{...}}`
 
 #### 🪐 Apps
 
 - [<b>neovim</b>](https://github.com/nosvagor/vagari.nvim)
-- [kitty](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/kitty.conf) &rarr; see `🎨 Color Scheme: {{{...}}}` section and [tab_bar.py](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/tab_bar.py) _(fragile; definitely needs fixing)_
-- [starship]()
+- [kitty](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/kitty.conf) &rarr; see `🎨 Color Scheme: {{...}}` section and [tab_bar.py](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/tab_bar.py) _(fragile; definitely needs fixing)_
 <!-- - [lazygit]() -->
 <!-- - [fzf]() -->
 <!-- - [bat]()  -->

@@ -1,128 +1,78 @@
-<!-- ============================================================================ -->
-<!-- ☄️  Heading {{{ -->
-<h1 align="center"> ☄️ vagari ☄️ </h1>
+<!-- <!-- ============================================================================ --> -->
+<!-- <!-- ☄️  Heading {{{ --> -->
+<!-- <h1 align="center"> ☄️ vagari ☄️ </h1> -->
+<!---->
+<!-- <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4"> -->
+<!--     <p align="center" > -->
+<!--         <i>to wander, stroll about, roam, be unsettled, spread abroad</i> -->
+<!--         <br> -->
+<!--         <img -->
+<!--             src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue-decor.png?raw=true" -->
+<!--             width="50%" -->
+<!--             alt="Wanderers: a short film by Erik Wernquist" -->
+<!--             title="Wanderers: a short film by Erik Wernquist" -->
+<!--         > -->
+<!--     </p> -->
+<!-- </a> -->
+<!---->
+<!-- <p align="center"> -->
+<!-- <a href="https://github.com/nosvagor/vagari/discussions"> -->
+<!--     <img -->
+<!--         src="https://img.shields.io/github/discussions/nosvagor/vagari?color=7492ef&logo=github&labelColor=222536&logoColor=4a6be3&style=for-the-badge" -->
+<!--         title="alright then, keep your secrets" -->
+<!--     > -->
+<!-- </a> -->
+<!-- &nbsp; -->
+<!-- <a href="https://github.com/nosvagor/vagari/network/members"> -->
+<!--     <img -->
+<!--         src="https://img.shields.io/github/forks/nosvagor/vagari?color=a188df&logo=git&labelColor=222536&logoColor=7f61cd&style=for-the-badge" -->
+<!--         title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas..." -->
+<!--     > -->
+<!-- </a> -->
+<!-- &nbsp; -->
+<!-- <a href="https://github.com/nosvagor/vagari/contributors"> -->
+<!--     <img -->
+<!--         src="https://img.shields.io/github/contributors/nosvagor/vagari?color=85ba6d&logo=gitea&labelColor=222536&logoColor=48a95b&style=for-the-badge" -->
+<!--         title="gotta do the cooking by the book" -->
+<!--     > -->
+<!-- </a> -->
+<!-- &nbsp; -->
+<!-- <a href="https://github.com/nosvagor/vagari/issues"> -->
+<!--     <img -->
+<!--         src="https://img.shields.io/github/issues/nosvagor/vagari?color=f8b486&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge" -->
+<!--         title="this is not fine!!" -->
+<!--     > -->
+<!-- </a> -->
+<!-- </p> -->
+<!-- <!-- }}} -->
+<!-- <!-- ============================================================================ --> -->
+<!---->
+<!-- <details open> -->
+<!-- <summary><h2>🎨 Palette</h2></summary> -->
 
-<a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">
-    <p align="center" >
-        <i>to wander, stroll about, roam, be unsettled, spread abroad</i>
-        <br>
-        <img
-            src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue-decor.png?raw=true"
-            width="50%"
-            alt="Wanderers: a short film by Erik Wernquist"
-            title="Wanderers: a short film by Erik Wernquist"
-        >
-    </p>
-</a>
-
-<p align="center">
-<a href="https://github.com/nosvagor/vagari/discussions">
-    <img
-        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=7492ef&logo=github&labelColor=222536&logoColor=4a6be3&style=for-the-badge"
-        title="alright then, keep your secrets"
-    >
-</a>
-&nbsp;
-<a href="https://github.com/nosvagor/vagari/network/members">
-    <img
-        src="https://img.shields.io/github/forks/nosvagor/vagari?color=a188df&logo=git&labelColor=222536&logoColor=7f61cd&style=for-the-badge"
-        title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas..."
-    >
-</a>
-&nbsp;
-<a href="https://github.com/nosvagor/vagari/contributors">
-    <img
-        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=85ba6d&logo=gitea&labelColor=222536&logoColor=48a95b&style=for-the-badge"
-        title="gotta do the cooking by the book"
-    >
-</a>
-&nbsp;
-<a href="https://github.com/nosvagor/vagari/issues">
-    <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f8b486&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge"
-        title="this is not fine!!"
-    >
-</a>
-</p>
-<!-- }}}
-<!-- ============================================================================ -->
-
-<details open>
-<summary><h2>🎨 Palette</h2></summary>
-
-<p align="center">
-    <img
-        src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v4.svg?raw=true"
-        title="vagari color palette"
-        width="100%"
-    >
-</p>
+<!-- <p align="center"> -->
+<!--     <img -->
+<!--         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v4.svg?raw=true" -->
+<!--         title="vagari color palette" -->
+<!--         width="80%" -->
+<!--     > -->
+<!-- </p> -->
 
 <hr>
-
-<!-- ☯️  Bounds {{{ -->
-<details closed>
-<summary><h4> ☯️  Bounds</h4></summary>
-    <!-- background {{{ -->
-    <blockquote>
-    <hr>
-    <p>
-        The constraints, or bounds, to any system are probably the most
-        important place to start. Notably, <i>vagari</i> has no light or dark
-        mode, or any variations. There is just one schema, and it's been
-        carefully chosen.
-    </p>
-    <p>
-        The particulars of the bounds or aspects theme may change
-        overtime&mdash;variations on <i>vagari</i> are encouraged, and might
-        influence adaptations, but ultimately... the goal is to create
-        a standard for anyone to build upon.
-    </p>
-    <hr>
-    </blockquote>
-    <br>
-    <blockquote>
-    <p>
-        First, the <b>background</b>, as the contrast ratio to this color is
-        one of the most important determining factors when generating others
-        colors. A somber and cool tone was chosen, allowing black and white to
-        each play distinct roles, rather than being relegated to the background
-        or foreground.
-    </p>
-    </blockquote>
-    <p align="center">
-        <b>background</b> &rarr;
-        <i>adaptability, wonder,</i> and <i>curiosity</i>.
-    </p>
-    <table align="center">
+<details open><summary>Palette</summary>
+<table align="center">
     <tr align="center">
-        <td><img src="https://place-hold.it/128/222536/aeb9f8&text=bg&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/aeb9f8&text=bg&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/1e2133/aeb9f8&text=drk_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/181a2c/aeb9f8&text=drk_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/131626/aeb9f8&text=drk_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/0d0f1b/aeb9f8&text=drk_3&bold&fontsize=14"></td>
     </tr>
-    <tr>
-        <td align="center">
+    <tr align="center">
+        <td>
             <code>#222536</code><br>
             <code>CR:1.00</code>
         </td>
-    </tr>
-    </table>
-    <!-- }}} -->
-    <!-- dark {{{ -->
-    <br>
-    <blockquote>
-        These <b>dark</b> hues are utilized to give depth to
-        the background elements; they are simply meant to be extension of the
-        background color. Usage ought to be subtle.
-    </blockquote>
-    <p>
-    </p>
-    <table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/1e2133/b6c0f7&text=drk_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/181a2c/bec6f8&text=drk_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/131626/cad1fb&text=drk_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/0d0f1b/d1d8ff&text=drk_3&bold&fontsize=14"></td>
-    </tr>
-    <tr align="center">
         <td>
             <code>#1e2133</code><br>
             <code>CR:1.05</code>
@@ -140,51 +90,18 @@
             <code>CR:1.26</code>
         </td>
     </tr>
-    </table>
-    <!-- }}} -->
-    <!-- foreground {{{ -->
-    <br>
-    <blockquote>
-    <p>
-        Next, the <b>foreground</b>. <i>vagari</i> continues to lean into the
-        use of cool tones, and the foreground is more blue that one might
-        traditionally expect. Again, this is done so that white is encouraged to
-        carry more meaning.
-    </p>
-    </blockquote>
-    <p align="center">
-        <b>foreground</b> &rarr;
-        <i>familiarity, focus,</i> and <i>humility</i>.
-    </p>
-    <table align="center">
-        <tr align="center">
-            <td><img src="https://place-hold.it/128/aeb9f8/2225368&text=fg&bold&fontsize=14"></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <code>#aeb9f8</code><br>
-                <code>CR:8.00</code>
-            </td>
-        </tr>
-    </table>
-    <!-- }}} -->
-    <!-- bright {{{ -->
-    <br>
-    <blockquote>
-        Like the darker colors, these <b>bright</b> colors are meant to provide
-        a means to highlight foreground elements, acting as a subtle extension
-        of the foreground color.
-    </blockquote>
-    <p>
-    </p>
-    <table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/b6c0f7/1e2133&text=brt_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/bec6f8/181a2c&text=brt_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/cad1fb/131626&text=brt_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/d1d8ff/0d0f1b&text=brt_3&bold&fontsize=14"></td>
+    <tr align="cetenr">
+        <td><img src="https://place-hold.it/64/aeb9f8/222536&text=fg&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/b6c0f7/222536&text=brt_0&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/bec6f8/222536&text=brt_1&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/cad1fb/222536&text=brt_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/d1d8ff/222536&text=brt_3&bold&fontsize=14"></td>
     </tr>
     <tr align="center">
+        <td>
+            <code>#aeb9f8</code><br>
+            <code>CR:8.00</code>
+        </td>
         <td>
             <code>#b6c0f7</code><br>
             <code>CR:8.56</code>
@@ -202,94 +119,232 @@
             <code>CR:11.21</code>
         </td>
     </tr>
-    </table>
-    <!-- }}} -->
-    <!-- black {{{ -->
-    <br>
-    <blockquote>
-        Now that the general bounds are set, we can now assign proper roles for
-        the more neutral extremes. <b>black</b> won't be used much in code
-        (<i>vagari's</i> first use-case), however, it can to be used momentarily
-        stand in as the background, creating a strong statement. Further use
-        cases are undetermined, as of now.
-    </blockquote>
-    <p align="center">
-        <b>black</b> &rarr;
-        <i>sophistication, rebellion, </i> and <i>mystery</i>.
-    </p>
-    <table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/1d1d21/c9c9e2&text=blk_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/16161a/d3d3ed&text=blk_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/101014/ddddf6&text=blk_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/0b0b0f/e9e9fb&text=blk_3&bold&fontsize=14"></td>
-    </tr>
-    <tr align="center">
-        <td>
-            <code>#1d1d21</code><br>
-            <code>CR:1.11</code>
-        </td>
-        <td>
-            <code>#16161a</code><br>
-            <code>CR:1.19</code>
-        </td>
-        <td>
-            <code>#101014</code><br>
-            <code>CR:1.25</code>
-        </td>
-        <td>
-            <code>#0b0b0f</code><br>
-            <code>CR:1.30</code>
-        </td>
-    </tr>
-    </table>
-    <!-- }}} -->
-    <!-- white {{{ -->
-    <br>
-    <blockquote>
-        Likewise, <b>white</b> now has a rather undecided role. As of now, it is
-        predicted to be used communicate clarity and importance of common
-        foreground elements, and as better contrasting color for black, when it is
-        used.
-    </blockquote>
-    <p align="center">
-        <b>white</b> &rarr;
-        <i>organization, harmony, </i> and <i>simplicity</i>.
-    </p>
-    <table align="center">
-    <tr align="center">
-        <td><img src="https://place-hold.it/64/c9c9e2/1d1d21&text=wht_0&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/d3d3ed/16161a&text=wht_1&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/ddddf6/101014&text=wht_2&bold&fontsize=14"></td>
-        <td><img src="https://place-hold.it/64/e9e9fb/0b0b0f&text=wht_3&bold&fontsize=14"></td>
-    </tr>
-    <tr align="center">
-        <td>
-            <code>#c9c9e2</code><br>
-            <code>CR:9.33</code>
-        </td>
-        <td>
-            <code>#d3d3ed</code><br>
-            <code>CR:10.41</code>
-        </td>
-        <td>
-            <code>#ddddf6</code><br>
-            <code>CR:11.36</code>
-        </td>
-        <td>
-            <code>#e9e9fb</code><br>
-            <code>CR:12.63</code>
-        </td>
-    </tr>
-    </table>
-<!-- }}} -->
+</table>
 </details>
-
+<br>
+<details><summary>Palette + Commentary</summary>
+<h3> Base </h3>
+<!-- background {{{ -->
+<blockquote>
+<hr>
+<p>
+    The constraints, or bounds, to any system are probably the most
+    important place to start. Notably, <i>vagari</i> has no light or dark
+    mode, or any variations. There is just one schema, and it's been
+    carefully chosen.
+</p>
+<p>
+    The particulars of the bounds or aspects theme may change
+    overtime&mdash;variations on <i>vagari</i> are encouraged, and might
+    influence adaptations, but ultimately... the goal is to create
+    a standard for anyone to build upon.
+</p>
+<hr>
+</blockquote>
+<br>
+<blockquote>
+<p>
+    First, the <b>background</b>, as the contrast ratio to this color is
+    one of the most important determining factors when generating others
+    colors. A somber and cool tone was chosen, allowing black and white to
+    each play distinct roles, rather than being relegated to the background
+    or foreground.
+</p>
+</blockquote>
+<p align="center">
+    <b>background</b> &rarr;
+    <i>adaptability, wonder,</i> and <i>curiosity</i>.
+</p>
+<table align="center">
+<tr align="center">
+    <td><img src="https://place-hold.it/128/222536/aeb9f8&text=bg&bold&fontsize=14"></td>
+</tr>
+<tr>
+    <td align="center">
+        <code>#222536</code><br>
+        <code>CR:1.00</code>
+    </td>
+</tr>
+</table>
 <!-- }}} -->
-
-<!-- 📡 Communicative {{{ -->
-<details closed>
-<summary><h4> 📡 Communicative</h4></summary>
+<!-- dark {{{ -->
+<br>
+<blockquote>
+    These <b>dark</b> hues are utilized to give depth to
+    the background elements; they are simply meant to be extension of the
+    background color. Usage ought to be subtle.
+</blockquote>
+<p>
+</p>
+<table align="center">
+<tr align="center">
+    <td><img src="https://place-hold.it/64/1e2133/b6c0f7&text=drk_0&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/181a2c/bec6f8&text=drk_1&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/131626/cad1fb&text=drk_2&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/0d0f1b/d1d8ff&text=drk_3&bold&fontsize=14"></td>
+</tr>
+<tr align="center">
+    <td>
+        <code>#1e2133</code><br>
+        <code>CR:1.05</code>
+    </td>
+    <td>
+        <code>#181a2c</code><br>
+        <code>CR:1.12</code>
+    </td>
+    <td>
+        <code>#131626</code><br>
+        <code>CR:1.18</code>
+    </td>
+    <td>
+        <code>#0d0f1b</code><br>
+        <code>CR:1.26</code>
+    </td>
+</tr>
+</table>
+<!-- }}} -->
+<!-- foreground {{{ -->
+<br>
+<blockquote>
+<p>
+    Next, the <b>foreground</b>. <i>vagari</i> continues to lean into the
+    use of cool tones, and the foreground is more blue that one might
+    traditionally expect. Again, this is done so that white is encouraged to
+    carry more meaning.
+</p>
+</blockquote>
+<p align="center">
+    <b>foreground</b> &rarr;
+    <i>familiarity, focus,</i> and <i>humility</i>.
+</p>
+<table align="center">
+    <tr align="center">
+        <td><img src="https://place-hold.it/128/aeb9f8/2225368&text=fg&bold&fontsize=14"></td>
+    </tr>
+    <tr>
+        <td align="center">
+            <code>#aeb9f8</code><br>
+            <code>CR:8.00</code>
+        </td>
+    </tr>
+</table>
+<!-- }}} -->
+<!-- bright {{{ -->
+<br>
+<blockquote>
+    Like the darker colors, these <b>bright</b> colors are meant to provide
+    a means to highlight foreground elements, acting as a subtle extension
+    of the foreground color.
+</blockquote>
+<p>
+</p>
+<table align="center">
+<tr align="center">
+    <td><img src="https://place-hold.it/64/b6c0f7/1e2133&text=brt_0&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/bec6f8/181a2c&text=brt_1&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/cad1fb/131626&text=brt_2&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/d1d8ff/0d0f1b&text=brt_3&bold&fontsize=14"></td>
+</tr>
+<tr align="center">
+    <td>
+        <code>#b6c0f7</code><br>
+        <code>CR:8.56</code>
+    </td>
+    <td>
+        <code>#bec6f8</code><br>
+        <code>CR:9.11</code>
+    </td>
+    <td>
+        <code>#cad1fb</code><br>
+        <code>CR:10.12</code>
+    </td>
+    <td>
+        <code>#d1d8ff</code><br>
+        <code>CR:11.21</code>
+    </td>
+</tr>
+</table>
+<!-- }}} -->
+<!-- black {{{ -->
+<br>
+<blockquote>
+    Now that the general bounds are set, we can now assign proper roles for
+    the more neutral extremes. <b>black</b> won't be used much in code
+    (<i>vagari's</i> first use-case), however, it can to be used momentarily
+    stand in as the background, creating a strong statement. Further use
+    cases are undetermined, as of now.
+</blockquote>
+<p align="center">
+    <b>black</b> &rarr;
+    <i>sophistication, rebellion, </i> and <i>mystery</i>.
+</p>
+<table align="center">
+<tr align="center">
+    <td><img src="https://place-hold.it/64/1d1d21/c9c9e2&text=blk_0&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/16161a/d3d3ed&text=blk_1&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/101014/ddddf6&text=blk_2&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/0b0b0f/e9e9fb&text=blk_3&bold&fontsize=14"></td>
+</tr>
+<tr align="center">
+    <td>
+        <code>#1d1d21</code><br>
+        <code>CR:1.11</code>
+    </td>
+    <td>
+        <code>#16161a</code><br>
+        <code>CR:1.19</code>
+    </td>
+    <td>
+        <code>#101014</code><br>
+        <code>CR:1.25</code>
+    </td>
+    <td>
+        <code>#0b0b0f</code><br>
+        <code>CR:1.30</code>
+    </td>
+</tr>
+</table>
+<!-- }}} -->
+<!-- white {{{ -->
+<br>
+<blockquote>
+    Likewise, <b>white</b> now has a rather undecided role. As of now, it is
+    predicted to be used communicate clarity and importance of common
+    foreground elements, and as better contrasting color for black, when it is
+    used.
+</blockquote>
+<p align="center">
+    <b>white</b> &rarr;
+    <i>organization, harmony, </i> and <i>simplicity</i>.
+</p>
+<table align="center">
+<tr align="center">
+    <td><img src="https://place-hold.it/64/c9c9e2/1d1d21&text=wht_0&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/d3d3ed/16161a&text=wht_1&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/ddddf6/101014&text=wht_2&bold&fontsize=14"></td>
+    <td><img src="https://place-hold.it/64/e9e9fb/0b0b0f&text=wht_3&bold&fontsize=14"></td>
+</tr>
+<tr align="center">
+    <td>
+        <code>#c9c9e2</code><br>
+        <code>CR:9.33</code>
+    </td>
+    <td>
+        <code>#d3d3ed</code><br>
+        <code>CR:10.41</code>
+    </td>
+    <td>
+        <code>#ddddf6</code><br>
+        <code>CR:11.36</code>
+    </td>
+    <td>
+        <code>#e9e9fb</code><br>
+        <code>CR:12.63</code>
+    </td>
+</tr>
+</table>
+<!-- }}} -->
+<br><h3> Primary</h3>
 <!-- blue & orange {{{ -->
     <hr>
     <blockquote>
@@ -479,14 +534,6 @@
     </tr>
     </table>
 <!-- }}} -->
-</details>
-
-<!-- }}} -->
-
-<!-- 🚥 Signaling {{{ -->
-
-<details closed>
-<summary><h4> 🚥 Signaling</h4></summary>
 <!-- emerald & ruby {{{ -->
     <hr>
     <blockquote>
@@ -557,7 +604,7 @@
             <code>#5aba6d</code><br>
             <code>CR:6.26</code>
         </td>
-        <td><img src="https://place-hold.it/64/222536/5aba6d/&text=emrqq_2&bold&fontsize=14"></td>
+        <td><img src="https://place-hold.it/64/222536/5aba6d/&text=emr_2&bold&fontsize=14"></td>
         <td><img src="https://place-hold.it/64/222536/f07a88/&text=rby_2&bold&fontsize=14"></td>
         <td>
             <code>#f07a88</code><br>
@@ -590,6 +637,7 @@
     </tr>
     </table>
 <!-- <!-- }}} -->
+<br><h3> Signaling </h3>
 <!-- cyan & pink {{{ -->
     <br>
     <blockquote>
@@ -768,14 +816,6 @@
     </tr>
     </table>
 <!-- }}} -->
-</details>
-
-<!-- }}} -->
-
-<!-- ⚗️  Muted {{{ -->
-
-<details closed>
-<summary><h4> ⚗️  Muted</h4></summary>
 <!-- histidine {{{ -->
     <hr>
     <blockquote>
@@ -872,6 +912,7 @@
     </tr>
     </table>
 <!-- }}} -->
+<br><h3> Muted </h3>
 <!-- glutamic {{{ -->
     <br>
     <blockquote>
@@ -980,14 +1021,6 @@
     </tr>
     </table>
 <!-- }}} -->
-</details>
-
-<!-- }}} -->
-
-<!-- 👽 Grey {{{ -->
-
-<details closed>
-<summary><h4> 👽 Grey</h4></summary>
 <!-- grey {{{ -->
     <blockquote>
     <hr>
@@ -1037,6 +1070,7 @@
     </tr>
     </table>
 <!-- }}} -->
+<br><h3> Grey </h3>
 <!-- slate {{{ -->
     <br>
     <blockquote>
@@ -1196,12 +1230,8 @@
     </table>
 <!-- }}} -->
 </details>
-
-<!-- }}} -->
-
 <hr>
 
-</details>
 
 <!-- 🧠 Philosophy {{{ -->
 <details closed>
@@ -1451,7 +1481,7 @@ a whole that is more than the sum of its parts.
 
 <!-- =============================================================================== -->
 
-<!-- 🚢 Ports {{{ -->
+<!-- 🚢 Ports {{ -->
 <br>
 
 # 🚢 Ports

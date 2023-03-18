@@ -1519,14 +1519,34 @@
 <hr>
 <!-- }}} -->
 
-<!-- 🚢 Ports {{{ -->
+<!-- 🚢 Ports {{ -->
 <br>
 
 # 🚢 Ports
 
 ##### 🔧 System
 
-- [hyprland]()
+<ul>
+    <li><details><summary>hyprland</summary></details>
+    <code display="block" white-space="pre-wrap">
+        general {
+            border_size=3
+            gaps_in=13
+            gaps_out=0
+            no_cursor_warps=false
+            col.active_border=rgba(f2a170ee)
+            col.inactive_border=rgb(7492ef)
+            cursor_inactive_timeout=3
+            layout=master
+            resize_on_border=true
+        }
+    </code>
+    </li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
 <!-- - [cursors]() -->
 <!-- - [dunst]() -->
 <!-- - [GTK]() -->

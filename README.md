@@ -1,55 +1,55 @@
-<!-- <!-- ============================================================================ --> -->
-<!-- <!-- ☄️  Heading {{{ --> -->
-<!-- <h1 align="center"> ☄️ vagari ☄️ </h1> -->
-<!---->
-<!-- <a href="https://www.youtube.com/watch?v=YH3c1QZzRK4"> -->
-<!--     <p align="center" > -->
-<!--         <i>to wander, stroll about, roam, be unsettled, spread abroad</i> -->
-<!--         <br> -->
-<!--         <img -->
-<!--             src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue-decor.png?raw=true" -->
-<!--             width="50%" -->
-<!--             alt="Wanderers: a short film by Erik Wernquist" -->
-<!--             title="Wanderers: a short film by Erik Wernquist" -->
-<!--         > -->
-<!--     </p> -->
-<!-- </a> -->
-<!---->
-<!-- <p align="center"> -->
-<!-- <a href="https://github.com/nosvagor/vagari/discussions"> -->
-<!--     <img -->
-<!--         src="https://img.shields.io/github/discussions/nosvagor/vagari?color=7492ef&logo=github&labelColor=222536&logoColor=4a6be3&style=for-the-badge" -->
-<!--         title="alright then, keep your secrets" -->
-<!--     > -->
-<!-- </a> -->
-<!-- &nbsp; -->
-<!-- <a href="https://github.com/nosvagor/vagari/network/members"> -->
-<!--     <img -->
-<!--         src="https://img.shields.io/github/forks/nosvagor/vagari?color=a188df&logo=git&labelColor=222536&logoColor=7f61cd&style=for-the-badge" -->
-<!--         title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas..." -->
-<!--     > -->
-<!-- </a> -->
-<!-- &nbsp; -->
-<!-- <a href="https://github.com/nosvagor/vagari/contributors"> -->
-<!--     <img -->
-<!--         src="https://img.shields.io/github/contributors/nosvagor/vagari?color=85ba6d&logo=gitea&labelColor=222536&logoColor=48a95b&style=for-the-badge" -->
-<!--         title="gotta do the cooking by the book" -->
-<!--     > -->
-<!-- </a> -->
-<!-- &nbsp; -->
-<!-- <a href="https://github.com/nosvagor/vagari/issues"> -->
-<!--     <img -->
-<!--         src="https://img.shields.io/github/issues/nosvagor/vagari?color=f8b486&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge" -->
-<!--         title="this is not fine!!" -->
-<!--     > -->
-<!-- </a> -->
-<!-- </p> -->
-<!-- <!-- }}} -->
-<!-- <!-- ============================================================================ --> -->
-<!---->
-<!-- <details open> -->
-<!-- <summary><h2>🎨 Palette</h2></summary> -->
+<!-- ============================================================================ -->
+<!-- ☄️  Heading {{{ -->
+<h1 align="center"> ☄️ vagari ☄️ </h1>
 
+<a href="https://www.youtube.com/watch?v=YH3c1QZzRK4">
+    <p align="center" >
+        <i>to wander, stroll about, roam, be unsettled, spread abroad</i>
+        <br>
+        <img
+            src="https://github.com/nosvagor/vagari/blob/main/share/images/friedrich/vagari-large-blue-decor.png?raw=true"
+            width="50%"
+            alt="Wanderers: a short film by Erik Wernquist"
+            title="Wanderers: a short film by Erik Wernquist"
+        >
+    </p>
+</a>
+
+<p align="center">
+<a href="https://github.com/nosvagor/vagari/discussions">
+    <img
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=7492ef&logo=github&labelColor=222536&logoColor=4a6be3&style=for-the-badge"
+        title="alright then, keep your secrets"
+    >
+</a>
+&nbsp;
+<a href="https://github.com/nosvagor/vagari/network/members">
+    <img
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=a188df&logo=git&labelColor=222536&logoColor=7f61cd&style=for-the-badge"
+        title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas..."
+    >
+</a>
+&nbsp;
+<a href="https://github.com/nosvagor/vagari/contributors">
+    <img
+        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=85ba6d&logo=gitea&labelColor=222536&logoColor=48a95b&style=for-the-badge"
+        title="gotta do the cooking by the book"
+    >
+</a>
+&nbsp;
+<a href="https://github.com/nosvagor/vagari/issues">
+    <img
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f8b486&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge"
+        title="this is not fine!!"
+    >
+</a>
+</p>
+<!-- }}}
+<!-- ============================================================================ -->
+
+<!-- 🎨 Palette {{{ -->
+<details open>
+<summary><h2>🎨 Palette</h2></summary>
 <p align="center">
     <img
         src="https://github.com/nosvagor/vagari/blob/main/share/images/stack-v4.svg?raw=true"
@@ -57,9 +57,8 @@
         width="80%"
     >
 </p>
-
 <hr>
-<details><summary> Palette</summary>
+<details><summary> Palette Overview</summary>
 <!-- Palette {{{ -->
 <table align="center">
     <tr align="center">
@@ -414,7 +413,7 @@
 <!-- }}} -->
 </details>
 <details><summary> Palette + Commentary</summary>
-<h3> Base </h3>
+<h3>Bounds</h3>
 <!-- background {{{ -->
 <blockquote>
 <hr>
@@ -457,8 +456,6 @@
     </td>
 </tr>
 </table>
-<!-- }}} -->
-<!-- dark {{{ -->
 <br>
 <blockquote>
     These <b>dark</b> hues are utilized to give depth to
@@ -519,8 +516,6 @@
         </td>
     </tr>
 </table>
-<!-- }}} -->
-<!-- bright {{{ -->
 <br>
 <blockquote>
     Like the darker colors, these <b>bright</b> colors are meant to provide
@@ -635,7 +630,7 @@
 </tr>
 </table>
 <!-- }}} -->
-<br><h3> Primary</h3>
+<br><h3>Communicative</h3>
 <!-- blue & orange {{{ -->
     <hr>
     <blockquote>
@@ -825,6 +820,7 @@
     </tr>
     </table>
 <!-- }}} -->
+<br><h3>Signaling</h3>
 <!-- emerald & ruby {{{ -->
     <hr>
     <blockquote>
@@ -928,7 +924,6 @@
     </tr>
     </table>
 <!-- <!-- }}} -->
-<br><h3> Signaling </h3>
 <!-- cyan & pink {{{ -->
     <br>
     <blockquote>
@@ -1107,7 +1102,7 @@
     </tr>
     </table>
 <!-- }}} -->
-<br><h3> Muted </h3>
+<br><h3>Muted</h3>
 <!-- histidine {{{ -->
     <hr>
     <blockquote>
@@ -1312,7 +1307,7 @@
     </tr>
     </table>
 <!-- }}} -->
-<br><h3> Grey </h3>
+<br><h3>Grey</h3>
 <!-- grey {{{ -->
     <blockquote>
     <hr>
@@ -1522,7 +1517,47 @@
 <!-- }}} -->
 </details>
 <hr>
+<!-- }}} -->
 
+<!-- 🚢 Ports {{{ -->
+<br>
+
+# 🚢 Ports
+
+##### 🔧 System
+
+- [hyprland]()
+<!-- - [cursors]() -->
+<!-- - [dunst]() -->
+<!-- - [GTK]() -->
+<!-- - [eww]() -->
+
+##### 🪐 Apps
+
+- [<b>neovim</b>](https://github.com/nosvagor/vagari.nvim)
+- [kitty]()
+- [starship]()
+<!-- - [fzf]() -->
+<!-- - [bat]()  -->
+<!-- - [btop]() -->
+<!-- - [zsh-syntax-highlighting]() -->
+<!-- - [lazygit]() -->
+<!-- - [zathura]() -->
+<!-- - [Inkscape]() -->
+
+##### ✨ Web
+
+- [Firefox]()
+<!-- - [Dark Reader]() -->
+<!-- - [Vimium]() -->
+<!-- - [GitHub]() -->
+<!-- - [YouTube]() -->
+<!-- - [Twitter]() -->
+<!-- - [Monkeytype]() -->
+<br>
+<!-- }}} -->
+
+<!-- =============================================================================== -->
 
 <!-- 🧠 Philosophy {{{ -->
 <details closed>
@@ -1770,57 +1805,8 @@ a whole that is more than the sum of its parts.
 </details>
 <!-- }}} -->
 
-<!-- =============================================================================== -->
-
-<!-- 🚢 Ports {{ -->
-<br>
-
-# 🚢 Ports
-
-##### 🔧 System
-
-- [hyprland]()
-<!-- - [cursors]() -->
-<!-- - [dunst]() -->
-<!-- - [GTK]() -->
-<!-- - [eww]() -->
-
-##### 🪐 Apps
-
-- [<b>neovim</b>](https://github.com/nosvagor/vagari.nvim)
-- [kitty]()
-- [starship]()
-<!-- - [fzf]() -->
-<!-- - [bat]()  -->
-<!-- - [btop]() -->
-<!-- - [zsh-syntax-highlighting]() -->
-<!-- - [lazygit]() -->
-<!-- - [zathura]() -->
-<!-- - [Inkscape]() -->
-
-##### ✨ Web
-
-- [Firefox]()
-<!-- - [Dark Reader]() -->
-<!-- - [Vimium]() -->
-<!-- - [GitHub]() -->
-<!-- - [YouTube]() -->
-<!-- - [Twitter]() -->
-<!-- - [Monkeytype]() -->
-
-</details>
-<!-- }}} -->
-
 <!-- 🤝 Contributing {{{ -->
-<br>
-
-## 🤝 Contributing
-
-> First and foremost, thank you for considering contributing to this open
-> source project! Your input and contributions are invaluable to
-> us, and we're excited to collaborate with you. This section outlines the
-> steps you can take to get involved and contribute to the project. Any
-> contribution is welcome, no matter the size!
+<details closed><summary><h2>🤝 Contributing</h2></summary>
 
 ### Discussions Encouraged
 
@@ -1900,6 +1886,8 @@ returns.
 > There is certainly a low probability of large-scale success. However, there
 > is a high probability that participation will be a meaningful source for personal growth,
 > despite any relative metric that indicates failure.
+
+</details>
 
 <br>
 <p align="center">

@@ -39,7 +39,7 @@
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/issues">
     <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f8b486&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge"
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f2a170&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge"
         title="this is not fine!!"
     >
 </a>
@@ -1517,12 +1517,14 @@
 <!-- }}} -->
 </details>
 <hr>
+<br>
+</details>
 <!-- }}} -->
 
 <!-- 🚢 Ports {{ -->
-<br>
+<details closed>
+<summary><h2> 🚢 Ports </h2></summary>
 
-# 🚢 Ports
 > At this time, _vagari_ is merely an attempt to standardize my own colors and
 > configuration. Thus, most of the ports below will be links to my personal
 > configuration files.
@@ -1566,7 +1568,8 @@
 <!-- - [YouTube]() -->
 <!-- - [Twitter]() -->
 <!-- - [Monkeytype]() -->
-<br>
+
+</details>
 <!-- }}} -->
 
 <!-- =============================================================================== -->

@@ -18,28 +18,28 @@
 <p align="center">
 <a href="https://github.com/nosvagor/vagari/discussions">
     <img
-        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=7492ef&logo=github&labelColor=222536&logoColor=4a6be3&style=for-the-badge"
+        src="https://img.shields.io/github/discussions/nosvagor/vagari?color=7492ef&logo=github&labelColor=222536&logoColor=7492ef&style=for-the-badge"
         title="alright then, keep your secrets"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/network/members">
     <img
-        src="https://img.shields.io/github/forks/nosvagor/vagari?color=a188df&logo=git&labelColor=222536&logoColor=7f61cd&style=for-the-badge"
+        src="https://img.shields.io/github/forks/nosvagor/vagari?color=a188df&logo=git&labelColor=222536&logoColor=a188df&style=for-the-badge"
         title="I am tormented with an everlasting itch for things remote. I love to sail forbidden seas..."
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/contributors">
     <img
-        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=85ba6d&logo=gitea&labelColor=222536&logoColor=48a95b&style=for-the-badge"
+        src="https://img.shields.io/github/contributors/nosvagor/vagari?color=85ba6d&logo=gitea&labelColor=222536&logoColor=85ba6d&style=for-the-badge"
         title="gotta do the cooking by the book"
     >
 </a>
 &nbsp;
 <a href="https://github.com/nosvagor/vagari/issues">
     <img
-        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f2a170&logo=fireship&labelColor=222536&logoColor=ea834b&style=for-the-badge"
+        src="https://img.shields.io/github/issues/nosvagor/vagari?color=f2a170&logo=fireship&labelColor=222536&logoColor=f2a170&style=for-the-badge"
         title="this is not fine!!"
     >
 </a>

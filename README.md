@@ -1540,7 +1540,7 @@
     - see `general {...}` _(for borders)_ and `decoration {...}` _(for shadows)_
 - [dunst](https://github.com/nosvagor/dotfiles/blob/main/config/dunst/dunstrc)
     - see bottom of file _(underdeveloped, but it's a start)_
-- [eww]()
+- [<b>eww</b>](https://github.com/nosvagor/dotfiles/tree/main/config/eww)
 - [glava](https://github.com/nosvagor/dotfiles/tree/main/config/glava)
     - `#define COLOR (#6b88f4 * ((d / 180) + 0.69))` relevant color _(blu_2)_ for radial. bars is similar.
 - [starship](https://github.com/nosvagor/dotfiles/blob/main/config/starship.toml)
@@ -1561,7 +1561,7 @@
 
 #### ✨ Web
 
-- [Firefox]()
+- [<b>Firefox</b>](https://github.com/nosvagor/vagari.firefox)
 <!-- - [Dark Reader]() -->
 <!-- - [Vimium]() -->
 <!-- - [GitHub]() -->
@@ -1905,7 +1905,7 @@ returns.
 
 <br>
 <p align="center">
-    <a href="https://github.com/nosvagor/vagari.nvim/stargazers">
+    <a href="https://github.com/nosvagor/vagari/stargazers">
         <img
             src="https://img.shields.io/github/stars/nosvagor/vagari?color=f5c069&logo=apachespark&labelColor=222536&logoColor=f5b855&style=for-the-badge"
             title="what is love, baby don't hurt me"

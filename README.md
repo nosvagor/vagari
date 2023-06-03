@@ -1537,37 +1537,37 @@
 #### 🔧 System
 
 - [hyprland](https://github.com/nosvagor/dotfiles/blob/main/config/hypr/hyprland.conf)
-    - see `general {...}` _(for borders)_ and `decoration {...}` _(for shadows)_
+  - see `general {...}` _(for borders)_ and `decoration {...}` _(for shadows)_
 - [dunst](https://github.com/nosvagor/dotfiles/blob/main/config/dunst/dunstrc)
-    - see bottom of file _(underdeveloped, but it's a start)_
+  - see bottom of file _(underdeveloped, but it's a start)_
 - [<b>eww</b>](https://github.com/nosvagor/dotfiles/tree/main/config/eww)
 - [glava](https://github.com/nosvagor/dotfiles/tree/main/config/glava)
-    - `#define COLOR (#6b88f4 * ((d / 180) + 0.69))` relevant color _(blu_2)_ for radial. bars is similar.
+  - `#define COLOR (#6b88f4 * ((d / 180) + 0.69))` relevant color _(blu_2)_ for radial. bars is similar.
 - [starship](https://github.com/nosvagor/dotfiles/blob/main/config/starship.toml)
-    - see `setup {{...}}`
+  - see `setup {{...}}`
 
 #### 🪐 Apps
 
 - [<b>neovim</b>](https://github.com/nosvagor/vagari.nvim)
 - [kitty](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/kitty.conf)
-    - see `Color scheme: {{...}}` section and [tab_bar.py](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/tab_bar.py) _(fragile; definitely needs fixing)_
-<!-- - [lazygit]() -->
-<!-- - [fzf]() -->
-<!-- - [bat]()  -->
-<!-- - [btop]() -->
-<!-- - [zsh-syntax-highlighting]() -->
-<!-- - [zathura]() -->
-<!-- - [Inkscape]() -->
+  - see `Color scheme: {{...}}` section and [tab_bar.py](https://github.com/nosvagor/dotfiles/blob/main/config/kitty/tab_bar.py) _(fragile; definitely needs fixing)_
+- [zsh-syntax-highlighting](https://github.com/nosvagor/dotfiles/blob/main/config/zsh/vagari-highlights.zsh)
+  <!-- - [lazygit]() -->
+  <!-- - [fzf]() -->
+  <!-- - [bat]()  -->
+  <!-- - [btop]() -->
+  <!-- - [zathura]() -->
+  <!-- - [Inkscape]() -->
 
 #### ✨ Web
 
 - [<b>Firefox</b>](https://github.com/nosvagor/vagari.firefox)
-<!-- - [Dark Reader]() -->
-<!-- - [Vimium]() -->
-<!-- - [GitHub]() -->
-<!-- - [YouTube]() -->
-<!-- - [Twitter]() -->
-<!-- - [Monkeytype]() -->
+  <!-- - [Dark Reader]() -->
+  <!-- - [Vimium]() -->
+  <!-- - [GitHub]() -->
+  <!-- - [YouTube]() -->
+  <!-- - [Twitter]() -->
+  <!-- - [Monkeytype]() -->
 
 </details>
 <!-- }}} -->
@@ -1787,9 +1787,7 @@ maths.
 
 ### Collaboration
 
-> id est, _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_**
-> <br>
-> &emsp;&emsp;&emsp;&emsp; i.e., _we do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**.
+> id est, _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_** > <br> > &emsp;&emsp;&emsp;&emsp; i.e., _we do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**.
 
 The above phrase is the best simple representation of the core philosophy of
 _vagari_.

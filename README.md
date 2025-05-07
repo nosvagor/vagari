@@ -1694,7 +1694,7 @@ ultimately style (the result of the process of fashion) is created as a means to
 <details open>
 <summary><h2>👑 Principles</h2></summary>
 
-### Sex
+### Sex (Simplicity)
 
 > i.e., the ["Swedish number for six"](https://youtu.be/Iwpi1Lm6dFo?t=777), or the
 > maximum number of objects in focus at a given time.
@@ -1722,13 +1722,15 @@ The essential idea here involves minimizing the impact of anything that _stresse
 - Maximum of [**6** _objects_](https://youtu.be/Iwpi1Lm6dFo?t=777) in a _scene_, i.e., 6 _things_ that require increased discernment.
 - Maximum of [**3** _layers_](https://youtu.be/CFRhGnuXG-4) to an _object_, i.e., 3 _variations_, _choices_... or better... _dimensions_ to an object.
 
+If something grows in complexity, then one ought to chunk or reframe the problem to view in a simpler way.
+
 **Ideally,** properly embracing this principle ought to result in an easier to
 manage [punctuated equilibrium](https://youtu.be/qSjiFxIHknk) between
 [abstraction and coupling](https://youtu.be/rQlMtztiAoA) (a tradeoff that
 exists in idea-space as well as code) thanks to the embrace of evolution, powered by
 sexual selection of interested minds.
 
-### Saga
+### Saga (Meaning)
 
 > i.e., [imagination is the key to cooperation](https://youtu.be/LLucUmQVBAE); shared exploration of fiction is how we create useful norms.
 
@@ -1756,14 +1758,14 @@ Related principles and concepts not already mentioned:
 proudly display and share _vagari_, resulting in a positive feedback loop of
 _meaning_ via the injection of _new ideas_, provided by _new users_.
 
-### Complexity
+### Embracing Complexity
 
 > i.e., a dance involving [computational
 > irreducibly](https://youtu.be/mfW7pvlrzyM),
 > [information](https://youtu.be/v68zYyaEmEA?t=485), and
 > [chaos](https://github.com/nosvagor/vagari#chaos-is-not-chaotic).
 
-Particularly, _vagari_'s philosophy is obsessed with complex systems. Because
+Particularly, _vagari_'s philosophy is obsessed with dealing with _complex_ systems. Because
 of this, the embrace of chaos is at the core of the design philosophy. _vagari_
 is not looking for _the answer_&mdash;_vagari_ is looking for **an answer**;
 always open to a new answer, or a new way of approaching problems.
@@ -1771,10 +1773,7 @@ always open to a new answer, or a new way of approaching problems.
 The starting point of many decisions usually draw upon inspiration from the
 apparent universality of various mathematical concepts or patterns (e.g.,
 [fractals](https://youtu.be/-RdOwhmqP5s?t=675) and [holomorphic
-dynamics](https://youtu.be/LqbZpur38nw)), hopefully resulting in the injection
-of mathematical meaning (e.g., [the logistic map](https://youtu.be/ovJcsL7vyrk)
-and [Feigenbaum constants](https://en.wikipedia.org/wiki/Feigenbaum_constants) for
-some contrast ratios).
+dynamics](https://youtu.be/LqbZpur38nw).
 
 > "There are no separate systems. The world is a continuum. Where to draw a
 > boundary around a system depends on the purpose of the discussion."
@@ -1782,10 +1781,10 @@ some contrast ratios).
 
 **Ideally,** properly embracing this principle means a embarking on constant
 exploration of alternative approaches via the willingness depart from the
-respectable (but not holy) constraints initially set by (ideally) interesting
+respectable (but not holy) constraints initially set by interesting
 maths.
 
-### Collaboration
+### Open Collaboration
 
 > id est, _[ignoramus et ignorabimus](https://youtu.be/HeQX2HjkcNo)_, **_tamen id conamur_** > <br> > &emsp;&emsp;&emsp;&emsp; i.e., _we do not know and will not know_, **_[yet we try regardless](https://youtu.be/tye525dkfi8)_**.
 
